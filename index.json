@@ -1,1 +1,14 @@
-
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-17T00:00:00Z",
+  "animes": [
+    {
+      "id": "relife",
+      "title": "ReLIFE",
+      "cover": "https://cdn-sv01.maximaimg.online/stream/r/relife/cover.jpg",
+      "year": 2016,
+      "type": "TV",
+      "file": "anime/relife.json"
+    }
+  ]
+}
