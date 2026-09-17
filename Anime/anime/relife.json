@@ -32,7 +32,7 @@
           "sortOrder": 1,
           "title": "Episódio 1",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/ciwImWg65Dxtd2Jf5vaQld93qNY.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -54,7 +54,7 @@
           "sortOrder": 2,
           "title": "Episódio 2",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/wCrbZrj5xBvCQFDhGmRt4tJtzT8.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -76,7 +76,7 @@
           "sortOrder": 3,
           "title": "Episódio 3",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/5LeYk0uLKLo0KRB9A7Dke5W20W8.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -98,7 +98,7 @@
           "sortOrder": 4,
           "title": "Episódio 4",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/hsuu0lW5qrcpzdmv5XLq0sZbMYl.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -120,7 +120,7 @@
           "sortOrder": 5,
           "title": "Episódio 5",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/9vS8fos4hwr1zfL5aqfanxjOnOw.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -142,7 +142,7 @@
           "sortOrder": 6,
           "title": "Episódio 6",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/zosMF9c8smttyO7OQscmMoYeI2O.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -164,7 +164,7 @@
           "sortOrder": 7,
           "title": "Episódio 7",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/4TEa3BCqzFxMYcZchbqaYRy35tB.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -186,7 +186,7 @@
           "sortOrder": 8,
           "title": "Episódio 8",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/7Km9Im90YgrccPnqrXUeeYJUDgd.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -208,7 +208,7 @@
           "sortOrder": 9,
           "title": "Episódio 9",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/ukbTW0wdF0UWIufPHaHtEtyEGIZ.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -230,7 +230,7 @@
           "sortOrder": 10,
           "title": "Episódio 10",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/sbmGHHCdH1fuAP0moa9l7mIRKlx.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -252,7 +252,7 @@
           "sortOrder": 11,
           "title": "Episódio 11",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/dx0tSOUHMA5bZxerOxSq1bhBf9r.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -274,7 +274,7 @@
           "sortOrder": 12,
           "title": "Episódio 12",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/zIL7sQoe0WUI0khyWazZsNyn7TT.jpg",
           "filler": false,
           "recap": false,
           "versions": {
@@ -296,7 +296,7 @@
           "sortOrder": 13,
           "title": "Episódio 13",
           "overview": "",
-          "cover": "",
+          "cover": "https://image.tmdb.org/t/p/w500/1w7OF08sk8kFurJFCQM9r7WS6Wj.jpg",
           "filler": false,
           "recap": false,
           "versions": {
