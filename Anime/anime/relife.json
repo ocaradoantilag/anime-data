@@ -1,1 +1,318 @@
-
+{
+  "schemaVersion": 1,
+  "id": "relife",
+  "updatedAt": "2026-09-17T00:00:00Z",
+  "title": {
+    "romaji": "ReLIFE",
+    "english": "ReLIFE",
+    "japanese": "ReLIFE",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/oavCFoklxWAqPHSbuPaDZCZQ0gB.jpg",
+    "banner": ""
+  },
+  "information": {
+    "type": "TV",
+    "year": 2016,
+    "status": "FINISHED",
+    "genres": [],
+    "synopsis": ""
+  },
+  "parts": [
+    {
+      "id": "relife-season-1",
+      "type": "season",
+      "number": 1,
+      "title": "Temporada 1",
+      "episodes": [
+        {
+          "id": "relife-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Episódio 1",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Episódio 2",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Episódio 3",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Episódio 4",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Episódio 5",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Episódio 6",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Episódio 7",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Episódio 8",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Episódio 9",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Episódio 10",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Episódio 11",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Episódio 12",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        },
+        {
+          "id": "relife-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Episódio 13",
+          "overview": "",
+          "cover": "",
+          "filler": false,
+          "recap": false,
+          "versions": {
+            "subbed": {
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/relife/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
