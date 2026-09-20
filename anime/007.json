@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "007",
+  "updatedAt": "2026-09-20T03:52:25Z",
+  "title": {
+    "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
+    "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+    "japanese": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ar1cYNAAlhM0vFpJrAl8JIruWEF.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "60460",
+    "tmdb": "280049",
+    "imdb": "tt38646634"
+  },
+  "information": {
+    "synopsis": "Kenichi Yamada, um jogador veterano dos MMORPGs, é transportado para o mundo de um jogo após escolher o desafiador modo “Infernal” e a classe Invocador. Reencarnado como Allen, filho de uma família de servos, ele usa suas memórias e habilidades para superar o modo Infernal, desvendar os segredos de sua classe e mudar o destino de sua nova família.",
+    "year": 2026,
+    "score": 7.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "Yokohama Animation Lab"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "007-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "007-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "RENASCIDO NO NÍVEL MAIS BAIXO",
+          "overview": "Um jogador hardcore renasce ao escolher jogar no modo Inferno. Agora ele precisa descobrir como funcionam suas habilidades de invocação. Enquanto ainda é um bebê.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/11q69qAKej3YxEn5phl0YOQlZSv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/XtyQ0tlojJ4rcXz31o2wPEoWYojkjs"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "A CERIMÔNIA DE AVALIAÇÃO",
+          "overview": "Allen mal imagina que a Cerimônia de Avaliação irá expor a brutal realidade de jogar no Modo Inferno.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/61JZqIjoluiEmOEdylPQfT1iNnq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/rDOOk6jOzy5wIB67AXqSnNptce33vQ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "DIFICULDADE",
+          "overview": "Allen experimenta com suas habilidades de Invocador, sem saber que uma crise iminente o lembrará de que o mundo que ele trata como um jogo é uma dura realidade para os outros.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/9vKPBwWbkeWXdLb96RKFdZyieI0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/kP5vlXklAYsBvIo2bpVVURDUr6qIVK"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "ALLEN REVELA TUDO",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/9DtJWWQvX04thPrsTbcrtvlhOBV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/wXmkRKp3eB02NL50Amvv9WtljTGZbB"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O POTENCIAL DE UM INVOCADOR",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/gfPuPHHOEpJLnvP236XUHXGDoDH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/zwDTyMdzX4gWBFjyvwpExEvur7ovix"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "AVENTURA AO AR LIVRE",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/czFdPjNa7MUKYGRJPw6ipwug4qd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/Qb2ZcDr8RqueI34wnmtWo7ikJg7gpw"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Episódio 7",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/aLmCeK2zxO8FHyM0PqGt2c1GRyM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/PafJkzbq7xQ7j8bnWaRqymQ0XMZrao"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Episódio 8",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/801BQAj1EICQ1A8S8OhZLQmL8MY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/9qf20eWSJATzCr5FZMq5AQMqu4IYn5"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Episódio 9",
+          "overview": "Allen percebe que ainda tem um longo caminho a percorrer depois que um monstro de nível B ataca a cidade. Se quiser enfrentar os desafios que virão, ele precisa desbloquear o verdadeiro potencial de sua classe.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/rURj4QOs6F6fzSQlkfck1CrC5n.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/D6EoDpyEZskSeRWCwRmDww1hAUFzOL"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Episódio 10",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/bBjJSd20JuDgKCRmH3ikqeryqNk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/Zac5QeP9k8XTHOQVPVFHlUsGEjTTGc"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Episódio 11",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/wGpRdsUqTYvtSuJdlWG4Qe3ma1T.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/6bPuacOIgi3Zk47u7Wg98FQyvkrczF"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "007-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Episódio 12",
+          "overview": "",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/hYviedK1726OQkL7P81ECm8PGeg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/2AooZ6b1IZDKtHMGnBSGmA9IVTEM2A"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
