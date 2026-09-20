@@ -3,37 +3,38 @@
   "id": "006",
   "updatedAt": "2026-09-20T03:30:44Z",
   "title": {
-    "romaji": "天幕のジャードゥーガル",
-    "english": "",
-    "japanese": "",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "japanese": "天幕のジャードゥーガル",
     "synonyms": []
   },
   "images": {
-    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/A62nNZKHo1Ee8AjXHFAu6ykM66F.jpg",
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
     "background": [
       "https:\/\/image.tmdb.org\/t\/p\/w1280\/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg"
     ]
   },
   "externalIds": {
-    "mal": "",
+    "mal": "61483",
     "tmdb": "288971",
     "imdb": "tt39281887"
   },
   "information": {
-    "synopsis": "O momento: século XIII. O lugar: yeke Mongγol ulus, o maior império que o mundo já conheceu. A mulher: Fátima, vinda da Pérsia, onde as técnicas medicinais e o conhecimento científico superavam qualquer precedente. O desejo de Fátima por um lugar onde ela pudesse colocar seus conhecimentos à mostra a leva para o palácio dos mongóis, onde ela vira subordinada de Töregene, a sexta esposa de Ögedei, o segundo grande Khan. Ela é uma mulher poderosa que tem sentimentos confusos sobre o rumo que o império está tomando. Essas duas mulheres são o eixo que farão as políticas do palácio e, em breve, do próprio mundo, mudarem...",
+    "synopsis": "Depois de perder a mãe e a terra natal, o desespero de Sitara se transforma em determinação com o poder do conhecimento. Novas possibilidades se abrem quando uma família de estudiosos a acolhe, aprofundando sua formação. Enquanto isso, o Império Mongol de Genghis Khan conquista nação após nação, aproximando-se do novo lar de Sitara. Depois que o Quarto Príncipe do império a leva cativa, uma chama de vingança se acende.",
     "year": 2026,
-    "score": 8.2,
+    "score": 8.4,
     "ageRating": "",
     "type": "TV",
     "status": "Finalizado",
-    "duration": "",
-    "season": "",
+    "duration": "23 min per ep.",
+    "season": "Verão",
     "aired": "",
-    "studios": [],
+    "studios": [
+      "Science SARU"
+    ],
     "genres": [
-      "Animação",
-      "Drama",
-      "War & Politics"
+      "Aventura",
+      "Drama"
     ],
     "themes": [],
     "episodes": 12
@@ -332,5 +333,24 @@
         }
       ]
     }
-  ]
+  ],
+  "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+  "synopsis": "Depois de perder a mãe e a terra natal, o desespero de Sitara se transforma em determinação com o poder do conhecimento. Novas possibilidades se abrem quando uma família de estudiosos a acolhe, aprofundando sua formação. Enquanto isso, o Império Mongol de Genghis Khan conquista nação após nação, aproximando-se do novo lar de Sitara. Depois que o Quarto Príncipe do império a leva cativa, uma chama de vingança se acende.",
+  "description": "Depois de perder a mãe e a terra natal, o desespero de Sitara se transforma em determinação com o poder do conhecimento. Novas possibilidades se abrem quando uma família de estudiosos a acolhe, aprofundando sua formação. Enquanto isso, o Império Mongol de Genghis Khan conquista nação após nação, aproximando-se do novo lar de Sitara. Depois que o Quarto Príncipe do império a leva cativa, uma chama de vingança se acende.",
+  "year": 2026,
+  "score": 8.4,
+  "ageRating": "",
+  "type": "TV",
+  "status": "Finalizado",
+  "duration": "23 min per ep.",
+  "studios": [
+    "Science SARU"
+  ],
+  "season": "Verão",
+  "aired": "",
+  "genres": [
+    "Aventura",
+    "Drama"
+  ],
+  "themes": []
 }
