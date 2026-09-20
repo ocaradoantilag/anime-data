@@ -1,14 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T00:00:00Z",
+  "updatedAt": "2026-09-20T02:02:49Z",
   "animes": [
     {
       "id": "relife",
       "title": "ReLIFE",
-      "cover": "https://cdn-sv01.maximaimg.online/stream/r/relife/cover.jpg",
+      "cover": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/relife\/cover.jpg",
       "year": 2016,
       "type": "TV",
-      "file": "anime/relife.json"
+      "file": "anime\/relife.json"
+    },
+    {
+      "id": "006",
+      "title": "Tenmaku no Jaadugar",
+      "cover": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx190569-KnCQLI3Z8hPX.jpg",
+      "year": 2026,
+      "type": "TV",
+      "file": "anime\/006.json"
     }
   ]
 }
