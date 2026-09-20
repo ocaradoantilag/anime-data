@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T03:41:15Z",
+  "updatedAt": "2026-09-20T03:52:27Z",
   "animes": [
     {
       "id": "relife",
@@ -18,6 +18,15 @@
       "type": "TV",
       "episodes": 12,
       "file": "anime\/006.json"
+    },
+    {
+      "id": "007",
+      "title": "Hell Mode: O Gamer Hardcore Domina Outro Mundo com um Balanceamento Lixo",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ar1cYNAAlhM0vFpJrAl8JIruWEF.jpg",
+      "year": 2026,
+      "type": "TV",
+      "episodes": 12,
+      "file": "anime\/007.json"
     }
   ]
 }
