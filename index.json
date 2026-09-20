@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "1789881567365",
+  "updatedAt": "2026-09-20T02:21:22Z",
   "animes": [
     {
       "id": "relife",
@@ -9,6 +9,15 @@
       "year": 2016,
       "type": "TV",
       "file": "anime\/relife.json"
+    },
+    {
+      "id": "006",
+      "title": "Tenmaku no Jaadugar",
+      "cover": "https:\/\/cdn.myanimelist.net\/images\/anime\/1098\/158891l.jpg",
+      "year": 2026,
+      "type": "TV",
+      "episodes": 0,
+      "file": "anime\/006.json"
     }
   ]
 }
