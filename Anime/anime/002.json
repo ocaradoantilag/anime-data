@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "hanazakari-no-kimitachi-e",
+  "updatedAt": "2026-09-17T15:00:00Z",
+  "title": {
+    "romaji": "Hanazakari no Kimitachi e",
+    "english": "Hana-Kimi",
+    "japanese": "花ざかりの君たちへ",
+    "synonyms": [
+      "HanaKimi",
+      "The Thirsty Moon",
+      "The Cage of Summer",
+      "Natsu no Ori",
+      "Kawaki no Tsuki"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/wCZn0Is62Tx4HC9WuFGYysjeHCx.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/4OvVR0takLMEP7pKssP3QjkOtzj.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "58861",
+    "tmdb": "254492",
+    "imdb": ""
+  },
+  "information": {
+    "synopsis": "A estrela nipo-americana do atletismo Mizuki conseguiu se transferir para um colégio no Japão... mas não para qualquer escola! Para ficar perto de seu ídolo, o saltador Izumi Sano, ela vai para uma escola só para homens... e se disfarça de garoto! Mas, como quis o destino, eles são mais do que colegas de classe... são colegas de quarto! Agora, Mizuki deve manter seu segredo na sala de aula, no vestiário e em seu próprio quarto. E seus colegas de classe, e a enfermeira da escola, devem lidar com um novo aluno transferido que pode fazê-los questionar sua própria orientação...",
+    "year": 2026,
+    "score": 6.9,
+    "ageRating": "14",
+    "type": "TV",
+    "status": "finished",
+    "episodes": 12,
+    "duration": "24 min",
+    "studios": [
+      "Signal.MD"
+    ],
+    "season": "Winter",
+    "aired": "2026-01-04",
+    "genres": [
+      "Romance"
+    ],
+    "themes": [
+      "Crossdressing",
+      "Polígono do Amor",
+      "Escola"
+    ]
+  },
+  "parts": [
+    {
+      "id": "season-1",
+      "title": "Hanazakari no Kimitachi e",
+      "type": "TV",
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "finished",
+      "episodeCount": 12,
+      "duration": "24 min",
+      "episodes": [
+        {
+          "id": "hanazakari-no-kimitachi-e-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Por favor, seja meu amigo!",
+          "overview": "Ashiya Mizuki, uma garota que vive nos EUA, se matricula em um colégio japonês para conhecer seu ídolo.",
+          "cover": "https://image.tmdb.org/t/p/w500/zuQPtm67NRoh6YeBMjEy6xhCTVz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/41mrub93s2uu6g3/01.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Quero estar com ele",
+          "overview": "Mizuki, ainda preocupada com a descoberta de Umeda, tenta entender por que Sano está evitando ela.",
+          "cover": "https://image.tmdb.org/t/p/w500/1hL0jdLDpXjE9vG57kfsNk6ysgm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/bkh7s8x882lxtmq/02.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Eu não vou perder!",
+          "overview": "Mizuki tem dificuldade de restaurar sua amizade com Sano depois de uma briga, e Nakatsu toma uma decisão.",
+          "cover": "https://image.tmdb.org/t/p/w500/wnCgScYBJOvF57w3VMmOLZIkgoQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/e0p3s020bvs6jbi/03.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "A fonte da energia",
+          "overview": "Kagurazaka, rival de Sano, aparece fazendo pouco caso dele. Mizuki se irrita, e tenta animar Sano.",
+          "cover": "https://image.tmdb.org/t/p/w500/vsokzqWh0OPybLBM94HaNGMHZ78.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/eibt9p55n47wp3m/04.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Será que alguém me odeia?",
+          "overview": "Ainda em choque pela noite anterior, Mizuki encontra tachinhas nos sapatos: um sinal de que alguém a odeia.",
+          "cover": "https://image.tmdb.org/t/p/w500/dHlbF8H0SuRaOQVN8tYNYlDvGJO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/eeor0plzu11mme4/05.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Meu irmão tá vindo!",
+          "overview": "Mizuki tem que esconder seu segredo do irmão, enquanto encoraja Sano a treinar para voltar a competir.",
+          "cover": "https://image.tmdb.org/t/p/w500/w2xWddCeZ52a0es9uYr20fabuOD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/1n8uuoxrf3rkjgh/06.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Eu sou homem, afinal!",
+          "overview": "O dormitório fecha para reforma, e Mizuki precisa de um lugar para ficar para não ter que voltar aos EUA.",
+          "cover": "https://image.tmdb.org/t/p/w500/n6JyBtkOgBbuXELO6tibO96Wsmj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/x3z4npdmdz42x7h/07.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Não podemos ser namorados, nem nada",
+          "overview": "Mizuki e Sano sentem certa atração, mas nenhum dos lados sabe exatamente que sentimento é esse.",
+          "cover": "https://image.tmdb.org/t/p/w500/uoTZtwZbkanjDAiHqo1arQFTj2H.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/00nocua53svzzgq/08.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "As coisas podem continuar assim?",
+          "overview": "Tamami revela para Mizuki que quer se declarar para Sano, e Makita segue determinado a conquistá-la.",
+          "cover": "https://image.tmdb.org/t/p/w500/mcQV3JpAaqWA2o8HxweJwjcVHyF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/fed78juvswxbq8t/09.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Eu não fico bem vestido de mulher!",
+          "overview": "O festival escolar da Academia Osaka, consistindo numa batalha entre os dormitórios, tem início.",
+          "cover": "https://image.tmdb.org/t/p/w500/6aKCvkYkgIMSwQYCNlReULELZOD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/ax2hz3dwqgspttw/10.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Nanba-senpai?",
+          "overview": "A briga de galo começa, e apesar do início forte, Mizuki é derrubada por um oponente do dormitório 1.",
+          "cover": "https://image.tmdb.org/t/p/w500/paIx647sFzi9Qdh0KImnMfTIXM9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/8ikpkcnment00u3/11.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "hanazakari-no-kimitachi-e-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Foi igual comigo",
+          "overview": "O festival escolar chega ao clímax com o concurso de beleza e os 2000 metros, mas Mizuki corre perigo.",
+          "cover": "https://image.tmdb.org/t/p/w500/rDBWuwPjIHY2sL8FUU9fzGMCOiq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/dzry6frrtv6qk0w/12.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
