@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T03:52:27Z",
+  "updatedAt": "2026-09-21T00:23:25Z",
   "animes": [
     {
       "id": "relife",
@@ -27,6 +27,18 @@
       "type": "TV",
       "episodes": 12,
       "file": "anime\/007.json"
+    },
+    {
+      "id": "008",
+      "title": "O trabalho mais forte aparentemente não é o de um herói ou de um sábio, mas de um avaliador (provisório)!",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/87ZIlbgDSVMCN9ThYHjxJIhAyg9.jpg",
+      "year": 2026,
+      "type": "ONA",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime\/008.json"
     }
   ]
 }
