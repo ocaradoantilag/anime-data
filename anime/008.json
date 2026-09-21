@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "id": "008",
+  "updatedAt": "2026-09-21T00:23:21Z",
+  "title": {
+    "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "english": "O trabalho mais forte aparentemente não é o de um herói ou de um sábio, mas de um avaliador (provisório)!",
+    "japanese": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+    "synonyms": [
+      "The strongest job is apparently not a hero or a sage",
+      "but an appraiser (provisional)!"
+    ]
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/87ZIlbgDSVMCN9ThYHjxJIhAyg9.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/8nKINQCBmp3uvA393G8VIc6wOub.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "62825",
+    "tmdb": "303460",
+    "imdb": ""
+  },
+  "information": {
+    "synopsis": "Hibiki, um estudante do ensino médio que foi repentinamente transferido para outro mundo, vagueia sozinho pelas vastas pastagens de um mundo de fantasia onde vivem monstros. Tudo o que ele tem são habilidades que não são de combate, como “Avaliação”! De uma situação desesperadora, ele é salvo por encontros, e suas habilidades todo-poderosas florescem! Um outro conto de aventura mundial de fraudes de reversão milagrosas estourou!",
+    "year": 2026,
+    "score": 5.7,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Studio Flad"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "008-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "008-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "The Tutorial Is Already Running",
+          "overview": "Manabe Hibiki suddenly finds himself in an isekai. After finally getting out of a maze, he meets Emalia.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/79lVDfLJ17gFJeeLyOjQjUVCiwv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/5qYiBP153XI6XWU4S7GGYDUxQPJLC9"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "I'd Advise Against Solo Combat",
+          "overview": "When the Tutorial skill levels up, Hibiki loses his \"Guide.\" But he slowly learns how to do things on his own.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/dZ7qG0ulfAe4ZdSbtTb0iPkPNcz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/6J8D32DOVQerHC8QbxArU2NBo4N0JR"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "This Is Unprecedented",
+          "overview": "Hibiki gains two companions, Claude and Lillian. And apparently the Tutorial skill is incredibly good.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ww5TPWeZQ9l78HO83LOuKe1uSZc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/sh2NkdljDnFqu7k9v9c9p0sDA1qoZg"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Training Is the Only Way",
+          "overview": "Vene teaches Hibiki and Lillian the basics of magic. After ages, Hibiki manages to learn... a cleaning spell.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/rBAe0997ACgz1wZwnORBXV4F786.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/3faGJZsU08RYZDERqqRVrzXXcD5vgq"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "That Looks Absurdly Good on You",
+          "overview": "Hibiki puts on girls clothes and looks really good in them. But he is doing that just to catch a thief!",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3unXakOK7I6jFR5uHGIgnlAeqGX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/JLM6ezPD6yk1tjoHEgK7z9PH6Uwf1a"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "I Recommend Using Summon Sacred Beast",
+          "overview": "Ivell sends Hibiki's party deeper into the woods, and Hibiki gets mortally wounded. Can't anyone help?!",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/f8kPvoEGBXLkekqgf0ay77DNUOy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/mojcjbH0qu8SWNLp3bIXN7Ssc8vnms"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Please Adhere to the Usage Instructions When Using It",
+          "overview": "Sapo-chan announces that Enlightened Mode of the Expert Eye is activated, but how can it help Claude?",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/hvPRWt8zDGphvFRBESjKLICDnPX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/U80nBaYNzMx2qcjbKfmtvafAzjvjBd"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Today's Temperature Is 39 Degrees",
+          "overview": "It's so hot that everyone is suffering, especially Claude. Hibiki sets out to find a way to cool them down.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/5dTyq9eL1NgJGNUMZeAluiTXkjz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/SeDAa3ILccde9hVsEXPfUdCOMxOoZ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Acquired Master of Walking Into Traps",
+          "overview": "Hibiki and party join Fauna in trying to vanquish an endless undead horde to save a village.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/771s1CljVrUIcZN4LXU2V7sHGU0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/h0XDxUCykCTAZG1s1SKpJQdNdOe9OQ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "I Cannot Answer That Kind of Question",
+          "overview": "The party made it to the northern dungeon. But right before they enter they're talking about... underpants?",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/fLGuDVG7gU3LFOiBdHNO5aYo69Y.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/CZrHrPMzPDvKwTYlqj4fwzKn3j9zKG"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "This Just Barely Isn't Cheating",
+          "overview": "Hibiki finds out that he can actually copy\/paste rented skills and questions if that's not cheating.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/yX2LRy9i15rjOJD2mvNHCSqg8NU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/JRqMBK8IAHDG0FERXZCjY408NL6md8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "008-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "The Connection Isn't Severed",
+          "overview": "Hibiki is all alone and has to face Ivell who is out for blood. She even reduces all his levels down to 1...",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/rnPUcaQnlxT2SVFSzYWR8ANAZfx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/RbBm3Hmt8gU3o7sOmCesP4xUe2Zc5d"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
