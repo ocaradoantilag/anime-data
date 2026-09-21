@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "012",
+  "updatedAt": "2026-09-21T20:03:45Z",
+  "title": {
+    "romaji": "Hime Kishi wa Barbaroi no Yome",
+    "english": "The Warrior Princess and the Barbaric King",
+    "japanese": "姫騎士は蛮族の嫁",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx182483-La7chs6htDWr.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/xVRpdsYlQR6hsapwFbwxVnFXDBH.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "60028",
+    "tmdb": "273467",
+    "imdb": "tt36593277"
+  },
+  "information": {
+    "synopsis": "Serafina de Lavillant, a cavaleira mais forte do oeste, foi enviada para derrotar as tribos bárbaras do leste. No entanto, depois de falhar na missão de forma humilhante, ela é capturada e presa. Com a horrível derrota e as preocupações com as torturas ela terá que passar, ela pede para ser morta. Para sua surpresa, ao invés de ter algum membro do corpo arrancado, a única coisa que líder da tribo quer é pedir sua mão em casamento! Será que Serafina passará por um casamento arranjado cruel e abusivo? Ou ela descobrirá que essas tribos não são bárbaras como ela foi levada a acreditar?",
+    "year": 2026,
+    "score": 6.9,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Jumondou"
+    ],
+    "genres": [
+      "Comédia",
+      "Ecchi",
+      "Fantasia",
+      "Romance",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "012-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "012-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A princesa guerreira derrotada, levada cativa",
+          "overview": "Serafina, a knight from the Illdoren Kingdom fighting in an eastern expedition, meets her match.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/2x1YW3lLKX9U2A7kK6YcovNbOub.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/RgpRGxBCokq3bqFahy70nblg7l60Ma"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Medo do desconhecido",
+          "overview": "Veor shows Serafina a small part of his life, leading to no small bit of culture shock.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/1NmSX9Gpuh7BoVpFh6jWC6LhCBX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/bQbbXLE9Jw2z2tfL5mq9Am8QWgjn0d"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Ser um guerreiro é ser um hipócrita",
+          "overview": "Veor intends on introducing Sera to more of the tribe, but the cultural exchange is suddenly interrupted.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/4diwccMl3bcEcvTG8YApQ2uvIok.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/EMeXe7DKvYIRUtKXMmqLTnTJMUYwRZ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Uma festa com bebidas dissipa o nevoeiro",
+          "overview": "Sera is introduced to the chiefs of the other tribes, who are not what she expected.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3r42i5eQQQ7YxXmaihjFu709kBC.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/UEnjUMWwQ2MUTZTVk6LHVRnj9kKezT"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Mãos que oram por conflitos futuros",
+          "overview": "A party headed by a retinue priest from the eastern expedition shows up, looking to \"rescue\" Sera.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/8TIB6Ko5Qdfgb5IzjsUdl0hXVkn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/6sd4Q3mci009WuK4SRdHMoy9tEfDsT"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Desastres provocados pelo homem",
+          "overview": "Sera works with Veor and the barbarians to overcome the Fiend, before having an unexpected reunion.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/yU8PqPP4cXZqeyYD5TxDWzjc5k4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/BlXF1tV7N6OllmHXAJT3A502JYyTGO"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Fluxos para purificar a corrupção",
+          "overview": "Sera and Malcius witness the ritual to undo the damage caused by the Fiend.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/7XRCEQc47UjHy0T51SgVWA0GVsH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/45kTTZ6jLhfpnjreQqICTCQSqaCEua"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Um contrato em forma de colar",
+          "overview": "After her engagement necklace comes off, Sera tries to find a way to put back on.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/txTylloCKgqSKG4mDMxBHuzXfJ4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/IewitN5Q94ByF58s5dfwWvvn13198y"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Visões na balança da alma",
+          "overview": "With Sera feeling conflicted, Veor offers a suggestion to help her gain perspective.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/wRFCOhlwSwsZ8KxeGOynNbMjtE3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/piolkNZNaseXP6uoemBt4GHClr8mzN"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O vapor vela o sopé",
+          "overview": "Sera and her group arrive at the Quefto city of Furnace Ridge.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/fqvpGs2iTQJreSVrCOzmZFr8Fbo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/wDZCeqZTSsk3h7V3LLPYbbNn0DOzjj"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A descoberta é a mãe de todos os Quefto",
+          "overview": "Sera learns the incredible inspiration behind the Quefto's curiosity.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/5tg39zrzYEAJxOyUiVD6k9uwKQg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/dcfy9O1p21N1PgvUlaWdxIgRdSsv7g"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "012-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "O Guerreiro Carmesim da Glória",
+          "overview": "Sera and Veor, with a cohort of Quefto, do battle against the fearsome Guren Nairi!",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/eUpVXjHcz5jF9ibBkyASaUUI6F.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/YLUASbFnVgGGN0XveguXGLeqx7RIa4"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
