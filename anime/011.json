@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "011",
+  "updatedAt": "2026-09-21T19:57:33Z",
+  "title": {
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "japanese": "天幕のジャードゥーガル",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "61483",
+    "tmdb": "288971",
+    "imdb": "tt39281887"
+  },
+  "information": {
+    "synopsis": "O momento: século XIII. O lugar: yeke Mongγol ulus, o maior império que o mundo já conheceu. A mulher: Fátima, vinda da Pérsia, onde as técnicas medicinais e o conhecimento científico superavam qualquer precedente. O desejo de Fátima por um lugar onde ela pudesse colocar seus conhecimentos à mostra a leva para o palácio dos mongóis, onde ela vira subordinada de Töregene, a sexta esposa de Ögedei, o segundo grande Khan. Ela é uma mulher poderosa que tem sentimentos confusos sobre o rumo que o império está tomando. Essas duas mulheres são o eixo que farão as políticas do palácio e, em breve, do próprio mundo, mudarem...",
+    "year": 2026,
+    "score": 8.4,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Science SARU"
+    ],
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Animation",
+      "War & Politics"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "011-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "011-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Tudo o que há nos céus e tudo o que há na terra",
+          "overview": "Sitara, a young slave girl, is sold to a family of scholars, where she begins her journey of knowledge.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/8ulVow8v7B8Lrw47y4hyGPRnrJf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/5qYiBP153XI6XWU4S7GGYDUxQPJLC9"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "As rosas que florescem em Safar",
+          "overview": "As nomads sack the city of Tun, Fatima and Sitara hide in the basement and wait for the others to return.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/xeg43pMcMll2P4MkmtKyYtTvAGP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/6J8D32DOVQerHC8QbxArU2NBo4N0JR"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uma Chama Imortal",
+          "overview": "Sitara teams up with an unexpected ally in hopes of reclaiming Fatima's book that was stolen by the Mongols.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/1LcgSvjwvG60ptgLFy05Z2MDGGc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/sh2NkdljDnFqu7k9v9c9p0sDA1qoZg"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Otchigin",
+          "overview": "Sitara begins tutoring Sorghaghtani in Euclid's Elements, and learns more about Prince Tolui, the Otchigin.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3T83I18Bh8BfjHLi3cXXyb1wCEv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/3faGJZsU08RYZDERqqRVrzXXcD5vgq"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Uma cobra mostra suas cores, o homem esconde suas cores",
+          "overview": "Sitara agrees to serve as Sorghaghtani's spy, but her plans to infiltrate Chagatai's court quickly go awry.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/jmE8ln9uCMqGsZBP0IeVYkTyEzQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/JLM6ezPD6yk1tjoHEgK7z9PH6Uwf1a"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O povo Mergen",
+          "overview": "Töregene tells the tale of her life among the Merkits, a confederation of tribes renowned for their archery.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/r2Fk2U0SrGuyA50ObrbJB10GTwp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/mojcjbH0qu8SWNLp3bIXN7Ssc8vnms"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Irmãos",
+          "overview": "As the Mongol Empire prepares to wage war to the east, Sitara begins to plant the seeds of political intrigue.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/tLsnfuvD1DsWcJEGwSi0FpmFYWv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/U80nBaYNzMx2qcjbKfmtvafAzjvjBd"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Grande Khatun Boraqchin",
+          "overview": "After a misunderstanding, Sitara finds herself before the sickly Boraqchin, chief empress of the Mongols.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/9cRBNXOTzrEh9qqKMYdgM034HYK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/SeDAa3ILccde9hVsEXPfUdCOMxOoZ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Tengri",
+          "overview": "Ögedei and Tolui launch their offensive to take the Jin capital Kaifeng, but tragedy strikes soon after.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/cp0CzEFVxviDz19IK0gS7uJrYYJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/h0XDxUCykCTAZG1s1SKpJQdNdOe9OQ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Sabedoria",
+          "overview": "Tolui meets a shocking fate, and Sitara receives an unexpected item that shakes her to the core of her being.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/p7xkczXG7D98elP9eeTx1qTI9Ak.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/CZrHrPMzPDvKwTYlqj4fwzKn3j9zKG"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Uma pedra sem graça",
+          "overview": "Six years in the past, Boraqchin encounters a stone with mysterious properties that would change her life.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/d3UrISdoFuG2QVeRdYJd1kLyn4D.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/JRqMBK8IAHDG0FERXZCjY408NL6md8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "011-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "A estepe, sempre imutável",
+          "overview": "After Sorghaghtani turns down a political marriage, Sitara continues her search for Töregene's whereabouts.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/oEDW81Gp0jXu4QdHN4ZRFCdCaXk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/dri.me\/RbBm3Hmt8gU3o7sOmCesP4xUe2Zc5d"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
