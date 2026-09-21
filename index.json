@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T19:57:35Z",
+  "updatedAt": "2026-09-21T20:03:47Z",
   "animes": [
     {
       "id": "relife",
@@ -54,6 +54,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime\/011.json"
+    },
+    {
+      "id": "012",
+      "title": "The Warrior Princess and the Barbaric King",
+      "cover": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx182483-La7chs6htDWr.jpg",
+      "year": 2026,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime\/012.json"
     }
   ]
 }
