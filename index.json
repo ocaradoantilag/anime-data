@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "1790028844805",
+  "updatedAt": "1790028961625",
   "animes": [
     {
       "id": "relife",
@@ -9,15 +9,6 @@
       "year": 2016,
       "type": "TV",
       "file": "anime\/relife.json"
-    },
-    {
-      "id": "006",
-      "title": "Jaadugar: A Witch in Mongolia",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
-      "year": 2026,
-      "type": "TV",
-      "episodes": 12,
-      "file": "anime\/006.json"
     },
     {
       "id": "007",
