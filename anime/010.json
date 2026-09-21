@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "id": "010",
+  "updatedAt": "2026-09-21T02:33:58Z",
+  "title": {
+    "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
+    "english": "De ofuscado a dominado: segunda reencarnação de um sábio sem talento",
+    "japanese": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+    "synonyms": [
+      "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
+    ]
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/44cpdAd87SSmOVew1Y4LsEWjqPf.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "63508",
+    "tmdb": "314554",
+    "imdb": ""
+  },
+  "information": {
+    "synopsis": "O grande sábio Ephtal morre em desespero após não conseguir atingir o auge da magia – mas 400 anos depois, ele renasce com todas as suas memórias e poder intactos! Num mundo onde a magia decaiu e feitiços antigos são tratados como milagres, Ephtal invade uma prestigiada academia de magia para recuperar a verdadeira arte da feitiçaria. À medida que o seu poder abala o mundo, lendas há muito esquecidas começam a despertar!",
+    "year": 2026,
+    "score": 6.2,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "EMT Squared"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "010-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "010-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Prólogo",
+          "overview": "A sage with no magical talent begins his second reincarnation.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/5VFIVQqPcSiJRV7ukwobwabBR8u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/01.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Tecnologia perdida",
+          "overview": "Eftal learns that magic in this new era is far weaker than he thought.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/qeXs1gla848K2TRtaiKFdsgCdtD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/02.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "EXAGERO",
+          "overview": "Eftal's father sets out on a plot to kill the crown prince, and Eftal gets involved.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3IlvadOf49nG7IhDCZ0xw601c7Q.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/03.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Busque a liberdade",
+          "overview": "Eftal happens upon a slave and frees her from her wicked master.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/cDt490shK0TXAkzs1jGerw45ztD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/04.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Através dos olhos dela",
+          "overview": "Eftal is reunited with his old student.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/rUu86cvqX40TqOFK97lAZYjmFxp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/05.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Caro Eftal",
+          "overview": "Eftal battles Merlin and shows off his strongest spell.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/4xTDrmEvNUuyywxWJxBattBMUC9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/06.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Mestre Sorriso",
+          "overview": "Eftal becomes a student at a new magic academy.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/kj57MNdcRTuS8o7EeF1QX624Pdl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/07.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Sem fuga",
+          "overview": "Anastasia steals Raikiri and escapes to her real master.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/qPe266Za6YEdVLf6EQh4FfkgdLc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/08.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Deixe-me pagar",
+          "overview": "Anastasia turns to Eftal for help against her master.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3J1V7o4hpkbHePxjSeX5xwyEkcR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/09.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Verdade velada",
+          "overview": "Anastasia and Merlin are afflicted by a curse that turns them into little children.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ozdnZp7kctPAMbXFcnOz1b7et0q.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/10.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Falso Amanhecer",
+          "overview": "Eftal battles the contract beast to free Anastasia.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/jGXVb2wcUWg4yGbVjVSgDiUc6Mi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/11.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "010-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Eu sou Eftal",
+          "overview": "Eftal finishes the fight to free Anastasia.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/fLUzRRppw96OIwGhgNJJtfIDjG9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rakudai-kenja-no-gakuin-musou\/12.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
