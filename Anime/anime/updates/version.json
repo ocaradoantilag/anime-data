@@ -1,8 +1,8 @@
 {
   "versionCode": 4,
-  "versionName": "1.4.0",
+  "versionName": "1.5.0",
   "mandatory": true,
   "title": "Atualização obrigatória",
   "description": "Uma nova versão do Tako Manager está disponível. Atualize para continuar usando o aplicativo.",
-  "apkUrl": "https://github.com/ocaradoantilag/anime-data/releases/download/TakM-1.4.0/TakM-1.4.0.apk"
+  "apkUrl": "https://github.com/ocaradoantilag/anime-data/releases/download/TakM-1.5.0/TakM-1.5.0.apk"
 }
