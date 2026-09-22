@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T13:39:53Z",
+  "updatedAt": "2026-09-22T13:42:05Z",
   "animes": [
     {
       "id": "relife",
@@ -114,6 +114,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/016.json"
+    },
+    {
+      "id": "017",
+      "title": "Minha Crush Esqueceu os Óculos",
+      "cover": "https://image.tmdb.org/t/p/w780/xLk0eyJ7Fcc4PK6gLORmeQSLhlk.jpg",
+      "year": 2023,
+      "type": "TV",
+      "episodes": 13,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/017.json"
     }
   ]
 }
