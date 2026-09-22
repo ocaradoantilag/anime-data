@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T14:29:50Z",
+  "updatedAt": "2026-09-22T15:11:19Z",
   "animes": [
     {
       "id": "relife",
@@ -186,6 +186,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/022.json"
+    },
+    {
+      "id": "023",
+      "title": "The Quintessential Quintuplets",
+      "cover": "https://image.tmdb.org/t/p/w780/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
+      "year": 2019,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/023.json"
     }
   ]
 }
