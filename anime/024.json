@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "id": "024",
+  "updatedAt": "2026-09-22T16:59:18Z",
+  "title": {
+    "romaji": "Dragon Ball DAIMA",
+    "english": "Dragon Ball Daima",
+    "japanese": "ドラゴンボールDAIMA",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "56894",
+    "tmdb": "236994",
+    "imdb": "tt29485149"
+  },
+  "information": {
+    "synopsis": "Goku e companhia viviam pacificamente quando de repente ficaram pequenos por causa de uma conspiração! Quando eles descobrem que o motivo para isso pode estar no \"Mundo dos Demônios\", um misterioso Majin chamado Glorio aparece para eles.",
+    "year": 2024,
+    "score": 7.5,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Animação",
+      "Action & Adventure",
+      "Comédia",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 20
+  },
+  "episodes": 20,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "024-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 20,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "024-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Conspiração",
+          "overview": "A giant castle in a mysterious world. Two shady Majin, Gomah and Degesu, watch a monitor. The monitor shows Goku and the others having a fierce battle against Majin Buu. Gomah and Degesu head to Earth to execute a certain conspiracy.",
+          "cover": "https://image.tmdb.org/t/p/w780/pjXeHfeyHoYG8DX3YvvYd1hATgL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Glória",
+          "overview": "Goku and his friends have been turned small due to Gomah's scheme. They begin preparing to go to the demon world. Goku collects his Nyoibo and looks forward to a new adventure. Then the mysterious young Majin Glorio appears!",
+          "cover": "https://image.tmdb.org/t/p/w780/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Sempre",
+          "overview": "Goku, Supreme Kai, and Glorio head out to the \"Demon Realm\" first. Their plane travels through space and a mysterious dimension. They arrive at the entrance to the Demon Realm, the \"Third Demon World\"!",
+          "cover": "https://image.tmdb.org/t/p/w780/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Conversador",
+          "overview": "Forced to make their way through the Third Demon World on foot, Goku and his companions stop by a lone drive-in on the way. There they encounter some strange souvenirs and a rather chatty and quirky Majin woman and her husband!",
+          "cover": "https://image.tmdb.org/t/p/w780/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Panzy",
+          "overview": "The masked Majin who appeared before Goku and his companions is a young girl named Panzy! While Glorio gives her the cold shoulder, Panzy insists on acting as their guide. The group reaches a suspicious castle!",
+          "cover": "https://image.tmdb.org/t/p/w780/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Raio",
+          "overview": "After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic against Goku to resolve the situation!",
+          "cover": "https://image.tmdb.org/t/p/w780/sqrlnH3tLl3JMUJHlCAUUQ8lVt5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Colarinho",
+          "overview": "Goku and his companions continue their journey. But the Gendarmerie appear and bar their way again, perhaps due to them knowing the location of the Magic Collar around Panzy's neck. Can the bond with her friends save Panzy from peril?!",
+          "cover": "https://image.tmdb.org/t/p/w780/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Tamagami",
+          "overview": "The fight with a Tamagami begins! The Tamagamis are the undefeated guardians of the Dragon Balls. Seeing Goku fight toe-to-toe with one, Panzy and the others are unable to hide their surprise. As the battle heats up, what will happen?!",
+          "cover": "https://image.tmdb.org/t/p/w780/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Ladrões",
+          "overview": "Rumors of what Goku did in the Third Demon World spread across the Demon Realm. To avoid trouble, Goku wears a disguise at the hotel, but they can't let their guard down in the Third Demon World. Thieves see through his disguise!",
+          "cover": "https://image.tmdb.org/t/p/w780/2d3UZpI07m03dL68tlKzjFTyiwb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Oceano",
+          "overview": "Goku and his companions arrive at the mystic Second Demon World where a giant ocean spreads as far as the eye can see! The party is amazed at the new world but is immediately attacked by Gendarmerie that have been sent by Gomah!",
+          "cover": "https://image.tmdb.org/t/p/w780/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Lenda",
+          "overview": "Having regrouped with Vegeta and the others, Goku and his companions arrive at a planet that seems familiar. As they move to head out, a suspicious shadow approaches! It's the Legendary Namek who remained alone in the Demon Realm!",
+          "cover": "https://image.tmdb.org/t/p/w780/mj7AqhBGWB1b7zfdUVA46R6wHX2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Força Verdadeira",
+          "overview": "Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor. But then he finally unleashes his true strength!",
+          "cover": "https://image.tmdb.org/t/p/w780/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Surpresa",
+          "overview": "As Goku and his companions head to where Gomah is, engine trouble causes them to land on a certain planet. The place they land happens to be a surprise-filled planet where even Supreme Demon Kings are afraid to tread!",
+          "cover": "https://image.tmdb.org/t/p/w780/40GXfVsXABfU3q8kONqIh5tfyO6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Tabu",
+          "overview": "To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no longer proceed. Just when it seems their adventure is over, a certain someone reveals their true power!",
+          "cover": "https://image.tmdb.org/t/p/w780/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Terceiro Olho",
+          "overview": "The Evil Third Eye offers absolute power in the Demon Realm. King Gomah confirms its location and moves to obtain it! Will the Third Eye open on Gomah's forehead?!",
+          "cover": "https://image.tmdb.org/t/p/w780/vDZ4dJ59cw2Nltf2Dci1DXCfE4j.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Degesu",
+          "overview": "Goku and his companions finally reach Gomah's palace. But Kadem and the mighty Gendarmerie Force bar their way! Meanwhile, in the palace, Degesu takes action for his own ambitions!",
+          "cover": "https://image.tmdb.org/t/p/w780/zR2cUCEX14BoilmnByOL0GVq3Fs.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Gomá",
+          "overview": "Goku and his companions face off with Arinsu. With everything on the line, their battle begins. But all of a sudden, a transformed King Gomah stands before both parties!",
+          "cover": "https://image.tmdb.org/t/p/w780/vSGMCrxd788k585aLxiTDiFaUs9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Despertar",
+          "overview": "King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle against the power of the Third Eye. Just when it seems that all is lost, an amazing new power is awakened within Goku!",
+          "cover": "https://image.tmdb.org/t/p/w780/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Traição",
+          "overview": "The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's betrayal set in motion?!",
+          "cover": "https://image.tmdb.org/t/p/w780/imJl2fb8m65L4u7UWsaHkYMt1HY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Máximo",
+          "overview": "Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort in an all-out battle!",
+          "cover": "https://image.tmdb.org/t/p/w780/A2l4sFZp3Tcgg9jKBXbpiJBGt5n.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dragon-ball-daima/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
