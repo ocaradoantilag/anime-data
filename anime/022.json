@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "id": "022",
+  "updatedAt": "2026-09-22T14:29:48Z",
+  "title": {
+    "romaji": "Akame ga Kill!",
+    "english": "Akame ga Kill!",
+    "japanese": "アカメが斬る！",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/3XAGgklKkJhv5M9m5NkfhBYb7l8.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "22199",
+    "tmdb": "61223",
+    "imdb": "tt3742982"
+  },
+  "information": {
+    "synopsis": "Num mundo de fantasia, o guerreiro Tatsumi parte para a capital procurando uma maneira de ganhar dinheiro para ajudar sua vila, mas descobre um mundo de corrupção inimaginável, se espalhando através do Primeiro Ministro, que controla a orelha do Imperador criança. Depois de quase se tornar vítima dessa corrupção, Tatsumi é recrutado pela Night Raid, um grupo de assassinos dedicado a eliminar a corrupção que infesta a capital, matando impiedosamente os responsáveis.",
+    "year": 2014,
+    "score": 7.3,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "WHITE FOX"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Terror",
+      "Psicológico",
+      "Suspense",
+      "Animação",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "022-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2014,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "022-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Mate a escuridão",
+          "overview": "Tatsumi leaves his village in pursuit of wealth and success in the Imperial Capital. He attempts to join the army, however it isn't as easy as it seems. When all of the sudden, a large breasted woman shows up at the local bar and offers to help him get recruited.",
+          "cover": "https://image.tmdb.org/t/p/w780/IqFfcllc7Jsu3IoABjA8Mo0qq3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Mate a Autoridade",
+          "overview": "Tatsumi is taken by the Night Raid. They realized his potential as an assassin and asks him to join, but Tatsumi is conflicted. Though after learning more about each of Night Raid's team members, he learns of their objectives to defeat evil and corruption and eventually decides to join.",
+          "cover": "https://image.tmdb.org/t/p/w780/4UYsbmh0qIsBaj6YfKhQNOkopKj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Mate suas preocupações",
+          "overview": "The Night Raid's hideout is invaded by intruders! The assassin clan was able to drive out the enemy without a problem. Tatsumi experiences the true intensity of the Night Raid for the first time and he is thrilled.",
+          "cover": "https://image.tmdb.org/t/p/w780/s65sBWCcqB0lVvBoT6wObwvruWD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Mate os usuários do braço imperial",
+          "overview": "The target this time is the capital's rumored phantom serial killer known only as Zank the Executioner. Just like the Night Raid, he is an Imperial Arms user as well.",
+          "cover": "https://image.tmdb.org/t/p/w780/sQWCVqKkhpK2gik8e2XhqFPh9Mx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Mate o sonho",
+          "overview": "Sheele, who has no particular role in the hideout is assigned as Tatsumi's trainer. She explains how and why she chose assassinating as her career. Tatsumi, who still doesn't have an Imperial Arm of his own, tests out the Imperial Arm taken from Zank.",
+          "cover": "https://image.tmdb.org/t/p/w780/oPeza1oYMcUVV8hwNF94XfFKUwN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Mate a Justiça Absoluta",
+          "overview": "Night Raid is tasked with the eradication of a drug trafficking organization within the Imperial City. Tatsumi and Leone head towards the red light district. The two learn of the horrific details of the organization and their rage is apparent. Meanwhile, Sheele and Mine go after the Tybil, former leader of the organization when they suddenly feel an alarming presence.",
+          "cover": "https://image.tmdb.org/t/p/w780/c7rkSCCKyBx8u7tilb7gM4yjjv6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Mate os Três (1)",
+          "overview": "General Esdeath arrives at the capital and is brought to the Emperor to discuss annihilating Night Raid. The Emperor wants to reward her for her services but her request is somewhat surprising.",
+          "cover": "https://image.tmdb.org/t/p/w780/AKdeCcOz6ZD5F0tDEulTPMlFKu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Mate os Três (2)",
+          "overview": "Tatsumi and Bulat stand before the Three. Among them is Bulat's former leader, Liver. The battle quickly turns into a one-on-one combat between Bulat versus Liver and Tatsumi versus Nyau.",
+          "cover": "https://image.tmdb.org/t/p/w780/ul4hedz67Z9gKboSB1mpP5M2LJC.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Mate o Fanático da Batalha",
+          "overview": "Tatsumi inherits Bulat's Imperial Arms Incrusio after defeating the Three and vows to become even stronger. Mine's attitude towards Tatsumi seems to show a change after seeing his dedication during training... Meanwhile, General Esdeath receives news of the Three being defeated and in order to reinforce the army's strength she organizes a special police force of Imperial Arms users known only as the Jeagars.",
+          "cover": "https://image.tmdb.org/t/p/w780/pOWYgJPsI8e3vOu3748QcGT7UI7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Mate a tentação",
+          "overview": "Esdeath has taken Tatsumi after winning the combat tournament. And the reason being... love at first sight?! That being said Tatsumi has not only been forced to become Esdeath's lover but also an auxiliary member of the Jaegers. Tatsumi and Esdeath observe as the Jaegers raid the bandits' hideout; he witnesses how powerful the Jaegers truly are. All the while Tatsumi tries to find an opportunity to escape and return to the Night Raid's hideout...",
+          "cover": "https://image.tmdb.org/t/p/w780/Aj1qnyHBRUryTlZdFsD6E7uIfCl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Mate o Cientista Louco",
+          "overview": "Dr. Stylish discovered Night Raid's hideout as he followed Tatsumi. A battle quickly commenced between Night Raid and Dr. Stylish's fortified army who struck with a surprise attack. Tatsumi and Mine are enraged as they see Kakusan equipped with Sheele's Imperial Arms Extase. A fierce battle continues within the hideout when suddenly something came down from the Sky...",
+          "cover": "https://image.tmdb.org/t/p/w780/uSpslsenk5vzhHUXQGDyTd3rQS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Mate os recém-chegados",
+          "overview": "After dealing with Dr. Stylish's attack Night Raid leaves their base and hides in the mountains. After welcoming the newly joined member, Night Raid experienced a brief moment of peace, even amid training. Mine, who has been teased relentlessly Chelsea, the newcomer, tells Tatsumi and Lubbok that she wants revenge.",
+          "cover": "https://image.tmdb.org/t/p/w780/20UDBkHAdLmMJAdJbe0eRIvS5wq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Mate os incômodos",
+          "overview": "A new species of Danger Beasts have emerged and has been terrorizing the vicinity of the capital. Minister Onest has ordered Esdeath to seize and defeat them. Esdeath leads the Jaegers to go to deal with them. But something suspicious in the shadow is keeping an eye on their actions. Meanwhile, after Night Raid settles into their new hideout, they're also on the move to deal with the new Danger Beasts.",
+          "cover": "https://image.tmdb.org/t/p/w780/uB283N1E07xLxSYvXsh1jGaAzEy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Mate a Besta Gigante Perigosa",
+          "overview": "Tatsumi and Esdeath meet again by chance while exterminating Danger Beasts. Esdeath is pleasantly surprised at the unexpected reunion while Tatsumi is overwhelmed. Even while fully immersed in the joy of their reunion, Esdeath notices that a man's been watching them from the shadows.",
+          "cover": "https://image.tmdb.org/t/p/w780/j93rBAIUyHek7rcao0MVCFEgmV5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Mate a organização religiosa",
+          "overview": "A widely accepted religious organization among the civilians known as the Path of Peace is quickly gaining more followers. It is rumored that they will cause an armed uprising in an attempt to fight against the corrupt government.",
+          "cover": "https://image.tmdb.org/t/p/w780/xmva2YjhYdHvkNB67jOutVH0S4k.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Mate os fantoches",
+          "overview": "In order to combat the Jaegars, Night Raid is separated into two groups. Tatsumi and Akame are to deal with Bols, Kurome, and her puppets. The battle proves to be difficult as Kurome's Imperial Arms Yatsufusa has the ability to freely control the dead.",
+          "cover": "https://image.tmdb.org/t/p/w780/tXhA7LzxpleRghledn05DUw8ZcW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Mate a maldição",
+          "overview": "After being cornered by Akame and Leone, Bols sets off an explosion and flees. While he is trying to get back to his comrades, he runs into a hurt girl who is crying. Meanwhile, Kurome's medicine starts wearing off and she starts remembering her days with Akame as well as their sad goodbye, while stumbling through the mountain. While leaning against a tree eating snacks, someone approaches her...",
+          "cover": "https://image.tmdb.org/t/p/w780/3UZFMhDHBGH8BmUVejWrTTFNnnS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Mate o Demônio",
+          "overview": "Borick is scheming to take over a religious faction, and Night Raid heads to Kyoroch, where that religion has its headquarters. The Jaegars also head to Kyoroch to act as bodyguards for Borick. Wave is worried about Kurome, who still hasn't healed from her wounds. Night Raid safely infiltrates Kyoroch, however they must now face Borick's own appointed guards, the Four Koukenji Rakshasa Demons.",
+          "cover": "https://image.tmdb.org/t/p/w780/ApqeZUbVVtlb6LRaaXGDrL2rfZ6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Mate o destino",
+          "overview": "Night Raid continues to work on their plan to assassinate Borick in Kyoroch. Tatsumi and Mine wander around the city, but then end up running into Seryu, who is responsible for Sheele's death. Mine decides to end things once and for all with her, while Tatsumi fights Suzuka from the Four Demons.",
+          "cover": "https://image.tmdb.org/t/p/w780/m1KP3PmYzoFPMm5pZGLHwo5yCeI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Mate a carnificina",
+          "overview": "Kyoroch is freed because of Night Raid, which strengthens the Revolutionary Army's power. In this dire situation, Commander-in-chief Budoh and the minister's son, Shura, join the fight against Night Raid. Meanwhile, Night Raid infiltrates the capital yet again. Tatsumi and Lubbock go after Minister Onest in the palace by sneaking in with the help of one of the Revolutionary Army's spies.",
+          "cover": "https://image.tmdb.org/t/p/w780/j6r3fmcGMU6snqh2TNOyOt5sBgu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Mate o desespero",
+          "overview": "In order to instill fear into the hearts of those among the Rebel Army, the capital has spread the word that Tatsumi will be executed publicly. Night Raid receives notice of this and intends to rescue him.",
+          "cover": "https://image.tmdb.org/t/p/w780/4ZqkCh9gRAfQDY4psr6vEmpleKe.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Mate a irmã mais nova",
+          "overview": "Following Tatsumi's capture, Night Raid successfully defeated Commander-in-Chief Budou but at the cost of Main and Susanoo's lives. The Revolutionary Army surrounds the capital as the civilians start to riot. Wave is confounded by what he sees as Ran calmly observes how everything unfolds. Meanwhile, Kurome senses that the end of her life is drawing near and seeks to settle things with her older sister once and for all.",
+          "cover": "https://image.tmdb.org/t/p/w780/acSjEIBZawfcamRhIxVbHJb8XUr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Mate o Imperador",
+          "overview": "The Revolution finally reaches its final phase; Night Raid is en route to assassinate Minister Onest, the root of the problem. All goes according to Najenda's plan as the Revolutionary Army successfully invades the city. Night Raid arrives at the Palace where the Emperor and Minister are located. Unlike the panicked Emperor, the Minister is composed and confident as they prepare to unleash their trump card. As the palace trembles, something appears from below...!",
+          "cover": "https://image.tmdb.org/t/p/w780/dOM1SYcI8GT732VQJkw5B3Zsi5L.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "022-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Akame ga Kill!",
+          "overview": "The empire's army has been defeated and all that remains is the empire's strongest, General Esdeath. Akame and her sword stand in Esdeath's way as she desires to continue breeding war. The two face one another. The final battle begins. What will the result bring forth? A new kingdom where the citizens can live in peace or will there be more bloodshed...?",
+          "cover": "https://image.tmdb.org/t/p/w780/3wI49NRQB3P8PvGmvuXjjrhuAAm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/a/akame-ga-kill/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
