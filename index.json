@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T16:59:21Z",
+  "updatedAt": "2026-09-22T16:59:55Z",
   "animes": [
     {
       "id": "relife",
@@ -210,6 +210,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/024.json"
+    },
+    {
+      "id": "025",
+      "title": "KONOSUBA: As Bênçãos de Deus Neste Mundo Maravilhoso!",
+      "cover": "https://image.tmdb.org/t/p/w780/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg",
+      "year": 2016,
+      "type": "TV",
+      "episodes": 10,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/025.json"
     }
   ]
 }
