@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T22:42:42Z",
+  "updatedAt": "2026-09-22T00:44:01Z",
   "animes": [
     {
       "id": "relife",
@@ -78,6 +78,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime\/013.json"
+    },
+    {
+      "id": "014",
+      "title": "Headhunted to Another World: From Salaryman to Big Four!",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
+      "year": 2025,
+      "type": "ONA",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime\/014.json"
     }
   ]
 }
