@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T20:03:47Z",
+  "updatedAt": "2026-09-21T22:42:42Z",
   "animes": [
     {
       "id": "relife",
@@ -66,6 +66,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime\/012.json"
+    },
+    {
+      "id": "013",
+      "title": "Galo Lutador",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+      "year": 2026,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime\/013.json"
     }
   ]
 }
