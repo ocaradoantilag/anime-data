@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T13:57:34Z",
+  "updatedAt": "2026-09-22T14:06:55Z",
   "animes": [
     {
       "id": "relife",
@@ -150,6 +150,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/019.json"
+    },
+    {
+      "id": "020",
+      "title": "O Reino das Sete Magilâminas",
+      "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
+      "year": 2023,
+      "type": "TV",
+      "episodes": 15,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/020.json"
     }
   ]
 }
