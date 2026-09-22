@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "019",
+  "updatedAt": "2026-09-22T13:57:31Z",
+  "title": {
+    "romaji": "LV999 no Murabito",
+    "english": "The Villager of Level 999",
+    "japanese": "LV999の村人",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "62322",
+    "tmdb": "298994",
+    "imdb": "tt38262097"
+  },
+  "information": {
+    "synopsis": "Em Earthclear, todos nascem com um papel predefinido, e os aldeões são os mais fracos de todos. A maioria nunca passa do Nível 5 — exceto Koji Kagami, que é Nível… 999?! Em uma caçada a monstros, ele encontra Alice, a filha do Rei Demônio, e descobre que compartilham um sonho impossível: a coexistência entre humanos e demônios.",
+    "year": 2026,
+    "score": 6.1,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Brain's Base"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "019-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "019-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Como funciona o mundo",
+          "overview": "Despite his best efforts, level 999 villager Kagami gets involved in a quest to hunt the Demon King.",
+          "cover": "https://image.tmdb.org/t/p/w780/wkbdOZ9YapmbphFEZzc2Gcrl28P.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O idiota final",
+          "overview": "Kagami agrees to help Alice and introduces her to a friend.",
+          "cover": "https://image.tmdb.org/t/p/w780/k3wFvvu7uLRYPlIvljqAhOEUhIE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Coexistência Demoníaca e Humana",
+          "overview": "Kagami foils a demonic attack on the city and learns about darker forces at play.",
+          "cover": "https://image.tmdb.org/t/p/w780/jXLgZAI9ddAfnwX2i4lT7PZUtyz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Eu tenho perguntas para você",
+          "overview": "As monsters attack Salmaria, the Hero's party begins to doubt their convictions.",
+          "cover": "https://image.tmdb.org/t/p/w780/vkjg3rBHP9Koc7a3cuJJf8PmAYM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Funções atribuídas",
+          "overview": "The battle for Salmaria seems to be going well, until an unexpected visitor drops in.",
+          "cover": "https://image.tmdb.org/t/p/w780/uOTCoUyokT0DrLcRxio8kMfJ8GP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O Pensamento de Sua Alteza",
+          "overview": "Kagami and his friends kick off a new adventure: trying to start a casino in Valman!",
+          "cover": "https://image.tmdb.org/t/p/w780/7DEf0mRph0DqUaY63yORhJ8AfkZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Você é mudado pelas pessoas que conhece",
+          "overview": "An unexpected new ally has contributed to the casino's opening, but trouble is brewing behind the scenes.",
+          "cover": "https://image.tmdb.org/t/p/w780/k9lR8Bg3pDqFpEHwBTJSiXwQjRm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Incompatível",
+          "overview": "While Kagami and Menow pursue a quicker way to earn money, Alice struggles with suspicions back in Valman.",
+          "cover": "https://image.tmdb.org/t/p/w780/waSKPWQuIYetOyX2rI8iwCJQ15m.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Esperança como nunca antes",
+          "overview": "At the end of a mysterious dungeon, Kagami and Menow learn more than they expected.",
+          "cover": "https://image.tmdb.org/t/p/w780/t6dCBJ9RQJCtpAuEplpfUvHj18S.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Eu vou destruí-lo",
+          "overview": "The heroes regroup and plot their next course of action in light of recent events.",
+          "cover": "https://image.tmdb.org/t/p/w780/lygvar8TCn8s0qt0tcKvfwIogD5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A autoridade do rei é absoluta",
+          "overview": "Kagami and friends storm the castle to try to negotiate with the king, but find Parna waiting for them.",
+          "cover": "https://image.tmdb.org/t/p/w780/8orn0GbQIY3asl45H3YDnvORsIO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "019-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Malditas ideias do bom senso",
+          "overview": "Kagami makes a last-ditch offer to save his friends and right the wrongs in the world.",
+          "cover": "https://image.tmdb.org/t/p/w780/86GN9bpIPAsePsjTD4PAPmWejPd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lv999-no-murabito/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
