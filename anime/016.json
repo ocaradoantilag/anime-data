@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "016",
+  "updatedAt": "2026-09-22T13:39:50Z",
+  "title": {
+    "romaji": "Grand Blue",
+    "english": "Grand Blue Dreaming",
+    "japanese": "ぐらんぶる",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/gitV0eHjJfuC0aW61QodENeXsWf.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "37105",
+    "tmdb": "79166",
+    "imdb": "tt8086718"
+  },
+  "information": {
+    "synopsis": "Entre a cidade litorânea das ondas oceânicas de Izu e raios de sol brilhantes, Iori Kitahara está apenas começando seu primeiro ano na Universidade Izu. Quando ele se muda para a loja de mergulho de seu tio, Grand Blue, ele antecipa ansiosamente sua vida dos sonhos na faculdade, cheia de garotas lindas e bons amigos.",
+    "year": 2018,
+    "score": 8.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Zero-G"
+    ],
+    "genres": [
+      "Comédia",
+      "Slice of Life",
+      "Esportes",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "016-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2018,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "016-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Azul Profundo",
+          "overview": "When Iori Kitahara heads off to college, he decides to live at his uncle's dive shop in Izu. Iori is looking forward to experiencing college life, but ends up running into a group of tough guys playing strip rock-paper-scissors. Iori gets dragged into the diving club's crazy shenanigans and ends up spending his first day in college wearing nothing but a pair of underwear.",
+          "cover": "https://image.tmdb.org/t/p/w780/81SzeqvZXXQDfHgQ6i0efTz5WAS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Subaquático",
+          "overview": "After a cutthroat battle with Kohei Imamura, a handsome otaku from school, Iori ends up joining the Peek-a-Boo diving club. Iori arrives home worn out from the day, but perks up when he hears about a party with a women's college. However, his cousin Nanaka won't allow him to stay out three nights in a row, so Iori tries to show her he's an independent man to get her to let him go.",
+          "cover": "https://image.tmdb.org/t/p/w780/yrtB0wJtn0QnfrPwAVAweQ0awtY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Um Novo Mundo",
+          "overview": "Iori and Kohei don wetsuits and head to the sea! Although Iori used to be afraid of the water, he starts becoming more interested. But diving equipment is expensive! Tokita and Kotobuki decide to hold a men's beauty pageant for the Izu Spring Festival in May. The guys want to avoid being paraded around on stage, so they try to get Chisa to participate in a women's beauty pageant.",
+          "cover": "https://image.tmdb.org/t/p/w780/pNNumHnuCMJJYQUevbmJw91RqUM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "O concurso de beleza masculina",
+          "overview": "The Izu Spring Festival has begun! The members of Peek-a-Boo run an okonomiyaki stall with Iori, Kohei, Chisa, and Azusa helping out. Iori finds himself in a complicated situation when a misunderstanding with Azusa occurs and a rivalry with the tennis club Tinkerbell begins. When Chisa gets nervous and freezes up during the women's beauty pageant, Iori and Kohei think of a plan to cheer her on.",
+          "cover": "https://image.tmdb.org/t/p/w780/cy5ROSMuzSLeJwKTGU0IcMSsaPc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Tarde demais",
+          "overview": "Iori and Kohei attend class in their underwear like normal, but everyone glares at them with a bloodthirsty look in their eyes! It's because they heard that Iori and Chisa are dating! Sensing their lives are in danger, Iori and Kohei offer to setup a mixer. They ask Azusa to introduce her friends, but she brings Aina Yoshiwara, the \"Cakey\" girl from the Izu Spring Festival!",
+          "cover": "https://image.tmdb.org/t/p/w780/nOofvmLOK8gS3VTG6fZ2Wcz7xIk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Primeiro amigo",
+          "overview": "Inori and Kohei get through their exams by cheating. Meanwhile, PaB throws a welcome party for Aina, their new member. Aina was looking forward to getting a new start to college life, but discovers that no one in the club is normal! Nevertheless, the club members are serious about diving and have the new members learn basic hand signals and dive in pairs. However, Iori gets paired up with Chisa.",
+          "cover": "https://image.tmdb.org/t/p/w780/Ub6O5cBXvTc7C1UZGZX09UGKQv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Duplas",
+          "overview": "Iori and the others dream about going diving at a beautiful location after seeing an article on Miyakojima in a magazine. However, Tokita and Kotobuki decide the club is going to join a tennis doubles match! They explain that they're joining the match to get everyone to build trust with their diving buddy, but the real reason is to get back at the tennis club and take away their prize money!",
+          "cover": "https://image.tmdb.org/t/p/w780/28rRmY0NPjI9qbbo1FDdqIkLwfV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Coquetéis Masculinos",
+          "overview": "The members of the diving team start working part-time jobs to pay for their trip to Okinawa. However, Iori and Kohei end up spending all their earnings on drinking. Meanwhile, Kotobuki is working hard as a bartender, and his boss lets Iori and Kohei try it out too. However, these two idiots don't know how to make cocktails, and end up creating some dangerous new drinks!",
+          "cover": "https://image.tmdb.org/t/p/w780/7wNezZSOGpaA3NK4zsu8WSl01Zn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Verdade ou Desafio",
+          "overview": "Iori tries to setup another mixer for his friends, and wants to ask Chisa to introduce her friends so they can all play truth or dare. Nanaka and Azusa also get involved, and they all begin a vicious game of attack and defense! However, Iori doesn't have enough money for their trip. Iori and the gang head to a diving shop to buy diving gear, but find out there's still a lot they don't know.",
+          "cover": "https://image.tmdb.org/t/p/w780/3jgpqlgMoRDh21TUr8o9K25s2pc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Chegada em Okinawa",
+          "overview": "The Peek-a-Boo members arrive in Okinawa! After checking out their gorgeous vacation home, the group decides to head to the beach. In order to make sure the guys don't try to get naked, they decide to go to a popular beach with lots of visitors, where they have some wild fun on a banana boat. However, Iori loses their banana boat contest and ends up having to sleep in Nanaka and Azusa's room!",
+          "cover": "https://image.tmdb.org/t/p/w780/43nh3FpggkCBgCdXl9B2rAn2rch.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Você tem a ideia errada",
+          "overview": "\"You might be the only one who can't pass the license test,\" Nanaka says to Iori, pointing out what he's bad at. To avoid being made fun of by Kohei and Nanaka, he practices secretly. Yet, while practice, all he thinks of is how to poison them at dinner. He avoids being pairs with Kohei and Aina and gets Chisa to promise to help him with practice. But, these interactions cause misunderstandings...",
+          "cover": "https://image.tmdb.org/t/p/w780/ks5HyVUeWDcNtx9HnQkW4zbSQIB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "016-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Otori",
+          "overview": "For the last half of their trip, the Peek-A-Boo members arrive in Miyakojima. Everyone goes for a serious dive into the majestic sea with the exception of Iori, who couldn't obtain his license. Everything is magical with the stunning coral reef, colorful fishes and sea turtles, until the members engage in PaB-style Otori (a drinking custom of Miyakojima), which turns things into a living hell...",
+          "cover": "https://image.tmdb.org/t/p/w780/c4atc5ffDNCZzyas2vYe3d54KQm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/grand-blue/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
