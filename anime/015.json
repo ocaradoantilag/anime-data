@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "015",
+  "updatedAt": "2026-09-22T00:46:21Z",
+  "title": {
+    "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+    "english": "Haibara's Teenage New Game+",
+    "japanese": "灰原くんの強くて青春ニューゲーム",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/4QRcFqAJq0Jpi5jfQ2ExxVJtWCv.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "61943",
+    "tmdb": "316424",
+    "imdb": "tt39122622"
+  },
+  "information": {
+    "synopsis": "Todos nós temos memórias constrangedoras ou profundos arrependimentos do ensino médio, certo? O universitário Natsuki Haibara, que sofre de ansiedade social, certamente tem. Quando ele pensa naquela época da sua vida, tudo o que ele tem são fantasias fugazes de uma adolescência feliz que poderia ter sido. Imagine então sua perplexidade e surpresa quando ele inexplicavelmente se vê sete anos no passado… um mês antes do seu primeiro ano do ensino médio! Haibara conseguirá evitar seus erros anteriores, chegar ao topo da pirâmide social da escola e ficar com a garota dos seus sonhos? Ou será forçado a reviver três anos de solidão como o cara mais odiado da escola? Ele precisará de toda a ajuda possível para obter sucesso, desde um regime de exercícios físicos até guias online, uma amizade de infância e muita força de vontade. Veja como Haibara dá uma segunda chance à sua adolescência.",
+    "year": 2026,
+    "score": 6.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Studio Comet"
+    ],
+    "genres": [
+      "Romance",
+      "Slice of Life",
+      "Animação",
+      "Comédia",
+      "Drama"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "015-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "015-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O plano do menino cinza para uma adolescência colorida",
+          "overview": "Haibara Natsuki travels back in time and gets a second shot at a better high school experience.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3e5xW0Ak0bqMgrpmAxQAZQwcs5l.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/01.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Dias de sonho",
+          "overview": "Natsuki hangs out with his new friends on the weekend.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/vkh2SrMIgPOsf6R0OyUNid3C9Wz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/02.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Comportamento Perfeito",
+          "overview": "Natsuki begins working at a café, and he and his friends study for midterm exams.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/luS09fB7g1emzR8yzc0ybDIhQFF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/03.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Se você me apoiar",
+          "overview": "Without Tatsuya, Natsuki's once colorful adolescence slowly begins to darken.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/bGYP8pPnBrNPfSTuHsSNxCCc8s6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/04.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Vou te dar um guarda-chuva quando você estiver na chuva",
+          "overview": "Natsuki, Miori, Reita, and Hikari go on a double date.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/oaVeWdydelWFojwiIfiMNiPW5b6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/05.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Desejar",
+          "overview": "Natsuki convinces Miori to accept his help and attends a festival with Uta.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/wHIRpD8DAxbHAlq8pBKQTNP4XRy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/06.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Visando o verão definitivo",
+          "overview": "Natsuki's friends plan an overnight trip, but Hikari may not be able to attend.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/zNqrRx7seGGlPmbsOCZ4MOfjyRQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/07.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Seu sonho e o relacionamento secreto",
+          "overview": "Natsuki supports Hikari as she prepares to confront her overbearing father.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/hKMk1BZ3Hs5wiqaemdIiC4JkNQx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/08.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O fim de um verão milagroso",
+          "overview": "Natsuki heads to the beach with his friends for the colorful summer experience he's always dreamed of.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/enyrh6wFfCUDV0h3MVvGi0lm7mg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/09.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Fachada",
+          "overview": "Serika asks Natsuki to form a band with her.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/zufdXhvLTJQ9BLIW0XfOW8ZiKUq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/10.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Monocromático",
+          "overview": "Natsuki is forced to confront his own feelings when he's asked to write lyrics for his band.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/n90d5MFvTflx519qTxGeJZHuA4c.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/11.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "015-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Para as estrelas",
+          "overview": "On the day of the school festival, Natsuki performs with his band and expresses everything he's been feeling.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/yNoVtplfYMzhKGb95wzukCYiTOE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/h\/haibara-kun-no-tsuyokute-seishun-new-game\/12.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
