@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "024",
+  "updatedAt": "2026-09-22T15:55:29Z",
+  "title": {
+    "romaji": "Go-toubun no Hanayome",
+    "english": "The Quintessential Quintuplets",
+    "japanese": "五等分の花嫁",
+    "synonyms": [
+      "The Quintessential Quintuplets 2"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/mrahUSmFjae8UHtlOcZ58ytmAGu.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/uuqVT15I6P4ow7NS0stu7aM2X5w.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "38101",
+    "tmdb": "84669",
+    "imdb": "tt9584920"
+  },
+  "information": {
+    "synopsis": "Futaro Uesugi, um estudante do segundo ano do colegial que vem de uma família pobre, recebe uma irrecusável proposta para trabalhar como tutor... e descobre que suas pupilas são suas colegas de classe! E pra piorar, são gêmeas quíntuplas... Todas lindíssimas, mas com péssimas notas e um ódio mortal pelos estudos! Sua primeira missão será ganhar a confiança das garotas?! Todo dia é dia de festa nesta comédia romântica 500% adorável envolvendo as irmãs gêmeas da casa das Irmãs Nakano!",
+    "year": 2019,
+    "score": 7.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "Tezuka Productions"
+    ],
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Animation"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "024-season-2",
+      "title": "Temporada 2",
+      "type": "TV",
+      "number": 2,
+      "seasonNumber": 2,
+      "year": 2019,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "024-2-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Um atoleiro bastante ruim de Kyoto",
+          "overview": "Futaro is hospitalized for a while after falling sick at camp school. He returns to work tutoring the quintuplets, only to realize someone has fallen way behind.",
+          "cover": "https://image.tmdb.org/t/p/w780/tL4Lt4iFKfYzasts8tYaQqR2URW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Sete Adeus (1)",
+          "overview": "There’s one week left to the term final. Futaro and the sisters are set on passing this time, but Nino and Miku can’t seem to get along.",
+          "cover": "https://image.tmdb.org/t/p/w780/CQ0PbDWJYBiCObtIBrsXPALYY7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Sete Adeus (2)",
+          "overview": "Nino lets a dejected Futaro into her hotel room. Futaro tells her about how he’d run into the girl he met in Kyoto five years prior.",
+          "cover": "https://image.tmdb.org/t/p/w780/iBLoTuIy9uwp1wzcfvudHkbeVFG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Sete Adeus (3)",
+          "overview": "After discovering Yotsuba wants to quit the Track team but can't tell her teammates, Uesugi disguises Itsuki to resign for her.",
+          "cover": "https://image.tmdb.org/t/p/w780/yAmhFMbuzkQrSVJrBIDffE9i3MU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Bom trabalho hoje",
+          "overview": "Uesugi runs into the Quintuplets while out shopping. They invite him to visit their new home with an ulterior motive.",
+          "cover": "https://image.tmdb.org/t/p/w780/fTyssynGlHD7xQChmnwwzZN9FLY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O último exame",
+          "overview": "Miku is desperately trying to learn how to make chocolates for Uesugi. Meanwhile, preparations for the Final exams are intensifying, but Uesugi decides its time for a study break.",
+          "cover": "https://image.tmdb.org/t/p/w780/AnCZdU2iqZxerGYUkzw0zS41H7X.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Comece a ofensiva",
+          "overview": "The quintuplet's father attempts to convince Nino to come back with him, but Uesugi rides in to save the day and Nino makes a confession. The quintuplets then celebrate their exam achievements with desserts. Later, everyone enjoys a vacation at a hot springs resort.",
+          "cover": "https://image.tmdb.org/t/p/w780/2GHGnZm2yN3n2onuG36GwEru2wJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Ovos mexidos",
+          "overview": "Uesugi enlists the \"real\" Itsuki to help him discover who was impersonating her yesterday. After discovering a room full of Itsuki, he interrogates them one by one. Uesugi struggles to tell which quintuplet is which.",
+          "cover": "https://image.tmdb.org/t/p/w780/41RbygQ5384vy47n9GyuPgg5NhN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Bem-vindo à aula 3-1",
+          "overview": "The quintuplets each find a job to help Ichika pay for the rent of their new place. They each settle into their new jobs and their new classmates.",
+          "cover": "https://image.tmdb.org/t/p/w780/uN1nbuYckpWLQ6AgkO4QEr22qHt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Cinco guindastes em troca",
+          "overview": "The quintuplets’ father tries to get Futaro’s classmate, Takeda, to take over as their tutor. They make a bet.",
+          "cover": "https://image.tmdb.org/t/p/w780/gBJFN1VhohgZpq6MyCv44E4NCjb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Guerra das Irmãs (1)",
+          "overview": "Ichika, Nino and Itsuki plot ways to make a move on Futaro during the school trip. Yotsuba is troubled by their change in attitude",
+          "cover": "https://image.tmdb.org/t/p/w780/Rap5mg8X1THkNZjsSafZrHS4IQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "024-2-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Guerra das Irmãs (2)",
+          "overview": "With desperation increasing, things become tense amongst the sisters as well as with Futaro. For their elective tour on the last day of the school trip, the quintuplets decide to keep things fair by leaving the outcome to luck.",
+          "cover": "https://image.tmdb.org/t/p/w780/gHmE5c8sipL7lXHPiVQETogtvM9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome-2/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
