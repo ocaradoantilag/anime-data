@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "id": "021",
+  "updatedAt": "2026-09-22T15:04:13Z",
+  "title": {
+    "romaji": "マジック・メイカー ～異世界魔法の作り方～",
+    "english": "Magic Maker: How to Make Magic in Another World",
+    "japanese": "マジック・メイカー ～異世界魔法の作り方～",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/2Fi1IRNripElbkCFKsx6AlHh5JL.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "",
+    "tmdb": "258912",
+    "imdb": "tt34621291"
+  },
+  "information": {
+    "synopsis": "Na noite do seu 30º aniversário, o sonho de um homem de usar magia se torna realidade depois que ele inesperadamente morre. Ele acorda como Sion, um jovem garoto em outro mundo. Ele e sua irmã mais velha, Marie, são filhos de uma família nobre que governa a região. Depois de receber mensagens conflitantes do seu pai, Sion e Marie partem em uma aventura para descobrir a magia.",
+    "year": 2025,
+    "score": 7.5,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "",
+    "season": "",
+    "aired": "",
+    "studios": [],
+    "genres": [
+      "Animação",
+      "Comédia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "021-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "",
+      "episodes": [
+        {
+          "id": "021-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Marie e Shion",
+          "overview": "Marie absolutely adores her younger brother Shion, everything from the way he secretly plays pretend to the oddly grown-up look he gets sometimes. One day, he asks their father about something called \"magic\" and their whole lives change.",
+          "cover": "https://image.tmdb.org/t/p/w780/pt71dJ4RtpCCF08hB0phAWgUiOX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe1/a0/s8/2/M/v/j/w/Mvjww.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Não há mágica neste outro mundo",
+          "overview": "After yearning for magic throughout his first life, Shion lives his second life in another world without magic. But his sister's discovery at a lake has given him hope. As he researches the luminous phenomenon, he feels his dream stir back to life.",
+          "cover": "https://image.tmdb.org/t/p/w780/qMcEHNtemz6dDNzM9xZXIdbBhnq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/b4/s8/2/q/D/k/M/qDkMw.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Ataque Goblin",
+          "overview": "Goblins are sighted near the village. Gawain goes to hunt them while Shion and others from the village hide in the mansion for protection. Suddenly, there's a pounding at the door and a window shatters—a goblin has broken into the mansion.",
+          "cover": "https://image.tmdb.org/t/p/w780/5USkGEMCPOy3tYYeG3vVvLf7ZUn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/85/s8/2/v/I/A/2/vIA2w.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "A pesquisa mágica começa para valer",
+          "overview": "Shion's father finally approves of his magic research, which leads Shion to a new discovery. Marie seems troubled as she devotes herself to her sword.",
+          "cover": "https://image.tmdb.org/t/p/w780/gInPTZvS4J2Q2qFxZ3bcJSPU6Qo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/1/S/z/g/1Szgx.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Minério de Relâmpago e Parafuso",
+          "overview": "Shion and Marie's relationship is mostly back to normal. Now, Grast has a problem that only Shion can solve.",
+          "cover": "https://image.tmdb.org/t/p/w780/ilwlqOwRtTd4fHHMvsBkF6lr0UT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe1/32/s8/2/k/0/V/w/k0Vwx.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Supressão de Guildas e Monstros",
+          "overview": "Left shaken by his father's words, Shion continues his research by taking it into the field to hunt monsters.",
+          "cover": "https://image.tmdb.org/t/p/w780/flFKx6VzBRhs9Scbqw42V9HxeQz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6d/s8/2/-/p/d/Q/-pdQx.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "A vida diária começa a desmoronar",
+          "overview": "Two years after Shion and the others' first monster hunt, a mysterious red light flashes through the clouds.",
+          "cover": "https://image.tmdb.org/t/p/w780/v8aA2LlSYCeOYrbtJ0NOJ2fej2q.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe1/74/s8/2/g/_/v/6/g_v6x.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Eu farei a cura",
+          "overview": "Marie is gravely ill and strange monsters have attacked. Shion is determined to do everything he can to help.",
+          "cover": "https://image.tmdb.org/t/p/w780/7p0DXRo4G8zAN0bDp5JEFqsPg3e.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe1/93/s8/2/M/1/Z/l/M1Zly.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Doença de Letargia ~Tratamento e Pesquisa~",
+          "overview": "Shion devotes himself to finding a cure for lethargy sickness. Rose, worried for her friends, offers to help.",
+          "cover": "https://image.tmdb.org/t/p/w780/19lCnbSa5seyBVsoD4lySb52JsD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe1/d9/s8/2/Q/4/0/p/Q40py.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "A ameaça noturna chegou",
+          "overview": "The night menace appears once more. Shion and the others race out to defend Istria from horde of wraiths.",
+          "cover": "https://image.tmdb.org/t/p/w780/qkjM6Vhouv5yNu8nPYsPE6JbGQR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/34/s8/2/k/t/-/r/kt-ry.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Feitiçaria e Magia",
+          "overview": "Ainswelf's arrival changes everything. Shion steps up to challenge a foe far more powerful than himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/rmrpsiwxUuZKcQL17OEXbZzzwLp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/73/s8/2/w/N/J/w/wNJwy.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "021-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Quem sou eu realmente?",
+          "overview": "Exhausted from the battle, Shion sleeps for a week. He wakes to concerned faces and a mysterious phenomenon.",
+          "cover": "https://image.tmdb.org/t/p/w780/xxGtvn2NhpahRlRn0EL4qD3ZVmB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/4a/s8/2/W/j/I/w/WjIwy.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
