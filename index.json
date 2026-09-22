@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T13:42:05Z",
+  "updatedAt": "2026-09-22T13:54:49Z",
   "animes": [
     {
       "id": "relife",
@@ -126,6 +126,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/017.json"
+    },
+    {
+      "id": "018",
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "cover": "https://image.tmdb.org/t/p/w780/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
+      "year": 2026,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/018.json"
     }
   ]
 }
