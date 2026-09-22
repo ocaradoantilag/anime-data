@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "018",
+  "updatedAt": "2026-09-22T13:54:46Z",
+  "title": {
+    "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+    "english": "Love Unseen Beneath the Clear Night Sky",
+    "japanese": "透明な夜に駆ける君と、目に見えない恋をした。",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/g9MeGvfwHXldvVOttIybvaNfLEM.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "62936",
+    "tmdb": "309974",
+    "imdb": "tt39304754"
+  },
+  "information": {
+    "synopsis": "Kakeru Sorano, um calouro universitário reservado que evita as pessoas, conhece Koharu Fuyutsuki, uma garota cega que encara o mundo com uma alegria discreta. Quando ela diz que quer ver fogos de artifício algum dia, algo dentro de Kakeru muda. À medida que se aproximam por meio de pequenos momentos e da solidão compartilhada, Kakeru busca uma maneira de realizar o desejo de Koharu.",
+    "year": 2026,
+    "score": 8.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Makaria"
+    ],
+    "genres": [
+      "Drama",
+      "Romance",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "018-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "018-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Um encontro",
+          "overview": "At a party, reserved college student Kakeru meets a mysterious and charming young woman who is unable to see.",
+          "cover": "https://image.tmdb.org/t/p/w780/mcmbm0qc0TIlO8cHqJSIV4Cxsnp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/a5/s8/2/e/c/T/D/ecTDA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Fuyutsuki Koharu",
+          "overview": "Kakeru takes Koyuki to try out an old piano and the two tour a Meiji era sailboat that is preserved on campus.",
+          "cover": "https://image.tmdb.org/t/p/w780/2mMguEL4fzTav8mfx0aaomrLZyQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/22/s8/2/u/T/Z/F/uTZFA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O marcador amarelo",
+          "overview": "Kakeru and Koharu go to karaoke with friends and decide to check out the university's fireworks club together.",
+          "cover": "https://image.tmdb.org/t/p/w780/yZQtgZpukUc3oaISUcEFCyRBfa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/7a/s8/2/S/_/9/H/S_9HA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Primeiro encontro",
+          "overview": "Kakeru and Koharu go on their fireworks shopping trip and then enjoy a very relaxing ride home on a water bus.",
+          "cover": "https://image.tmdb.org/t/p/w780/5KPxEWWrXh8LanfqkzovB5cLLcw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/9e/s8/2/g/-/Q/K/g-QKA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Fogos de artifício aéreos",
+          "overview": "Kakeru and his roommate Narumi get a chance to take Koharu and Yuko for a ride on the college's cutter boat.",
+          "cover": "https://image.tmdb.org/t/p/w780/9G67bDkf8clM3HT0iwsbwwZFIEw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/60/s8/2/y/b/k/M/ybkMA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O assento vazio no terraço",
+          "overview": "Kakeru shares an intimate moment with Koharu and then turns to Narumi and Hayase for advice on how to proceed.",
+          "cover": "https://image.tmdb.org/t/p/w780/AnUauaDMJVp0S9P7bEdA8Mwwy8J.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/09/s8/2/-/4/m/O/-4mOA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Transparente",
+          "overview": "After Koharu disappears for a week, Kakeru and Yuko get a clue about where she is and run out to look for her.",
+          "cover": "https://image.tmdb.org/t/p/w780/tHhR6iLorsoIzcBKh0esnztAQk8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6f/s8/2/c/h/p/Q/chpQA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Dores de amor",
+          "overview": "Hoping to spend time with Koharu, Kakeru and friends decide to volunteer at the hospital where she is staying.",
+          "cover": "https://image.tmdb.org/t/p/w780/dHgD0qA1twrcxDRaS6NyDI855H3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/e7/s8/2/m/j/j/S/mjjSA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Sozinho",
+          "overview": "Still volunteering at the hospital, Kakeru learns more about Koharu's illness and happens to meet her mother.",
+          "cover": "https://image.tmdb.org/t/p/w780/5Hz8BydIhjyofRhTMETFpyoSt6O.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/6d/s8/2/i/n/d/U/indUA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Fique ao lado dela",
+          "overview": "Kakeru stays with Koharu through her ups and downs while Yuko takes the lead on preparing the fireworks show.",
+          "cover": "https://image.tmdb.org/t/p/w780/g2ekLKT3UpK1LNdW4SIHJBqoWrt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/74/s8/2/u/d/a/W/udaWA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Sorano Kakeru",
+          "overview": "With the fireworks event approaching, Koharu keeps working step by step toward regaining some of her strength.",
+          "cover": "https://image.tmdb.org/t/p/w780/cRbhLsxtsSYGo4WBtNFtIEanzfM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/75/s8/2/Q/Q/h/Y/QQhYA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "018-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "A memória de uma vida",
+          "overview": "Kakeru and Koharu enjoy their last moments together before she gets transferred to a new hospital in Hokkaido.",
+          "cover": "https://image.tmdb.org/t/p/w780/jPjAxsI4FWDgFcNwJrGaE1TSJmZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/2/k/V/W/Z/kVWZA.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
