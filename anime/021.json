@@ -3,10 +3,13 @@
   "id": "021",
   "updatedAt": "2026-09-22T15:04:13Z",
   "title": {
-    "romaji": "マジック・メイカー ～異世界魔法の作り方～",
-    "english": "Magic Maker: How to Make Magic in Another World",
-    "japanese": "マジック・メイカー ～異世界魔法の作り方～",
-    "synonyms": []
+    "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "english": "Magic Maker: como fazer mágica em outro mundo",
+    "japanese": "マジック・メイカー －異世界魔法の作り方－",
+    "synonyms": [
+      "Magic Maker: How to Make Magic in Another World",
+      "Magic Maker: How to Create Magic in Another World"
+    ]
   },
   "images": {
     "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
@@ -15,28 +18,30 @@
     ]
   },
   "externalIds": {
-    "mal": "",
+    "mal": "59265",
     "tmdb": "258912",
     "imdb": "tt34621291"
   },
   "information": {
-    "synopsis": "Na noite do seu 30º aniversário, o sonho de um homem de usar magia se torna realidade depois que ele inesperadamente morre. Ele acorda como Sion, um jovem garoto em outro mundo. Ele e sua irmã mais velha, Marie, são filhos de uma família nobre que governa a região. Depois de receber mensagens conflitantes do seu pai, Sion e Marie partem em uma aventura para descobrir a magia.",
+    "synopsis": "Um homem de 30 anos que sonha em se tornar um bruxo de repente perde a vida. Reencarnado em outro mundo quando era uma criança chamada Shion, ele cresce ao lado de Marie, sua confiável irmã mais velha que o adora. Shion antecipa ansiosamente o uso de poderes mágicos, mas descobre que o novo mundo aparentemente não tem magia. Ele passa os anos seguintes como uma criança sombria e abatida, até que um fenômeno místico em um lago próximo chama a atenção dos irmãos e dá vida ao seu sonho mágico.\n\nAo fazer experiências com a luz peculiar que emana da água, Shion finalmente confirma que a energia mágica realmente existe. Pode não ser conveniente para nada ainda, mas Shion dedica seu tempo ao estudo da anomalia, determinado a descobrir todas as maravilhas existentes em sua busca para fazer magia.\n\n[Escrito por MAL Rewrite]",
     "year": 2025,
-    "score": 7.5,
-    "ageRating": "",
+    "score": 6.79,
+    "ageRating": "PG-13",
     "type": "TV",
     "status": "Finalizado",
-    "duration": "",
-    "season": "",
-    "aired": "",
-    "studios": [],
-    "genres": [
-      "Animação",
-      "Comédia",
-      "Action & Adventure",
-      "Sci-Fi & Fantasy"
+    "duration": "23 min per ep",
+    "season": "Inverno",
+    "aired": "2025-01-09 até 2025-03-27",
+    "studios": [
+      "Studio Deen"
     ],
-    "themes": [],
+    "genres": [
+      "Fantasia"
+    ],
+    "themes": [
+      "Isekai",
+      "Reincarnation"
+    ],
     "episodes": 12
   },
   "episodes": 12,
@@ -333,5 +338,26 @@
         }
       ]
     }
+  ],
+  "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
+  "synopsis": "Um homem de 30 anos que sonha em se tornar um bruxo de repente perde a vida. Reencarnado em outro mundo quando era uma criança chamada Shion, ele cresce ao lado de Marie, sua confiável irmã mais velha que o adora. Shion antecipa ansiosamente o uso de poderes mágicos, mas descobre que o novo mundo aparentemente não tem magia. Ele passa os anos seguintes como uma criança sombria e abatida, até que um fenômeno místico em um lago próximo chama a atenção dos irmãos e dá vida ao seu sonho mágico.\n\nAo fazer experiências com a luz peculiar que emana da água, Shion finalmente confirma que a energia mágica realmente existe. Pode não ser conveniente para nada ainda, mas Shion dedica seu tempo ao estudo da anomalia, determinado a descobrir todas as maravilhas existentes em sua busca para fazer magia.\n\n[Escrito por MAL Rewrite]",
+  "description": "Um homem de 30 anos que sonha em se tornar um bruxo de repente perde a vida. Reencarnado em outro mundo quando era uma criança chamada Shion, ele cresce ao lado de Marie, sua confiável irmã mais velha que o adora. Shion antecipa ansiosamente o uso de poderes mágicos, mas descobre que o novo mundo aparentemente não tem magia. Ele passa os anos seguintes como uma criança sombria e abatida, até que um fenômeno místico em um lago próximo chama a atenção dos irmãos e dá vida ao seu sonho mágico.\n\nAo fazer experiências com a luz peculiar que emana da água, Shion finalmente confirma que a energia mágica realmente existe. Pode não ser conveniente para nada ainda, mas Shion dedica seu tempo ao estudo da anomalia, determinado a descobrir todas as maravilhas existentes em sua busca para fazer magia.\n\n[Escrito por MAL Rewrite]",
+  "year": 2025,
+  "score": 6.79,
+  "ageRating": "PG-13",
+  "type": "TV",
+  "status": "Finalizado",
+  "duration": "23 min per ep",
+  "studios": [
+    "Studio Deen"
+  ],
+  "season": "Inverno",
+  "aired": "2025-01-09 até 2025-03-27",
+  "genres": [
+    "Fantasia"
+  ],
+  "themes": [
+    "Isekai",
+    "Reincarnation"
   ]
 }
