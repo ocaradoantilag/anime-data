@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "023",
+  "updatedAt": "2026-09-22T15:11:17Z",
+  "title": {
+    "romaji": "Go-toubun no Hanayome",
+    "english": "The Quintessential Quintuplets",
+    "japanese": "五等分の花嫁",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/uuqVT15I6P4ow7NS0stu7aM2X5w.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "38101",
+    "tmdb": "84669",
+    "imdb": "tt9584920"
+  },
+  "information": {
+    "synopsis": "Futaro Uesugi, um estudante do segundo ano do colegial que vem de uma família pobre, recebe uma irrecusável proposta para trabalhar como tutor... e descobre que suas pupilas são suas colegas de classe! E pra piorar, são gêmeas quíntuplas... Todas lindíssimas, mas com péssimas notas e um ódio mortal pelos estudos! Sua primeira missão será ganhar a confiança das garotas?! Todo dia é dia de festa nesta comédia romântica 500% adorável envolvendo as irmãs gêmeas da casa das Irmãs Nakano!",
+    "year": 2019,
+    "score": 7.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "Tezuka Productions"
+    ],
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "023-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2019,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "023-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Os Quintuplos Quintessenciais",
+          "overview": "Uesugi Fuutarou lands a tutoring job that promises five times the normal pay. As it turns out, it’s going to take more than five times the work.",
+          "cover": "https://image.tmdb.org/t/p/w780/idksRNHGBRJifgcNtafV2vRkc2K.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Confissão no telhado",
+          "overview": "Futaro proposes an exam to settle the debate of whether or not the quintuplets need a tutor.",
+          "cover": "https://image.tmdb.org/t/p/w780/p9vpx3SzOi091OnSVibZMNx6gAE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uma montanha de problemas",
+          "overview": "Nino isn't happy that Futaro is beginning to get along with her sisters, so she takes matters into her own hands.",
+          "cover": "https://image.tmdb.org/t/p/w780/vkuYEpktTjfZTZcl8XcChR0CN71.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Um dia de folga",
+          "overview": "Futaro receives his first pay, and decides to take Raiha to the arcade, where she’s always wanted to go.",
+          "cover": "https://image.tmdb.org/t/p/w780/6efVN2hJjtjOL45es2pcnVLeTi1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Cinco Quintos",
+          "overview": "The fireworks have started, but the girls are still split up. Ichika wanders off on her own, and Futaro goes after her.",
+          "cover": "https://image.tmdb.org/t/p/w780/2q2YsW4NkP7x7dvN2f7I7rgC96b.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O que foi construído",
+          "overview": "The midterm exams are coming up, and the girls' father set Futaro up to a seemingly impossible task.",
+          "cover": "https://image.tmdb.org/t/p/w780/ti6gflFewtfqnvrJTBF4ujf3AfN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "McLieface Selvagem",
+          "overview": "Futaro spent the night at the quintuplets' apartment. He wakes up to an unexpected situation.",
+          "cover": "https://image.tmdb.org/t/p/w780/jVCa5827BHZy6R8WKg1dujRiatX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "A foto que começou tudo",
+          "overview": "Futaro falls ill after Miku feeds him a hefty serving of croquettes. Nino makes the situation even worse than it needs to be.",
+          "cover": "https://image.tmdb.org/t/p/w780/71qJGAozGA1gVdHaTGnSRQGBWRE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Lenda do Destino, Dia 1",
+          "overview": "School is abuzz about the camp school trip coming up. Meanwhile, Raiha catches the flu.",
+          "cover": "https://image.tmdb.org/t/p/w780/h5lIfHzWjeLZq8iHjUSc5imcFWB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Lenda do Destino, Dia 2",
+          "overview": "Futaro and the girls arrive at camp school. His outfit for the test of courage causes more than just a scare for Nino.",
+          "cover": "https://image.tmdb.org/t/p/w780/qRZ44taaodB1Ab3STm4DkVetVEg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Lenda do Destino, Dia 3",
+          "overview": "Ichika and Futaro get locked in the storage shed. The others are concerned about their absence, but not necessarily for the same reasons.",
+          "cover": "https://image.tmdb.org/t/p/w780/y4tolFhHvurClUkgAfnfpfl7Vy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "023-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Dia da Lenda do Destino 2000",
+          "overview": "It’s the last day of camp school. Itsuki is missing. Futaro thinks he knows where to find her, but he’s sick and shouldn’t be wandering in the snow.",
+          "cover": "https://image.tmdb.org/t/p/w780/8oEgNvWWvSni776AOg0zX8lpMGF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gotoubun-no-hanayome/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
