@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "013",
+  "updatedAt": "2026-09-21T22:42:40Z",
+  "title": {
+    "romaji": "Niwatori Fighter",
+    "english": "Galo Lutador",
+    "japanese": "ニワトリ・ファイター",
+    "synonyms": [
+      "Rooster Fighter"
+    ]
+  },
+  "images": {
+    "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+    "background": [
+      "https:\/\/image.tmdb.org\/t\/p\/w1280\/nTDL4UmMLDBCeMtYh8F1LZtgmLV.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59393",
+    "tmdb": "259819",
+    "imdb": "tt33086804"
+  },
+  "information": {
+    "synopsis": "Quando criaturas estranhas atacam, Keiji as enfrenta cara a cara com seu grito de guerra: Kokekokko!",
+    "year": 2026,
+    "score": 6.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "SANZIGEN"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Sobrenatural",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "013-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "013-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Um galo entre guindastes",
+          "overview": "Keiji, the wandering rooster, lands in a new city, but a Demon suddenly appears!",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/rvLiZOzkpLglemPSv2LwAS7Fw7u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/01.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O pássaro enjaulado",
+          "overview": "Keiji's injured soon after he saves Piyoko's \"Pops\" from permanently transforming into a Demon.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/gqyOnvqHuQo164NxoiQwkuBrPlZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/02.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "A Parábola dos Três Pássaros",
+          "overview": "Elizabeth challenges Keiji to a fight and divulges info about the White Demon, his sworn enemy.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/sPaaSQsdXeqguApY51Bzc9nmwuU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/03.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Concentrando-se no Desejo",
+          "overview": "The trio find themselves at a village where the adults have been brainwashed by a Demon.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/jSZC01O12OCKpURE0St60mIIg6c.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/04.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Os dispersores de rebanho heterogêneo",
+          "overview": "The trio have a falling out and go their separate ways, while a typhoon ominously approaches.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/7I1S2W5ghy5fvfQIvMi5w1xqFh1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/05.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Construído como uma gaiola de tijolos",
+          "overview": "When Morio's efforts fail, the flood approaches! Will Keiji and his flock be able to save the city?",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/sGDL3BRvJjYBTkfMw0nHhhoN7lp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/06.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Cantando sobre uma pena",
+          "overview": "Keiji puts his chicken pride on the line and accepts an invitation to a group date!",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/1ju3h4519MiGQIjvuRGBWC6d57g.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/07.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Nem todas as penas cantam",
+          "overview": "Keiji finds out a brainwashed Morio is on a rampage and heads out to save him.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/vmuSBgxbQQFQgTXUBzZDKpDqahM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/08.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Foi para os pássaros",
+          "overview": "Demons and Devils lie in wait to attack Keiji and his flock.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/fr0xjUYgDBA5QiphQ4ux90P2uVg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/09.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Para encurralar um pássaro em um canto",
+          "overview": "Keiji and his friends struggle against the powerful Devil, Yuji.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/dA5tPMNj9sPJmOsMwP9qOrt9Jw2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/10.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "São necessárias duas asas para voar",
+          "overview": "Keisuke's new power awakens when he witnesses Keiji's struggle against Hikari.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/Ae583A4JKYtUZPANRIMymXDrFvM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/11.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "013-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "O que os pássaros, os animais e as árvores compartilham",
+          "overview": "Keiji overwhelms Hikari with his new power, the Awakening of Ruin.",
+          "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/lqRucqPGcJD4A2KEVs5rImaK5yL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/rooster-fighter\/12.mp4\/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
