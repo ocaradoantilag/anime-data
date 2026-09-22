@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T13:54:49Z",
+  "updatedAt": "2026-09-22T13:57:34Z",
   "animes": [
     {
       "id": "relife",
@@ -138,6 +138,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/018.json"
+    },
+    {
+      "id": "019",
+      "title": "The Villager of Level 999",
+      "cover": "https://image.tmdb.org/t/p/w780/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+      "year": 2026,
+      "type": "ONA",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/019.json"
     }
   ]
 }
