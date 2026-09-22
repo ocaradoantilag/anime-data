@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T14:06:55Z",
+  "updatedAt": "2026-09-22T15:04:17Z",
   "animes": [
     {
       "id": "relife",
@@ -162,6 +162,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/020.json"
+    },
+    {
+      "id": "021",
+      "title": "Magic Maker: How to Make Magic in Another World",
+      "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/021.json"
     }
   ]
 }
