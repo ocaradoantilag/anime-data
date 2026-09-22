@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "1790103599892",
+  "updatedAt": "2026-09-22T16:59:21Z",
   "animes": [
     {
       "id": "relife",
@@ -198,6 +198,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/023.json"
+    },
+    {
+      "id": "024",
+      "title": "Dragon Ball Daima",
+      "cover": "https://image.tmdb.org/t/p/w780/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
+      "year": 2024,
+      "type": "TV",
+      "episodes": 20,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/024.json"
     }
   ]
 }
