@@ -1,107 +1,119 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T00:46:23Z",
+  "updatedAt": "2026-09-22T13:39:53Z",
   "animes": [
     {
       "id": "relife",
       "title": "ReLIFE",
-      "cover": "https:\/\/cdn-sv01.maximaimg.online\/stream\/r\/relife\/cover.jpg",
+      "cover": "https://cdn-sv01.maximaimg.online/stream/r/relife/cover.jpg",
       "year": 2016,
       "type": "TV",
-      "file": "anime\/relife.json"
+      "file": "anime/relife.json"
     },
     {
       "id": "007",
       "title": "Hell Mode: O Gamer Hardcore Domina Outro Mundo com um Balanceamento Lixo",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ar1cYNAAlhM0vFpJrAl8JIruWEF.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/ar1cYNAAlhM0vFpJrAl8JIruWEF.jpg",
       "year": 2026,
       "type": "TV",
       "episodes": 12,
-      "file": "anime\/007.json"
+      "file": "anime/007.json"
     },
     {
       "id": "009",
       "title": "O trabalho mais forte aparentemente não é o de um herói ou de um sábio, mas de um avaliador (provisório)!",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/87ZIlbgDSVMCN9ThYHjxJIhAyg9.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/87ZIlbgDSVMCN9ThYHjxJIhAyg9.jpg",
       "year": 2026,
       "type": "ONA",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/009.json"
+      "file": "anime/009.json"
     },
     {
       "id": "010",
       "title": "De ofuscado a dominado: segunda reencarnação de um sábio sem talento",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
       "year": 2026,
       "type": "ONA",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/010.json"
+      "file": "anime/010.json"
     },
     {
       "id": "011",
       "title": "Jaadugar: A Witch in Mongolia",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
       "year": 2026,
       "type": "TV",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/011.json"
+      "file": "anime/011.json"
     },
     {
       "id": "012",
       "title": "The Warrior Princess and the Barbaric King",
-      "cover": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx182483-La7chs6htDWr.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
       "year": 2026,
       "type": "TV",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/012.json"
+      "file": "anime/012.json"
     },
     {
       "id": "013",
       "title": "Galo Lutador",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
       "year": 2026,
       "type": "TV",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/013.json"
+      "file": "anime/013.json"
     },
     {
       "id": "014",
       "title": "Headhunted to Another World: From Salaryman to Big Four!",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
       "year": 2025,
       "type": "ONA",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/014.json"
+      "file": "anime/014.json"
     },
     {
       "id": "015",
       "title": "Haibara's Teenage New Game+",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w780\/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
+      "cover": "https://image.tmdb.org/t/p/w780/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
       "year": 2026,
       "type": "TV",
       "episodes": 12,
       "recommended": false,
       "trending": false,
       "newEpisodes": false,
-      "file": "anime\/015.json"
+      "file": "anime/015.json"
+    },
+    {
+      "id": "016",
+      "title": "Grand Blue Dreaming",
+      "cover": "https://image.tmdb.org/t/p/w780/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+      "year": 2018,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/016.json"
     }
   ]
 }
