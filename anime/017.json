@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "id": "017",
+  "updatedAt": "2026-09-22T13:42:03Z",
+  "title": {
+    "romaji": "Suki na Ko ga Megane wo Wasureta",
+    "english": "Minha Crush Esqueceu os Óculos",
+    "japanese": "好きな子がめがねを忘れた",
+    "synonyms": [
+      "The Girl I Like Forgot Her Glasses"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/xLk0eyJ7Fcc4PK6gLORmeQSLhlk.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/np7BpOfdWqCZ56cjJiNCFCKeQVP.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "54234",
+    "tmdb": "218263",
+    "imdb": "tt28265657"
+  },
+  "information": {
+    "synopsis": "Uma comédia romântica muito agradável sobre um garoto que só tem olhos para a garota que sempre esquece seus óculos! Com o novo ano escolar, chega uma nova sala de aula, novos colegas de classe e uma nova carteira para o tímido Komura. Mas qualquer apreensão que ele possa ter sentido se dissipa rapidamente quando ele avista Mie, que se senta ao seu lado. Com um hábito de deixar escapar silenciosamente as coisas mais aleatórias possíveis, a peculiar Mie usa óculos grossos que acentuam seus olhos adoráveis, fazendo o coração de Komura bater mais forte! Infelizmente, Mie é patologicamente esquecida e nunca consegue se lembrar de levar seus óculos para a aula! Mas nem tudo está perdido! Seu rosto franzino e malvado faz o coração de Komura disparar! Enquanto Komura está ansioso para ajudar e compartilhar seus livros com Mie, seu coração vai desistir da tensão quase diária de estar próximo de sua paixão?!",
+    "year": 2023,
+    "score": 6.9,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "GoHands"
+    ],
+    "genres": [
+      "Comédia",
+      "Romance",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 13
+  },
+  "episodes": 13,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "017-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "Finalizado",
+      "episodeCount": 13,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "017-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A garota que eu gosto esqueceu os óculos",
+          "overview": "Komura has a crush on a peculiar girl named Mie, who he has known for exactly three days. She forgot her glasses today, and somehow, that makes her even cuter even though she can't really see anything.",
+          "cover": "https://image.tmdb.org/t/p/w780/wcn78sZuFsQ5CpqMhh6znqsdIlm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/e/B/x/KeBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "A garota que eu gosto me convidou para sair",
+          "overview": "Mie keeps forgetting her glasses, making lunch service a challenge, but Komura still finds her adorable. When Komura gets a text from Mie on the weekend, is it a date, or....",
+          "cover": "https://image.tmdb.org/t/p/w780/aOrtRHmSjsyJPdXDm8ZZJ4l8gck.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/f/B/x/VfBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "A garota que eu gosto pegou uma carta de amor",
+          "overview": "Daily life as Mie is a challenge when she forgets her glasses so often. Thank goodness for Komura-kun! But when Mie receives a love letter, has Komura’s luck run out?",
+          "cover": "https://image.tmdb.org/t/p/w780/q7hi0q2L1rG0YiIQrj6whK2rMyS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/v/t/B/x/vtBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Escolhi um par de óculos para a garota que gosto",
+          "overview": "Between one and another help he needs to give Mie, Komura is faced with situations that put his sanity and common sense to the test.",
+          "cover": "https://image.tmdb.org/t/p/w780/jcRZO2DszO2PNxVQCERa5QCTh5p.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/u/B/x/GuBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Eu me encontrei com a garota que gosto no dia dos namorados",
+          "overview": "On Valentine's Day, girls give chocolates to boys usually as a form of friendship. For Komura, what matters is receiving one from Mie, whether it has a more meaningful implication or not.",
+          "cover": "https://image.tmdb.org/t/p/w780/csGlvyN3QtlaoNPy3nTzCanBafv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/z/H/B/x/zHBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A garota que eu gosto e dei as boas-vindas ao novo período escolar",
+          "overview": "A year has passed since Komura fell helplessly into Mie's glassesless eyes. A new term has come, and with it new seats. Will Komura and Mie be separated? Will a new deskmate fall for Mie? Will Komura be able to focus long enough to find out?",
+          "cover": "https://image.tmdb.org/t/p/w780/h3lDgFj2llpBxqUsAthcLZS7ldo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/g/I/B/x/gIBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Trouxe para casa os óculos da garota que eu gosto",
+          "overview": "When Mie forgets her glasses at school, Komura ends up taking the home for the weekend. To keep them safe. That's all. Really. He's only keeping them safe!",
+          "cover": "https://image.tmdb.org/t/p/w780/ivtcYJigeNvKLTDugA2fa3RAVPn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/P/S/B/x/PSBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "A garota que eu gosto e eu vi uma confissão juntos",
+          "overview": "Komura and Mie continue to grow closer, in rain, shine, and dark of night. They even witness a confession together. Will Komura follow suit?",
+          "cover": "https://image.tmdb.org/t/p/w780/x1ViEwWzDRe81h1yAsdoxq7OEY5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/U/B/x/WUBxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Fiz uma viagem de campo com a garota que gosto",
+          "overview": "When Mie and Komura go on a school field trip, will they join groups or stay separate? Will Mie remember her glasses? And if not, what dangers await Mie in an unfamiliar environment? Fortunately, Komura is always there to help.",
+          "cover": "https://image.tmdb.org/t/p/w780/l0nYEmneM7Dr9lUcyXonFZyAwnd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/p/6/B/x/p6Bxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "A garota que eu gosto tinha um pedido",
+          "overview": "Mie and Komura have gotten closer... much much closer. So when Mie makes a special request of Komura, what will it be?",
+          "cover": "https://image.tmdb.org/t/p/w780/mpAYCbXayrfurg70b5i2LbmzzH9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/7/B/x/A7Bxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "No Dia do Festival Cultural, A Garota que Gosto e Eu...",
+          "overview": "The annual Cultural Festival has arrived. Mie and Komura are both preparing exhibits. What will they be, and will they impress each other? Perhaps beauty is in the eye of the beholder...",
+          "cover": "https://image.tmdb.org/t/p/w780/7jEpFXv6OJT8NZpQ7WE0LzA9YCE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/j/C/x/EjCxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Eu queria praticar culinária com a garota que eu gosto",
+          "overview": "It's cooking practice day at school. What will Mie make? And FAR more importantly, who will get to taste her food? Mie and Komura contemplate their past dreams for the future, and perhaps their new dreams...",
+          "cover": "https://image.tmdb.org/t/p/w780/81Di7JQsggkuG0M0RVkKhkWIQBF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/k/C/x/AkCxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "017-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "A garota que eu gosto e fiz uma promessa",
+          "overview": "As the school year comes to an end, Mie meets an elementary school classmate, but can't remember who he is. Will Komura too be forgotten one day? Will this year be a fading dream or a past to remember?",
+          "cover": "https://image.tmdb.org/t/p/w780/9TJrnuUBM2tEH3McdTjhfsNogoY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/l/C/x/LlCxn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
