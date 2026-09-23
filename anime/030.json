@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "030",
+  "updatedAt": "2026-09-23T16:03:50Z",
+  "title": {
+    "romaji": "Shuumatsu no Valkyrie",
+    "english": "Record of Ragnarok",
+    "japanese": "終末のワルキューレ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/6pSkqecoNsxSA467Z28uhVDrjXo.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "44942",
+    "tmdb": "114868",
+    "imdb": "tt13676344"
+  },
+  "information": {
+    "synopsis": "Antes de ser eliminada pelos deuses, a humanidade tem uma última chance de provar que merece viver. Que comecem as batalhas do Ragnarok!",
+    "year": 2021,
+    "score": 6.7,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Graphinica"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Fantasia",
+      "Sobrenatural",
+      "Action & Adventure",
+      "Animação",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "030-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2021,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "030-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Ragnarok",
+          "overview": "At the Council of Valhalla, the gods vote unanimously for humankind's extinction. But Brunhilde, eldest of the Valkyrie sisters, raises her objection.",
+          "cover": "https://image.tmdb.org/t/p/w780/yJCZIaulQqjRAlgWnBlP1Rwkbb2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Oponente digno",
+          "overview": "In the first round of the Ragnarok battle, Han dynasty warlord Lü Bu puts up a good fight against Norse god Thor, surprising the gods in attendance.",
+          "cover": "https://image.tmdb.org/t/p/w780/aai6GXiCf2eeISDv5iTHZVAl34u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Movimento Assassino",
+          "overview": "To give Lü Bu the upper hand against Thor, Brünnhilde summons her sister Randgriz and asks her to transform into a sacred weapon — the Shield Breaker.",
+          "cover": "https://image.tmdb.org/t/p/w780/qi1nhQeXG7D9F9CXHIle0yFwt75.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Alegria",
+          "overview": "Lü Bu's legs are crushed by the mighty Geirröd Thor's Hammer attack, but just when all hope seems lost, the warlord's trusty horse Red Hare rides in.",
+          "cover": "https://image.tmdb.org/t/p/w780/e6Df2Ekbl9qJW7PmLtYRNSDmVl9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "ARQUIVO Nº 00000000001",
+          "overview": "Chosen for the next round is the father of humankind and the man bearing more hatred towards the gods than anyone else: Adam himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/v4i8xQeyhes4pMH3E3NmWk6o1YQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Ótima emulação",
+          "overview": "Zeus insists on going up against Adam, who joins forces with Valkyrie Reginleif to obtain a most peculiar weapon: a knuckleduster.",
+          "cover": "https://image.tmdb.org/t/p/w780/iNXaSHJbtew9qbF3q9ZwOmFNkCz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Expulso do Paraíso",
+          "overview": "Just when it looks like Adam will earn humankind the victory they long for, Zeus gathers his strength to ask Adam why he's really fighting.",
+          "cover": "https://image.tmdb.org/t/p/w780/bWNrHARxecJCcIAYDFKHlqB1Xam.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Graça abundante",
+          "overview": "Zeus has transformed into his final most powerful form, but after the beating he's suffered, he may not last much longer in the fight.",
+          "cover": "https://image.tmdb.org/t/p/w780/nyskn0IxG9i7Vee12G4CNRxFgmA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Tirano do Oceano",
+          "overview": "Humankind is desperate to win the next bout, but the god they're going up against is one of the mightiest of them all: Poseidon.",
+          "cover": "https://image.tmdb.org/t/p/w780/xWofkIgdnOrYfNNtMR4GtaRRjef.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Maior perdedor",
+          "overview": "Kojiro Sasaki uses his mighty Tsubame Gaeshi move to finish off Poseidon, but the god of the sea won't be sunk so easily.",
+          "cover": "https://image.tmdb.org/t/p/w780/dE6LmylAd2RT7ozn2yMY2lUgCtk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A andorinha olha para o abismo",
+          "overview": "Through the power of Valkyrie Hrist, Kojiro's broken blade is transformed into dual swords, allowing him to tap into the depths of his inner strength.",
+          "cover": "https://image.tmdb.org/t/p/w780/3OR8vVXjWE6VId3u76p9WLv6K1U.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "030-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "E Ragnarok continua",
+          "overview": "Despite Kojiro's Niten Ganryu duel blade method, Poseidon's powerful attacks continue to wear him down. But the battle isn't over yet.",
+          "cover": "https://image.tmdb.org/t/p/w780/6pJlzARnDmyQI3dMlGTf8nuHjAE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shuumatsu-no-valkyrie/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
