@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T17:17:55Z",
+  "updatedAt": "2026-09-23T17:26:59Z",
   "animes": [
     {
       "id": "relife",
@@ -390,6 +390,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/039.json"
+    },
+    {
+      "id": "040",
+      "title": "High School DxD",
+      "cover": "https://image.tmdb.org/t/p/w780/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
+      "year": 2012,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/040.json"
     }
   ]
 }
