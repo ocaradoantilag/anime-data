@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "034",
+  "updatedAt": "2026-09-23T16:52:08Z",
+  "title": {
+    "romaji": "Ishura",
+    "english": "Ishura",
+    "japanese": "異修羅",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/xleVFCZ2FnFHZbZIhcZ4GRbABas.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "54449",
+    "tmdb": "220286",
+    "imdb": "tt26713948"
+  },
+  "information": {
+    "synopsis": "O Rei Demônio, que espalhou o medo por todo o mundo, foi derrotado. No entanto, o nome e a própria existência do Herói que realizou esse feito permanecem um mistério. Agora que a era do medo chegou ao fim, a batalha para coroar o Herói supremo se inicia.",
+    "year": 2024,
+    "score": 6.5,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "Passione"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "034-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "034-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Soujirou, a Espada do Salgueiro",
+          "overview": "Numerous golems emerge in the city. Amidst the chaos, a swordsman, Soujirou Yagyuu, appears.",
+          "cover": "https://image.tmdb.org/t/p/w780/eTiiL4NrH3dH5oi6mY5kQQSsLOa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Alus, o Corredor Estelar",
+          "overview": "A spy comes under attack, and a certain military officer attempts to slay a dragon.",
+          "cover": "https://image.tmdb.org/t/p/w780/z8DRd24HK5fetHsjTW5FZl598RF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Dakai, a pega, e Regnejee, as asas do pôr do sol",
+          "overview": "Dakai the Magpie searches for a traitor, while Regnejee searches for a rule-breaker.",
+          "cover": "https://image.tmdb.org/t/p/w780/8SvUyj1dLuUad2GNLrTHilitKrv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Nihilo, a Debandada Vortical e Kia, a Palavra do Mundo",
+          "overview": "Hidow the Clamp releases a notorious figure, and Elea the Red Tag infiltrates an elf village.",
+          "cover": "https://image.tmdb.org/t/p/w780/yxG6eOa4tIieWwY9IpeYwwaj9fS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Higuare, o Pelágico e Nastique, o Cantor Silencioso",
+          "overview": "Higuare the Pelagic and Shalk the Sound Slicer meet with Taren the Guarded.",
+          "cover": "https://image.tmdb.org/t/p/w780/dojTFIJ8goGeeKTExSHb7lK93kv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Reunião de Facções",
+          "overview": "Soujirou and Yuno are tasked by Hidow the Clamp with a consequential mission.",
+          "cover": "https://image.tmdb.org/t/p/w780/cHext9UHBYIxrc9Utvt5qykOLph.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "A guerra começa",
+          "overview": "Yuno the Distant Talon and Soujirou the Willow-Sword are attacked by deadly assassins from Lithia.",
+          "cover": "https://image.tmdb.org/t/p/w780/jFu5PKhTQkd8mFFk8dj0TgS7sOi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "A Guerra do Novo Rei Demônio",
+          "overview": "Yuno the Distant Talon discovers the person responsible for a certain tragedy and vows her revenge.",
+          "cover": "https://image.tmdb.org/t/p/w780/rC4sUptMCyJu7tMIHKbGLDOfInJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Fogo do céu",
+          "overview": "Soujirou encounters a worthy opponent, while Alus the Star Runner gets surrounded by wyverns.",
+          "cover": "https://image.tmdb.org/t/p/w780/abbzArBtIwTAaOCedkspbpveImL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Calamidade Desaparecida",
+          "overview": "Elea and Kia search for Lana the Moon Tempest, and Dakai confronts Nihilo the Vortical Stampede.",
+          "cover": "https://image.tmdb.org/t/p/w780/79CD7Mnxv7gbKQd9nJg0u0yzo4v.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Quando o sol se põe",
+          "overview": "Regnejee the Wings of Sunset tries to help Curte of the Fair Skies escape.",
+          "cover": "https://image.tmdb.org/t/p/w780/FmjiBanmobFpIxdJ3eh9K0mVcy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "034-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Asura",
+          "overview": "The shura head to Aureatia, each with their own motives.",
+          "cover": "https://image.tmdb.org/t/p/w780/2yASYHxMTjJ11zW4ykTfQLUrTzF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/i/ishura/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
