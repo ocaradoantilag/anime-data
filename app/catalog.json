@@ -151,6 +151,12 @@
       "file": "anime/013.json"
     },
     {
+      "id": "042",
+      "title": "NOBLESSE",
+      "cover": "https://image.tmdb.org/t/p/w780/czcrMXV7oCwg0gRfTAHcphmSnVl.jpg",
+      "file": "anime/042.json"
+    },
+    {
       "id": "026",
       "title": "One Punch Man",
       "cover": "https://image.tmdb.org/t/p/w780/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
