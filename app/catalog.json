@@ -61,6 +61,12 @@
       "file": "anime/012.json"
     },
     {
+      "id": "028",
+      "title": "Kengan Ashura",
+      "cover": "https://image.tmdb.org/t/p/w780/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+      "file": "anime/028.json"
+    },
+    {
       "id": "003",
       "title": "Kimi ni Todoke",
       "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
