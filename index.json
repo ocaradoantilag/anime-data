@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T19:35:21Z",
+  "updatedAt": "2026-09-23T19:40:50Z",
   "animes": [
     {
       "id": "relife",
@@ -486,6 +486,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/047.json"
+    },
+    {
+      "id": "048",
+      "title": "A Journey Through Another World: Raising Kids While Adventuring",
+      "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+      "year": 2024,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/048.json"
     }
   ]
 }
