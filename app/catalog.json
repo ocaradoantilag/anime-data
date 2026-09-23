@@ -25,6 +25,12 @@
       "file": "anime/027.json"
     },
     {
+      "id": "033",
+      "title": "Gleipnir",
+      "cover": "https://image.tmdb.org/t/p/w780/1hPI4AAM4hOMNV2ucOvsVg7LJsV.jpg",
+      "file": "anime/033.json"
+    },
+    {
       "id": "023",
       "title": "Go-toubun no Hanayome",
       "cover": "https://image.tmdb.org/t/p/w780/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
