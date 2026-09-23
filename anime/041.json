@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 1,
+  "id": "041",
+  "updatedAt": "2026-09-23T17:39:06Z",
+  "title": {
+    "romaji": "Dandadan",
+    "english": "Dan-Dan",
+    "japanese": "ダンダダン",
+    "synonyms": [
+      "Dan Da Dan"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/uNTrRKIOyKYISthoeizghtXPEOK.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "57334",
+    "tmdb": "240411",
+    "imdb": "tt30217403"
+  },
+  "information": {
+    "synopsis": "Recuperando-se de seu recente rompimento, Momo Ayase, uma estudante popular do ensino médio, mostra bondade para com seu colega de escola socialmente desajeitado, Ken Takakura, enfrentando seus valentões. Takakura não entende suas intenções, acreditando que fez um novo amigo que compartilha sua obsessão por alienígenas e OVNIs. No entanto, as excêntricas crenças ocultas de Momo residem no reino sobrenatural; ela acha que alienígenas não existem. Uma rivalidade surge rapidamente à medida que cada um fica determinado a provar que o outro está errado.\n\nApesar do conflito inicial sobre crenças opostas, Momo e Takakura formam uma amizade inesperada, mas íntima, um vínculo forjado em uma série de batalhas sobrenaturais e encontros bizarros com lendas urbanas e entidades paranormais. À medida que ambos desenvolvem habilidades sobre-humanas únicas, eles aprendem a complementar as fraquezas um do outro, levando-os a se perguntar se a sua nova parceria pode ser mais do que apenas sobrevivência.\n\n[Escrito por MAL Rewrite]",
+    "year": 2024,
+    "score": 8.4,
+    "ageRating": "18+",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep",
+    "season": "Outono",
+    "aired": "2024-10-04 até 2024-12-20",
+    "studios": [
+      "Science SARU"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Sobrenatural"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "041-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "23 min per ep",
+      "episodes": [
+        {
+          "id": "041-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "É assim que o amor começa, você sabe!",
+          "overview": "Momo believes in ghosts. Okarun believes in aliens. To make each other believe what they deny, they head to a spot famous for UFO sightings and a spiritual hotspot.",
+          "cover": "https://image.tmdb.org/t/p/w780/bmVsa3oLgAd26YNJOPjJ4QgWY08.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Isso é um alienígena espacial, não é?!",
+          "overview": "Momo awakens psychic powers, while Okarun is cursed by Turbo Granny. They evacuate to Momo's house, but a giant alien appears before them.",
+          "cover": "https://image.tmdb.org/t/p/w780/aIgNMI3bAR1yauVFlozRzsRdmxj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "É um confronto entre vovó e vovó!",
+          "overview": "After Momo's grandmother temporarily suppresses the evil spirit within Okarun, she says that a game of tag may be the key to defeating it for good.",
+          "cover": "https://image.tmdb.org/t/p/w780/mM7WAhNZyXO0axLZ0FGhNIwY5Xv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Chutando a bunda da Vovó Turbo",
+          "overview": "Okarun and Momo arrive at the tunnel to confront Turbo Granny. Just when they think they've won, a giant crab spirit crashes through the wall.",
+          "cover": "https://image.tmdb.org/t/p/w780/eTbwdeKsf7MV3Lj73F1VRQHfx80.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Tipo, onde estão suas bolas?!",
+          "overview": "Momo and Okarun’s ordeal with Turbo Granny has brought them closer, but things remain awkward between them. Okarun realizes he still has a problem.",
+          "cover": "https://image.tmdb.org/t/p/w780/s5JwTxygUTK9n3DuUyLqMaiJ2YZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Uma mulher perigosa chega",
+          "overview": "Turbo Granny reveals that Okarun's missing organs are contained within golden spheres. Aira, who has found one, now has the ability to see spirits.",
+          "cover": "https://image.tmdb.org/t/p/w780/lcv6jNytD27nnf7xlJYvYbG8gTo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Para um mundo mais gentil",
+          "overview": "Momo and Okarun manage to weaken Acrobatic Silky but make a shocking discovery regarding Aira. Acrobatic Silky suggests a surprising way to help.",
+          "cover": "https://image.tmdb.org/t/p/w780/cgjVqy43CAnHyOQSdNMoICiRGFk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Eu tenho esse sentimento engraçado",
+          "overview": "Aira begins to develop a crush on Okarun. As the three friends' emotions intertwine, they suddenly face another extraterrestrial emergency.",
+          "cover": "https://image.tmdb.org/t/p/w780/27ljA0RrrnK5OQ3AvnorwslMPAg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Mesclar! Serpo Dover Demônio Nessie!",
+          "overview": "Aira has awakened the powers of Acrobatic Silky within her and fights the Serpoians alongside Okarun and Momo.",
+          "cover": "https://image.tmdb.org/t/p/w780/cs4OHpnp1ImA5kYFQGUyZk0nPWC.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Você já viu uma mutilação de gado?",
+          "overview": "Okarun and the girls try to clean up some misunderstandings with their classmates. The aquatic creature reappears before Momo and Aira.",
+          "cover": "https://image.tmdb.org/t/p/w780/eC5j96o7lULnR3Ea4NtYUcNnz3J.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Primeiro amor",
+          "overview": "Momo's childhood friend Jiji has come to stay with the Ayases. He explains that he needs Seiko’s help with some strange phenomena at his house.",
+          "cover": "https://image.tmdb.org/t/p/w780/ukLCwrihDj0hYDMolv5KsNanIed.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Vamos para a casa amaldiçoada",
+          "overview": "On the way to investigate the Enjoji house, Okarun feels uneasy about Jiji's closeness to Momo but finds himself drawn to his friendly nature.",
+          "cover": "https://image.tmdb.org/t/p/w780/kgfnqFois5hvCOh7ba8PnUEFaYq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Tipo, esta é a lenda da cobra gigante",
+          "overview": "As Momo fends off an attack in the outdoor hot spring, Okarun and Jiji panic over how to handle the mysterious room. The doorbell rings.",
+          "cover": "https://image.tmdb.org/t/p/w780/n2ritMv4rP5KAdzRZzVJnX0IJqY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "O mau-olhado",
+          "overview": "In a bid to free Okarun and Momo from the Mongolian Death Worm’s psychic power, Jiji attempts to carry them to safety but runs into a powerful entity.",
+          "cover": "https://image.tmdb.org/t/p/w780/7u6vC1qPzRaADxsmkp99l22Tht1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Você não vai escapar impune disso!",
+          "overview": "Unwilling to leave Jiji behind, Okarun helps Momo escape to the surface. Momo then begins forming a plan to expose the Death Worm to sunlight.",
+          "cover": "https://image.tmdb.org/t/p/w780/xaz1x5PWve5gpX6VzLydSzxmtgr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Isso é muito mortal!",
+          "overview": "Momo tries to stop the magma, but the Kito family gets in her way. The tsuchinoko shrine priest joins the fray... but so does the possessed Jiji.",
+          "cover": "https://image.tmdb.org/t/p/w780/sdDcdca4snnU72pr0bTm1YFTStU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Podemos todos ficar lá juntos!",
+          "overview": "With everyone safely back at Seiko's house, Momo and the others discover that water has a surprising effect on how Evil Eye possesses Jiji's body.",
+          "cover": "https://image.tmdb.org/t/p/w780/8gJrAtdopTNP28x7Znt72eGpze4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Nos tornamos uma família",
+          "overview": "The hayashi musicians arrive and begin an energetic exorcism performance. But just when the ritual is about to succeed, Jiji makes a surprising plea.",
+          "cover": "https://image.tmdb.org/t/p/w780/n3safOFFAQ8JDJWokPrTcrxx31P.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Me sentindo meio sombrio",
+          "overview": "Okarun has an awkward time at the maid café where Momo works. Seiko tries teaching Jiji how to suppress Evil Eye's possession of his body.",
+          "cover": "https://image.tmdb.org/t/p/w780/nn8lmbfjTtc8I16smdmbO7L9071.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Você consegue, Okarun!",
+          "overview": "Aira and Okarun battle the classical composer spirits. As Okarun struggles to avoid their attacks, Turbo Granny orders him to feel the rhythm.",
+          "cover": "https://image.tmdb.org/t/p/w780/dYipxvDZoSwMtvWkoOr6chIa8lI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Quero reconstruir a casa",
+          "overview": "Putting his training to the test, Okarun goes all-out and holds his own against Evil Eye, but the effort causes him to revert to his human form.",
+          "cover": "https://image.tmdb.org/t/p/w780/hC4YDLfbW7B5KpRJczOdPP3Mflp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "A arte secreta de ser atraente",
+          "overview": "Momo goes to Okarun's classroom to tell him about the golden ball spotted in the housing complex and finds him speaking with a curious classmate.",
+          "cover": "https://image.tmdb.org/t/p/w780/oY03i1C8oM3DEZq9owduy9K3LdV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Ei, é um Kaiju",
+          "overview": "The sky darkens as Momo, Okarun and Kinta try to evade the giant space monster. They soon run into Aira and Jiji, who give them some much-needed help.",
+          "cover": "https://image.tmdb.org/t/p/w780/c9Qol8BmTUtzj1VZ2f9rB7aTXw8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "041-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Choque! Espaço Kaiju vs. Robô Gigante!",
+          "overview": "As Momo and the others try to pilot the giant Buddha robot and battle the kaiju, Okarun and Jiji are ejected from the robot and land in a rice paddy.",
+          "cover": "https://image.tmdb.org/t/p/w780/yaqtsUbjqWOlDzoclXVYAzWjxuQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/dandadan/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
