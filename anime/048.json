@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "id": "048",
+  "updatedAt": "2026-09-23T19:40:48Z",
+  "title": {
+    "romaji": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
+    "english": "A Journey Through Another World: Raising Kids While Adventuring",
+    "japanese": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/1MoXMLA1pEQNh9l61f9NsxndVM7.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "",
+    "tmdb": "240633",
+    "imdb": "tt30236310"
+  },
+  "information": {
+    "synopsis": "Kayano Takumi é acidentalmente morto por um deus e reencarnado. Com várias novas habilidades, ele é enviado a uma floresta perigosa infestada de monstros em outro mundo. Na floresta, Takumi encontra um jovem menino e uma menina que parecem ser gêmeos, e ele decide cuidar deles e os batiza de Allen e Elena. Surpreso com o quão facilmente eles derrotam monstros com suas habilidades de combate, Takumi chega à cidade e se registra na guilda de aventureiros para poder sustentá-los. Assim começa sua vida de aventuras tranquila enquanto ele observa o crescimento de Allen e Elena!",
+    "year": 2024,
+    "score": 7.152,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "",
+    "season": "",
+    "aired": "",
+    "studios": [],
+    "genres": [
+      "Animação",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "048-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "",
+      "episodes": [
+        {
+          "id": "048-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Outro mundo e gêmeos",
+          "overview": "Takumi Kayano died due to a mistake made by a god. As an apology, the god sends him to another world and revives him. As Takumi makes his way through this new world, he finds two small children in the forest.",
+          "cover": "https://image.tmdb.org/t/p/w780/xvuYe88vhPOsOYC9fyXLC10CCzb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Prazer em conhecê-lo, Joule",
+          "overview": "Takumi has gradually gotten used to his new life and the new world. However, there is one thing he is not happy about at all: the limited selection of bread.",
+          "cover": "https://image.tmdb.org/t/p/w780/pOFnlFEY8Uj0IXX0aV6rmDVVYJ0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=1"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Caça aos Monstros!",
+          "overview": "Takumi and the twins are invited on an expedition. The three of them try to hold back their powers, but they feel a menacing gaze fixed on them.",
+          "cover": "https://image.tmdb.org/t/p/w780/kdc55LMpEyefGRRGSa1kMcelaFy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=2"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Taku fica louco",
+          "overview": "The expedition makes its way through the forest, but something seems off. There are far too few monsters appearing. Then Takumi finally discovers the truth behind the eerie gaze.",
+          "cover": "https://image.tmdb.org/t/p/w780/5fxdXRUzzK9JbgvzDpqNAZtc9Xa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=3"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Nós vamos derrotar os Goblins!",
+          "overview": "Takumi and the twins take on a new mission, but the guild members and villagers are unsure if they are up to the task. After a tough battle, Takumi's animal companions evolve and have a surprise in store.",
+          "cover": "https://image.tmdb.org/t/p/w780/awU8kszCQmLpEf1mDU1dnDIACkZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=4"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O oceano! É salgado!",
+          "overview": "Takumi is confronted by a slave trader who sees Allen and Elena as his merchandise. A guard quickly arrives to resolve the situation. How can Takumi resolve this and set off to the sea with the twins?",
+          "cover": "https://image.tmdb.org/t/p/w780/sGxughtXQEy5d0cgwpVC2MvQjW6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=5"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Sereias! Dragões!",
+          "overview": "Takumi and the children helped the merfolk and were generously rewarded. They head to a small island to finally master water magic, but then they encounter a strange monster.",
+          "cover": "https://image.tmdb.org/t/p/w780/yxpQasZUUSPoemIWXLu4CKlH9EK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=6"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Caranguejo! Caranguejo!",
+          "overview": "Takumi bids farewell to the Azure Palace and continues on his way to Bailey. Along the way, he discovers a dungeon with 30 levels and decides to explore it a bit.",
+          "cover": "https://image.tmdb.org/t/p/w780/6bCKNBjJIonA310o1leCnjIp8Ag.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=7"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O que é um pai?",
+          "overview": "After arriving in Bailey, Takumi first talks with Syl and receives some news and gifts. Then he heads to the Adventurer's Guild, where a great commotion suddenly breaks out.",
+          "cover": "https://image.tmdb.org/t/p/w780/zrYTl5Gh0sNStzc1L6zsdGeqUNx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Espero que possamos fazer amigos...",
+          "overview": "Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.",
+          "cover": "https://image.tmdb.org/t/p/w780/osWazWV7wo2PV8wTLvRnUSOf2Xd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=9"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Vector faz um bom trabalho!",
+          "overview": "Takumi has found the trading company that owns the sunken ship. When he returns it, he is introduced to a variety of interesting spices. An idea for a new dish immediately comes to mind!",
+          "cover": "https://image.tmdb.org/t/p/w780/sIzKWpDplVa3ABmAfdfUqbrStvy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=10"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "048-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Bye Bye! Até a próxima!",
+          "overview": "Takumi arrives once again at Cedric's place with the twins, and Cedric immediately has a request for him. Next up is a dungeon that they haven't yet completed. What awaits them down there?",
+          "cover": "https://image.tmdb.org/t/p/w780/o2Kv8PrMDqEmn38h7zAAQXFCRXM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e0bd3591bee7cbb3110b5afbb61592c.bin?u=0&b=11"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
