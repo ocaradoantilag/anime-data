@@ -121,6 +121,12 @@
       "file": "anime/026.json"
     },
     {
+      "id": "032",
+      "title": "Ragna Crimson",
+      "cover": "https://image.tmdb.org/t/p/w780/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "file": "anime/032.json"
+    },
+    {
       "id": "010",
       "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
       "cover": "https://image.tmdb.org/t/p/w780/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
