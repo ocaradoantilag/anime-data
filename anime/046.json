@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "id": "046",
+  "updatedAt": "2026-09-23T19:30:44Z",
+  "title": {
+    "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+    "english": "The Eminence in Shadow",
+    "japanese": "陰の実力者になりたくて！",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/htD5SJpPOvkmAowU80KrWnN59WO.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "48316",
+    "tmdb": "119495",
+    "imdb": "tt14115938"
+  },
+  "information": {
+    "synopsis": "Muitos admiram heróis e vilões, mas Cid Kagenou sempre desejou ser como aqueles que agem por entre as sombras das histórias. Percebendo que nunca seria capaz de conseguir atingir seus objetivo, Cid se surpreende ao se ver reencarnado em um mundo onde tem as capacidades necessárias para se tornar o que sempre admirou. A partir de então, ele cria uma falsa organização, com o objetivo de agir como um figurante qualquer, mas que trabalha por entrelinhas para confrontar um culto secreto que entrou em seu caminho.",
+    "year": 2022,
+    "score": 8.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "Nexus"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Animação",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 20
+  },
+  "episodes": 20,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "046-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2022,
+      "status": "Finalizado",
+      "episodeCount": 20,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "046-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O colega odiado",
+          "overview": "Akane copes with her trauma by being popular and working hard to make people like her, but one boy in her class doesn’t care about her at all. That bothers her to no end.",
+          "cover": "https://image.tmdb.org/t/p/w780/8pvDj5Z7pcZIk3KczQVhPYCsBbY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Nasce o Jardim das Sombras",
+          "overview": "Reincarnated as the son of Baron Kagenou, Cid bides his time as Background Character A while preparing for the day he can finally become the Eminence in Shadow!",
+          "cover": "https://image.tmdb.org/t/p/w780/b4jf83UsgDglZaWTOo9vQbd7eaE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Esgrimista comum",
+          "overview": "The princess is supposed to reject the background character’s confession, not accept it — since when did Cid become a rom-com protagonist?",
+          "cover": "https://image.tmdb.org/t/p/w780/ysArSHE1FIzqAYIiuXBzEv3qx5w.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "As recompensas do sadismo",
+          "overview": "The mistake those with power always make is believing that they are the ones in control.",
+          "cover": "https://image.tmdb.org/t/p/w780/eVkqQDMCmuC4bEdyfNkKYH2xXWu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Eu sou...",
+          "overview": "Cid is not facing a minion but a would-be Knight of the Rounds. Normally, that is cause for concern, but an atomic bomb has no reason to fear the gnashing of a lowly pest.",
+          "cover": "https://image.tmdb.org/t/p/w780/rWLaaAsbol1oxlXu5k7zs1adeLz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Pretendentes",
+          "overview": "While Iris seeks a bright mind to study an artifact, Cid visits a popular store. Meanwhile, in the dark corners of the city, someone commits murders in Shadow Garden’s name!",
+          "cover": "https://image.tmdb.org/t/p/w780/op8r4shHpzzBrbLk6Rt5pFp7phd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Um torneio de esgrima de intriga e derramamento de sangue",
+          "overview": "Cid gets a report from Nu about powerful cult members lurking in the Royal Capital. Too bad he’s too distracted about the upcoming fencing tournament to notice.",
+          "cover": "https://image.tmdb.org/t/p/w780/qZRbGR50WPICFbPugMHM5Wk15hH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Academia do Cavaleiro das Trevas sob ataque",
+          "overview": "Cid sacrificed his life to save Rose. At least, that’s what everyone thinks. Unbeknownst to anyone else, Cid survived exactly as planned, and now his counterattack can begin.",
+          "cover": "https://image.tmdb.org/t/p/w780/bZnKpqD9xpa7EQ2gYvDGviWp6Fa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O fim de uma mentira",
+          "overview": "When the students fight back, Shadow Garden joins the fray as their reinforcements. Amidst the chaos, Cid confronts the Gaunt Knight.",
+          "cover": "https://image.tmdb.org/t/p/w780/mP0CChoVHqYuious4MLL6dHIuRi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "A Terra Sagrada, Cidade da Decepção",
+          "overview": "Cid heads to Lindwurm in response to a summons from Alpha, but he is not the only one traveling there; the annual Goddess’ Trial is quickly approaching.",
+          "cover": "https://image.tmdb.org/t/p/w780/ieog04twIx3llt3s4n0oXrJ69aT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O Julgamento da Deusa",
+          "overview": "The curtain rises on the Goddess’ Trial. When Cid is unwittingly called into the arena, he transforms into Shadow and faces none other than Aurora, the Witch of Calamity.",
+          "cover": "https://image.tmdb.org/t/p/w780/g8qRNYyYYWHUQ9xkJt6UftCneeO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "A verdade nas memórias",
+          "overview": "The door to the Sanctuary opens and Alpha strides through it, intending to expose the Cult’s grave secrets. Meanwhile, Cid also enters the Sanctuary and reunites with… Aurora?",
+          "cover": "https://image.tmdb.org/t/p/w780/6NpbpLi2mAcEN4cyLicIxicUoXr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Um confronto sangrento como oferta à aniquilação",
+          "overview": "Alpha faces off against an empowered Nelson in a vicious battle. Elsewhere, Cid and Aurora reach the Sanctuary's core, but a door only a hero can open blocks their path.",
+          "cover": "https://image.tmdb.org/t/p/w780/91ngOa9nh4rRXmIuBRYox5MER0S.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Sua mentira, seu desejo",
+          "overview": "Cid’s victory is short-lived when Nelson counters with his new magic. Meanwhile, Alexia convinces Rose and Natsume to form an alliance to uncover the truth of their world.",
+          "cover": "https://image.tmdb.org/t/p/w780/rLJk63wrpN2TyodCVtQSAjWfGWw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "O homem mais forte e mais fraco",
+          "overview": "Only the strongest warriors can advance in the prestigious Bushin Festival, but one contestant proves himself a feeble and mundane man with no talent. Why is he competing?",
+          "cover": "https://image.tmdb.org/t/p/w780/52VKQLGGI7BIqmq9W4hIdSPdrCw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Intenções invisíveis",
+          "overview": "Princess Rose flees to the north of the Royal Capital. The Oriana Kingdom wants to handle it internally as a “purely domestic” matter.",
+          "cover": "https://image.tmdb.org/t/p/w780/gmRkrX9i1ISka705wfJDrb32GGp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Luar que atravessa a escuridão",
+          "overview": "Cid recollects piano lessons from his past life — what impact does this have on his present? Meanwhile, Epsilon’s performance sets the soundtrack for something else...",
+          "cover": "https://image.tmdb.org/t/p/w780/j8eYUYpWVucJjDV4bajmCmrcMBp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Apostando em um momento",
+          "overview": "Cid and Claire receive an invitation to a tournament. At the festivities, Cid receives more attention than a background character desires.",
+          "cover": "https://image.tmdb.org/t/p/w780/hOMciHCdCGDW5GMKrT2MvFCeKyD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Fantoche Dançante",
+          "overview": "Doem tries to make war with Midgar. Meanwhile, the match between Jimina and Iris begins.",
+          "cover": "https://image.tmdb.org/t/p/w780/jcOd47NoCPkCDCGr2wzdMuUqJw5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "046-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Advento do Demônio",
+          "overview": "Provoked by the fight between Shadow and Beatrix, Iris joins the fray. An intense battle progresses across the Royal Capital. Meanwhile, Rose runs into Alpha...",
+          "cover": "https://image.tmdb.org/t/p/w780/wdYOmpLaHeRHVsNFXHYztBymtMY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kage-no-jitsuryokusha-ni-naritakute/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
