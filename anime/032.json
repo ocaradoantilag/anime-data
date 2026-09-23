@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "id": "032",
+  "updatedAt": "2026-09-23T16:42:22Z",
+  "title": {
+    "romaji": "Ragna Crimson",
+    "english": "Ragna Crimson",
+    "japanese": "ラグナクリムゾン",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "51297",
+    "tmdb": "195459",
+    "imdb": "tt28685470"
+  },
+  "information": {
+    "synopsis": "Caçadores de dragões: guerreiros equipados com armas de prata especiais que matam em busca de recompensas. Entre os mais fracos deles está Ragna, que, por mais improvável que pareça, acaba formando uma parceria com a jovem prodígio Leonica, uma mestre entre os caçadores que já acumulou inúmeros abates. Tudo que Ragna deseja é continuar do lado de Leonica, porém seu sonho é estilhaçado por um ataque do dragão mais mortal de todos...",
+    "year": 2023,
+    "score": 7.4,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "SILVER LINK."
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Mistério",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "032-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "032-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O Dia em que o Ceifador Nasceu",
+          "overview": "Death and fire haunt Ragna’s dreams and, deep within his heart, he somehow knows they’re omens. If he doesn’t grow stronger, and soon, all that awaits him is lifelong regret.",
+          "cover": "https://image.tmdb.org/t/p/w780/1pniXDtlnXZWbYaIcnldhealmfd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O começo da história",
+          "overview": "Temruogtaf must be stopped. But Ragna loses interest in the dragon and turns his attention to one of his maids. Thanks to his new old memories, he knows who she really is.",
+          "cover": "https://image.tmdb.org/t/p/w780/dYFJC30C2yLnRjngQRSTHHIRPFU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Agitação",
+          "overview": "Crimson is no hero. He will manipulate and use others if it furthers his goal, and that callousness is precisely what makes him a needed ally against dragons.",
+          "cover": "https://image.tmdb.org/t/p/w780/c7ZRPxZQ784DHa88MXKMK6thQZM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Ação",
+          "overview": "Dragons have another weakness aside from sunlight and silverine: pride. But Ultimatia is not like other dragons.",
+          "cover": "https://image.tmdb.org/t/p/w780/9io8tEyp0h9HKohG8BM4daZNCyC.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Asa",
+          "overview": "Ragna met Ultimatia before in another life and he did not emerge from that encounter unscathed. Now, in this life, dragons are disappearing and Ultimatia needs to know why.",
+          "cover": "https://image.tmdb.org/t/p/w780/vHGp7gfc01CRdsbG0nwea3p9D68.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Reunião",
+          "overview": "Ultimatia may have control over time itself, but Crimson knows her powers must have a weakness. Once that happens, all variables will be accounted for. Or so Crimson believes.",
+          "cover": "https://image.tmdb.org/t/p/w780/AhvvyVB6ypdkfnPW21YocK3Ee3A.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Ato e culpa",
+          "overview": "Ragna’s relentless assault forces Ultimatia on the defensive. Unaware of his identity, an unexpected emotion overtakes the dragon monarch as their battle rages on: Fear.",
+          "cover": "https://image.tmdb.org/t/p/w780/82gdXcb2QFfsxaGSYj3Tm4b2S9t.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Um golpe doloroso",
+          "overview": "Ultimatia made an impossible choice and, with Nebulim out for their blood, Ragna and Crimson must now withdraw. However, they may have only exchanged one problem for another.",
+          "cover": "https://image.tmdb.org/t/p/w780/1ryTSQNpXbZOMtA8pesd9ekmJGX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Negociação e Verdadeira Natureza",
+          "overview": "Starlia's ability to see a person's true nature puts Crimson at a disadvantage, but when Ragna suddenly appears, the princess sees something in him she's never seen before.",
+          "cover": "https://image.tmdb.org/t/p/w780/53jab5gjzmkbcsgIjkZQTKPiLBE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Apostas e Cooperação",
+          "overview": "While Crimson uses Ragna as a bargaining chip to convince Starlia to accept their aid, Woltekamui vows to remain at Ultimatia's side and gives her much-needed encouragement.",
+          "cover": "https://image.tmdb.org/t/p/w780/4LkcI9SMsShBYy4crKatB8ECSEg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Táticas e Conhecimento",
+          "overview": "Ragna spars with the Argentum Corps and infuses their weapons, while Crimson assists with the teleportation circles. But they are not the only ones preparing for battle.",
+          "cover": "https://image.tmdb.org/t/p/w780/1ZRKfFHNWwmtHZ1KPConEwyPw6r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Determinação e Prontidão",
+          "overview": "The battle begins at sunset, but before they confront an uncertain fate, Starlia asks Ragna to listen to a heartfelt request.",
+          "cover": "https://image.tmdb.org/t/p/w780/yaZMp4HKtlgS5ouVJ7gKIUeoGV6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Herói da Batalha",
+          "overview": "The battle has begun, but Ragna and the Argentum Corps are not facing just any enemy. They are facing those who mean to exterminate them by any means necessary.",
+          "cover": "https://image.tmdb.org/t/p/w780/hOtUT29knFaS6iEpT8KDv2Olj4Q.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Impaciência e Vigilância",
+          "overview": "Olto Zora's cunning plan overwhelms the corps as they face the power of mature dragons. However, Crimson's impending offensive and Starlia's resolve may be the key to victory.",
+          "cover": "https://image.tmdb.org/t/p/w780/9ABaloFO9RAluVUDjessfvz3rn8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Despertar Latente",
+          "overview": "The tide is turning as the corps claw their way through the battlefield—Ragna and Starlia the source of their inspiration. But none are aware of Crimson's callous scheme.",
+          "cover": "https://image.tmdb.org/t/p/w780/mG5OY9XGLYcKNLnRZJtfOjULevL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Vontade de Resistência",
+          "overview": "Olto Zora used to be someone else once, and Starlia reminds him of someone he knew long ago.",
+          "cover": "https://image.tmdb.org/t/p/w780/sQgqad29S1LHymYjTTewVut6W4C.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Meu camarada",
+          "overview": "Olto Zora and Taratectra are lifelong friends who stand at a crossroads that could determine the battle. Now, Ragna and Starlia may be the only ones who can prevent calamity.",
+          "cover": "https://image.tmdb.org/t/p/w780/7JgPXqBH13LZJOWcbOw3lxPzGZp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Fim da batalha até a morte",
+          "overview": "The battle is over, but at a heavy price. While a weary corps mourn their losses, representatives from the Solarian Church arrive to meet the fabled Reaper.",
+          "cover": "https://image.tmdb.org/t/p/w780/rkJqo3ouvFzL3HJ9q55K12p50FQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Razão para lutar",
+          "overview": "Ragna has found a reason to fight, and he and the Argentum Corps will take the battle to the Blood of the Wing, no matter what Crimson thinks.",
+          "cover": "https://image.tmdb.org/t/p/w780/jViLlcN9z8WW3iiqfrxiKg1SkoL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Apenas observe-me",
+          "overview": "Four superior dragons stand between them and the Winged Monarch. With unyielding resolve, the Argentum Corps storm a dead capital for the final battle.",
+          "cover": "https://image.tmdb.org/t/p/w780/tIBCIaAvShS6MlW6kqsYohklyQO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Palavras não são necessárias",
+          "overview": "Multiple battles erupt in an all-out war against the Blood of the Wing. As each side engages in mortal combat, a crucial decision awaits Crimson.",
+          "cover": "https://image.tmdb.org/t/p/w780/krj5RPWibgMXf7BNfIS4BwnVZnr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "O Monarca Alado",
+          "overview": "The darkest hour is at hand. As cherished comrades fall on both sides, bittersweet memories of the past surge to the forefront.",
+          "cover": "https://image.tmdb.org/t/p/w780/dVKkHqC6CajIJoALABVIceWKqgK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Deus relâmpago",
+          "overview": "As Ragna and Woltekamui's titanic battle rages across the heavens, the dragon is reminded of another encounter—one that shaped him into the warrior he is today.",
+          "cover": "https://image.tmdb.org/t/p/w780/iQeSJvTSXIqMBlGAdsqLEY3Jzgl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "032-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Luz",
+          "overview": "Just as Ragna, Crimson and the Argentum Corps stand at the cusp of victory, the worst case scenario occurs: Against all odds, Ultimatia reclaims her dominion over time.",
+          "cover": "https://image.tmdb.org/t/p/w780/dTy5Vu0yTxVpTihOsO1eMAnlHSa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/ragna-crimson/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
