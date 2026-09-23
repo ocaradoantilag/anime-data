@@ -13,6 +13,12 @@
       "file": "Anime/anime/001.json"
     },
     {
+      "id": "049",
+      "title": "BLACK TORCH",
+      "cover": "https://image.tmdb.org/t/p/w780/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
+      "file": "anime/049.json"
+    },
+    {
       "id": "045",
       "title": "Chainsaw Man",
       "cover": "https://image.tmdb.org/t/p/w780/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
