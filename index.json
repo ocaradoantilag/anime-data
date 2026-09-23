@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T14:40:07Z",
+  "updatedAt": "2026-09-23T15:13:52Z",
   "animes": [
     {
       "id": "relife",
@@ -234,6 +234,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/026.json"
+    },
+    {
+      "id": "027",
+      "title": "Skeleton Knight in Another World",
+      "cover": "https://image.tmdb.org/t/p/w780/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+      "year": 2022,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/027.json"
     }
   ]
 }
