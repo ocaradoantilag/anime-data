@@ -115,6 +115,12 @@
       "file": "anime/021.json"
     },
     {
+      "id": "039",
+      "title": "MASHLE",
+      "cover": "https://image.tmdb.org/t/p/w780/koKOPmCjEBOUVQwC6uV3HflKba3.jpg",
+      "file": "anime/039.json"
+    },
+    {
       "id": "031",
       "title": "Mizu Zokusei no Mahou Tsukai",
       "cover": "https://image.tmdb.org/t/p/w780/qYK9kCN23Lrg9jcPh1QDBL0PeWw.jpg",
