@@ -1,0 +1,665 @@
+{
+  "schemaVersion": 1,
+  "id": "043",
+  "updatedAt": "2026-09-23T18:38:48Z",
+  "title": {
+    "romaji": "Cowboy Bebop",
+    "english": "Cowboy Bebop",
+    "japanese": "カウボーイビバップ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "1",
+    "tmdb": "30991",
+    "imdb": "tt0213338"
+  },
+  "information": {
+    "synopsis": "Spike Spiegel, um rapaz com o passado misterioso e Jet Black, um ex-policial, se unem para ir atrás de criminosos que possuem a cabeça a prêmio, dentro da nave “Bebop”. Ao longo do caminho eles se encontram com personagens nada comuns, um cão muito raro que possui grande inteligência, Ein, a gananciosa e fatal Feye Valentine e muitos outros.",
+    "year": 1998,
+    "score": 8.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Sunrise"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Ficção científica",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Faroeste"
+    ],
+    "themes": [],
+    "episodes": 26
+  },
+  "episodes": 26,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "043-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 1998,
+      "status": "Finalizado",
+      "episodeCount": 26,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "043-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Suporte de cachorro vadio",
+          "overview": "Spike and Jet’s next case takes them to Mars, where they’ll to try apprehend a professional pet thief and a priceless data dog.",
+          "cover": "https://image.tmdb.org/t/p/w780/iVrdlxroQAPcMzTQl9IoTJM55Dz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Honky Tonk - Feminino",
+          "overview": "A night at the casino lands Spike and Jet in hot water when they cross paths with Faye Valentine, a stunning con artist wanted by the law – and the bad guys.",
+          "cover": "https://image.tmdb.org/t/p/w780/gx9Ycnma0FN4Vr0k8iO8nP7ExVe.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Rainha do Metal Pesado",
+          "overview": "The Bebop crew pursues a renegade explosives expert, and Spike crosses paths with a nameless space trucker that hates bounty hunters.",
+          "cover": "https://image.tmdb.org/t/p/w780/5lu1vDChATiQ4PFReP2gGenGRxS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Valsa para Vênus",
+          "overview": "Spike gets involved with a fugitive who is willing to risk his own life to restore his sister’s sight. Can the Bebop crew save the day before tragedy strikes?",
+          "cover": "https://image.tmdb.org/t/p/w780/pVCVK0lJindZFyR7rdiysRfIyyx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Tocando com Edward",
+          "overview": "The Bebop crew tries to crack the case of mysterious satellite drawings appearing on the Earth’s surface, but they’ll need help from a hacker know as Radical Edward to earn their bounty!",
+          "cover": "https://image.tmdb.org/t/p/w780/bDCw4k8qMF23is16JFPCHji0mxf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Elegia de Ganimedes",
+          "overview": "When a case takes the Bebop crew to Jet’s old stomping ground, the big man crosses paths with an old lover – and her wanted boyfriend.",
+          "cover": "https://image.tmdb.org/t/p/w780/r9Wl116aj37Pb5xWy5F12BWx7a1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Brinquedos no sótão",
+          "overview": "When an unusual, blob-like space creature infects Ein, Faye, and Jet, Spike and Radical Edward must figure out a way to save their friends.",
+          "cover": "https://image.tmdb.org/t/p/w780/cXLBevX1X3lGh82fGLKRrQyw7vn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Júpiter Jazz (1)",
+          "overview": "Faye robs and abandons the Bebop crew, Spike goes in search of a woman he once knew, and Vicious makes another deadly appearance.",
+          "cover": "https://image.tmdb.org/t/p/w780/hJB0k0Xc8yVAfryumu7stzMKZfV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Júpiter Jazz (2)",
+          "overview": "Jet continues his mission to reunite his Bebop comrades, and Spike finds himself locked in a brutal dogfight with his old nemesis Vicious.",
+          "cover": "https://image.tmdb.org/t/p/w780/zRUnbSWILPZzJdXZ4aErnN174vt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Bohemian Rhapsody",
+          "overview": "The Bebop Crew embarks on a wild goose chase of a bounty hunt that leads them deep into space in search of an ancient chess master.",
+          "cover": "https://image.tmdb.org/t/p/w780/2l6yiD2xcyD62XNjfkMcMbI9acM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Meu namorado engraçado",
+          "overview": "When Jet brings in a fugitive from Faye’s past, the rebellious beauty must decide whether to turn him in – or give an old flame one last chance.",
+          "cover": "https://image.tmdb.org/t/p/w780/cjt9U5dHnDuwVZroTU2Nqr1PK16.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Fale como uma criança",
+          "overview": "When a mysterious package arrives, Faye disappears on a gambling binge, and Spike and Jet embark on a frustrating search for ancient technology!",
+          "cover": "https://image.tmdb.org/t/p/w780/mlJbgAmIC5IZeqcdvSSwlmSsTth.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Asteróide Azul",
+          "overview": "Spike and Jet head to Tijuana to track down an outlaw smuggling a dangerous drug known as blood-eye. Jet wants the bounty, but Spike has eyes for a far prettier prize.",
+          "cover": "https://image.tmdb.org/t/p/w780/b6VsJjejz2DCKF48D5sCMjBhRd0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Embaralhamento de Gateway",
+          "overview": "Faye teams up with Spike and Jet to track down a gang of space activists that plans on turning the human population into monkeys!",
+          "cover": "https://image.tmdb.org/t/p/w780/wMq8L7z5XNu2mSKid19acaaMxlx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Balada dos Anjos Caídos",
+          "overview": "Spike aims to collect the bounty on a member of the Red Dragon Syndicate, but his mission leads him into a deadly showdown with a face from his past!",
+          "cover": "https://image.tmdb.org/t/p/w780/5IJ3Ui8NAdnmKKIptgXStm5DhGW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Simpatia pelo Diabo",
+          "overview": "The latest case for the crew of the Bebop finds Spike pitted against a young boy with a talent for the harmonica – and murder.",
+          "cover": "https://image.tmdb.org/t/p/w780/uu7Hw0SooEs3FkcsBIV2MNtM8IQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Serenata de Cachorro Preto",
+          "overview": "Jet teams up with a former partner to settle the score with the man who took his arm, but he soon discovers that memories can be deceiving.",
+          "cover": "https://image.tmdb.org/t/p/w780/954eMQCU0sop9dzbvzoZ7KvXZUJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Samba de Cogumelo",
+          "overview": "After the Bebop crash lands, Ed and Ein’s search for food turns up some very expensive mushrooms with psychedelic side effects!",
+          "cover": "https://image.tmdb.org/t/p/w780/3rxmccsRybsZolyxMOJp6HpSusP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Cavalos selvagens",
+          "overview": "While Spike pays a visit to the man who built his ship, Faye and Jet go fishing for space pirates.",
+          "cover": "https://image.tmdb.org/t/p/w780/vHh5fXfYDb6Y1BKfhFC3XIY8Vas.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Pierrot Le Fou",
+          "overview": "Spike takes a beating during a chance encounter with an indestructible assassin. While Jet searches for the secret to the madman’s power, Spike goes looking for payback!",
+          "cover": "https://image.tmdb.org/t/p/w780/gBoB751W2aORIqZ25T7j7bAZG0a.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Boogie Woogie Feng Shui",
+          "overview": "Spurred by a cryptic email, Jet goes looking for an old friend, but finds his daughter – and a mysterious sun stone – instead.",
+          "cover": "https://image.tmdb.org/t/p/w780/7CUd3Ms1vkn3SnFc2rMulthyjCK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Funk de caubói",
+          "overview": "Spike’s attempts to apprehend the infamous Teddy Bear Bomber are maddeningly derailed by a mysterious – and clueless – cowboy!",
+          "cover": "https://image.tmdb.org/t/p/w780/v7B5HQXyuyKbgZ3yA0C8NG49IsA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Arranhão cerebral",
+          "overview": "Faye goes undercover to collect the bounty on a deranged cult leader, but when the mysterious organization brainwashes her into a very deep sleep – she’ll need a little help from her friends.",
+          "cover": "https://image.tmdb.org/t/p/w780/hpeITuE5yHvv46ZAuVu9kXVSQn1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Mulher de azar",
+          "overview": "Faye and Ed discover clues to their respective pasts that could send the crew of the Bebop heading in very different directions.",
+          "cover": "https://image.tmdb.org/t/p/w780/wsNWFPXs5rLRY4tuxluSCnMSrZa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-25",
+          "number": "25",
+          "sortOrder": 25,
+          "title": "O verdadeiro folk blues (1)",
+          "overview": "Spike and Jet are ambushed by members of the syndicate, and Faye has an unexpected encounter with a woman from Spike’s past.",
+          "cover": "https://image.tmdb.org/t/p/w780/dGCVTk5yzo736awEs2906wVBFdP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/25.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "043-1-26",
+          "number": "26",
+          "sortOrder": 26,
+          "title": "O verdadeiro folk blues (2)",
+          "overview": "Spike finally finds the woman he’s been searching for, and Faye makes a surprising return to the Bebop. With the syndicate in hot pursuit, Spike seeks to end the reign of Vicious.",
+          "cover": "https://image.tmdb.org/t/p/w780/2VDelPMrnp3MaNvJMZ0vfwyUNOq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/cowboy-bebop/26.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
