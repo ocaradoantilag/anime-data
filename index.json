@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:54:41Z",
+  "updatedAt": "2026-09-23T19:30:46Z",
   "animes": [
     {
       "id": "relife",
@@ -462,6 +462,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/045.json"
+    },
+    {
+      "id": "046",
+      "title": "The Eminence in Shadow",
+      "cover": "https://image.tmdb.org/t/p/w780/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "year": 2022,
+      "type": "TV",
+      "episodes": 20,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/046.json"
     }
   ]
 }
