@@ -26,7 +26,7 @@
     "year": 2019,
     "score": 7.3,
     "ageRating": "",
-    "type": "ONA",
+    "type": "Anime",
     "status": "Finalizado",
     "duration": "25 min per ep.",
     "season": "Verão",
@@ -614,5 +614,27 @@
         }
       ]
     }
-  ]
+  ],
+  "cover": "https://image.tmdb.org/t/p/w780/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+  "synopsis": "Ohma Tokita ingressa em um mundo secreto onde as disputas de negócios são resolvidas em combates entre gladiadores. Esqueça o dinheiro; ele só quer lutar e vencer.",
+  "description": "Ohma Tokita ingressa em um mundo secreto onde as disputas de negócios são resolvidas em combates entre gladiadores. Esqueça o dinheiro; ele só quer lutar e vencer.",
+  "year": 2019,
+  "score": 7.3,
+  "ageRating": "",
+  "type": "Anime",
+  "status": "Finalizado",
+  "duration": "25 min per ep.",
+  "studios": [
+    "Larx Entertainment"
+  ],
+  "season": "Verão",
+  "aired": "",
+  "genres": [
+    "Ação",
+    "Esportes",
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "themes": []
 }
