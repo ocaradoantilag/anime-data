@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T16:59:55Z",
+  "updatedAt": "2026-09-23T14:40:07Z",
   "animes": [
     {
       "id": "relife",
@@ -222,6 +222,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/025.json"
+    },
+    {
+      "id": "026",
+      "title": "Homem de um soco só",
+      "cover": "https://image.tmdb.org/t/p/w780/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+      "year": 2015,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/026.json"
     }
   ]
 }
