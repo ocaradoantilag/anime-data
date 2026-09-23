@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "id": "029",
+  "updatedAt": "2026-09-23T15:21:49Z",
+  "title": {
+    "romaji": "Kaoru Hana wa Rin to Saku",
+    "english": "A flor perfumada floresce com dignidade",
+    "japanese": "薫る花は凛と咲く",
+    "synonyms": [
+      "The Fragrant Flower Blooms with Dignity",
+      "The Fragrant Flowers Bloom with Dignity"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/iR3kusHHeoAbjAjWrg53nSAVDx7.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/dl3pdT1NZiqRM4aDBwsD2TtO8x9.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59845",
+    "tmdb": "271607",
+    "imdb": "tt36592690"
+  },
+  "information": {
+    "synopsis": "As meninas Kikyo Private Academy e Chidori Public High School são pólos opostos. Com sua história de prestígio, Kikyo é frequentada por jovens nobres de famílias distintas, enquanto Chidori é infamemente repleta de delinquentes simplórios. Não é nenhuma surpresa que seus alunos entrem em conflito com suas diferenças.\n\nTendo uma estatura alta e aparência feroz, o estudante Chidori Rintarou Tsumugi é frequentemente evitado por outros, apesar de seu coração gentil. Um dia, enquanto ajudava na confeitaria de sua família, ele conhece um cliente que, após um breve momento, foge dele. No dia seguinte, a cliente volta para pedir desculpas a Rintarou, apresentando-se como a alegre Kaoruko Waguri.\n\nDepois de passar um tempo com Kaoruko, Rintarou reconhece que ela não o julga com base em sua aparência e espera quando eles se encontrarão novamente. No entanto, quando Rintarou descobre que Kaoruko frequenta Kikyo, o relacionamento deles desafiará as expectativas sociais e a dinâmica ao seu redor.\n\n[Escrito por MAL Rewrite]",
+    "year": 2025,
+    "score": 8.49,
+    "ageRating": "PG-13",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep",
+    "season": "Verão",
+    "aired": "2025-07-06 até 2025-09-28",
+    "studios": [
+      "CloverWorks"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "themes": [
+      "Escolar"
+    ],
+    "episodes": 13
+  },
+  "episodes": 13,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "029-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 13,
+      "duration": "24 min per ep",
+      "episodes": [
+        {
+          "id": "029-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Rintaro e Kaoruko",
+          "overview": "While helping at his family's patisserie, Rintaro meets Kaoruko. He fears his appearance has scared her off — but she returns the next day to see him.",
+          "cover": "https://image.tmdb.org/t/p/w780/tt3Fu2Qy2Bo2QpYquaR59ejow9A.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Chidori e Kikyou",
+          "overview": "Tensions between the two schools escalate during a commotion at Chidori's gates. Later, Rintaro finds a surprise visitor waiting at the patisserie.",
+          "cover": "https://image.tmdb.org/t/p/w780/7SSOymqRFf4biVMezBqBcCgPcyZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uma pessoa gentil",
+          "overview": "Desperate to improve their grades, Rintaro and Shohei cram in the library. There, Rintaro runs into Kaoruko, but their tender moment gets interrupted.",
+          "cover": "https://image.tmdb.org/t/p/w780/5X5WQIVre8IggQqP0F5q7PQiuKT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Calor do coração",
+          "overview": "Though Rintaro becomes more comfortable with Kaoruko during their study session, he faces unexpectedly strong opposition to their growing bond.",
+          "cover": "https://image.tmdb.org/t/p/w780/19mjQk60yPIq6SnnEwJWnupayBY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Premonição de um novo começo",
+          "overview": "Pressure mounts as Rintaro's friends discover a note from Kaoruko hidden in his notebook. Saku's frustration towards Rintaro's reticence grows.",
+          "cover": "https://image.tmdb.org/t/p/w780/nmkYkHuKT1D0YSBQ3d5cmTlbgFN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Auto-aversão / Eu te amo!",
+          "overview": "It's an important night of confessions, apologies and cherished memories when Subaru and Kaoruko catch up at the park where they used to play as kids.",
+          "cover": "https://image.tmdb.org/t/p/w780/cgZ7lmFvThuWsugfVRm0Y1h3f41.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O cara mais legal de todos os tempos",
+          "overview": "Noticing Rintaro's strange behavior, Shohei, Saku and Ayato follow him after school and try to eavesdrop on his meeting with Kaoruko and Subaru.",
+          "cover": "https://image.tmdb.org/t/p/w780/fbvwueq10cKjNFLzXsO1Je6PnHX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "O significado desses sentimentos",
+          "overview": "Despite the awkwardness, Rintaro manages to introduce his friends to the girls. Later, Kaoruko makes a bold suggestion on how Rintaro could repay her.",
+          "cover": "https://image.tmdb.org/t/p/w780/ySLYVSDHDdGq8jo4SSTZoYWAvJg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Cabelo loiro e orelhas furadas",
+          "overview": "While Rintaro struggles with his tangled emotions about Kaoruko, he invites his friends over to his home — but two unexpected visitors shake things up.",
+          "cover": "https://image.tmdb.org/t/p/w780/x6Lc4HXl6IwZIl18F84tctmYqew.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Tempestade de verão",
+          "overview": "To prepare for their finals, the six Chidori and Kikyo students hold a joint study session. Later, Shohei makes a sharp observation about Rintaro.",
+          "cover": "https://image.tmdb.org/t/p/w780/ijxyYhoTp5RVDbpk6mPZEUt820r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Um pedaço de calor",
+          "overview": "Kaoruko's birthday is in two weeks, and Rintaro is unsure of a gift until his mother gives valuable advice. Can he bake the perfect cake for her?",
+          "cover": "https://image.tmdb.org/t/p/w780/dPGtIEdB8YDZjYEkyei8E8GrXru.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Perplexidade à beira-mar",
+          "overview": "While everyone else is having fun at the beach, Subaru seems down. When prodded, she reveals her worries and makes a request to the four Chidori boys.",
+          "cover": "https://image.tmdb.org/t/p/w780/uBZWOLLatkePDrDGtMIQN3jGzeG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "029-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Kaoruko e Rintaro",
+          "overview": "With things still left unspoken between them, Rintaro arranges to meet Kaoruko and express his true feelings. Kaoruko has her own thoughts to share.",
+          "cover": "https://image.tmdb.org/t/p/w780/b2VkB6Opvx2Fv6LblXmDok0Km9b.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kaoru-hana-wa-rin-to-saku/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
