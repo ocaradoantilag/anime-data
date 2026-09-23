@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "026",
+  "updatedAt": "2026-09-23T14:40:03Z",
+  "title": {
+    "romaji": "One Punch Man",
+    "english": "Homem de um soco só",
+    "japanese": "ワンパンマン",
+    "synonyms": [
+      "One-Punch Man"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "30276",
+    "tmdb": "63926",
+    "imdb": "tt4508902"
+  },
+  "information": {
+    "synopsis": "Saitama tem um hobby bastante peculiar, ser um super-herói, mas apesar de seus feitos heróicos e habilidades sobre-humanas, uma sombra paira sobre sua vida. Ele se tornou poderoso demais, a tal ponto que todo oponente acaba derrotado com um único soco.\n\nA falta de desafio o levou a um estado de apatia, enquanto ele vê sua vida passar por ter perdido todo o entusiasmo, pelo menos até que ele é involuntariamente colocado no papel de mentor do jovem Genos, movido por vingança.",
+    "year": 2015,
+    "score": 8.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "MADHOUSE"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Ficção científica",
+      "Sobrenatural"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "026-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2015,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "026-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O homem mais forte",
+          "overview": "Saitama is a guy who’s a hero for fun. After saving a child from certain death, he decided to become a hero and trained hard for three years. Though he’s now so strong he can defeat any opponent with a single punch, lately he feels as if, in exchange for overwhelming power, he’s lost something even more important.",
+          "cover": "https://image.tmdb.org/t/p/w780/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O Ciborgue Solitário",
+          "overview": "A monster is moving toward City Z, one that has been  created by the mysterious organization known as The House of Evolution.  Genos, a young cyborg, attempts to stop it, but gets in over his head  before Saitama happens along.",
+          "cover": "https://image.tmdb.org/t/p/w780/mps2UuPnmkxOco5oQePVlwioZKG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O Cientista Obsessivo",
+          "overview": "Saitama and Genos glean information about The House of  Evolution and its founder Dr. Genus, a scientist with dangerous ideas on  artificial human evolution. Meanwhile, Dr. Genus learns of Saitama’s  amazing strength and has plans of his own for One-Punch Man.",
+          "cover": "https://image.tmdb.org/t/p/w780/ywv8d7mCxSnmnS56LNUBjfPzFRd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "O Ninja Moderno",
+          "overview": "A group of battlesuit-clad terrorists called “The Paradisers” appears in City F, led by an enormous man known as Hammerhead. Calling for the redistribution of wealth, the group targets the fat-cat Zeniru, who in turn dispatches his bodyguard to defeat them. Unfortunately, Saitama is on the same errand.",
+          "cover": "https://image.tmdb.org/t/p/w780/kHLdWCkIwT8tw7HPZaNXYoYMpeL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O Mestre Supremo",
+          "overview": "Though he’s been doing the hero gig for three years,  Saitama realizes that the public knows nothing about him. Determined to  get a little recognition, he decides to become a pro hero, but first he  must pass the Hero Association tests and become a full-fledged member.",
+          "cover": "https://image.tmdb.org/t/p/w780/5xdo0OwyWm9oNv2tX6aKj9Gr3Tw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A cidade aterrorizante",
+          "overview": "It’s been five days since Saitama became a professional  hero and he has yet to do anything heroic. When Genos informs him that  C-class heroes who don’t fight bad guys are dropped from the hero  registry after a week of inaction, Saitama heads out on patrol, yet  can’t find any criminals or monsters to stop.",
+          "cover": "https://image.tmdb.org/t/p/w780/oApEUMM4nfTqyXvaVozqCa3B5uQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O Discípulo Supremo",
+          "overview": "An enormous meteor hurtles toward City Z, forcing the Hero Association to ask its S Class heroes to respond. When all their efforts prove in vain, Genos decides it’s up to him to protect the home of his master and stop the meteor, no matter what the cost.",
+          "cover": "https://image.tmdb.org/t/p/w780/z1Nxh00HGfLCHHPuJ1FcunsR6DY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "O Rei do Mar Profundo",
+          "overview": "A pack of monsters calling themselves the “Clan of the  Seafolk” arrive on the shores of City J intent on invading the land.  When the hero sent to fight them is defeated easily by the Deep Sea King  himself, Saitama and Genos head for the city to help.",
+          "cover": "https://image.tmdb.org/t/p/w780/vFT8L7RU6U5Il9SvTS1oEU9nhj8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Justiça Inflexível",
+          "overview": "As the battle with the Deep Sea King reaches its climax,  more heroes fall to the aquatic despot’s brutal attacks. Which of them  has what it takes to be a true hero?",
+          "cover": "https://image.tmdb.org/t/p/w780/d5h1EgV1xIjlioPnb0exwLYy1ev.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Perigo incomparável",
+          "overview": "Saitama tags along to an emergency meeting of Class S  heroes and discovers that a seer has foretold a serious danger  threatening the Earth. Though the crisis could occur anytime in the next  six months, the heroes are surprised to hear the roar of explosions  that very hour!",
+          "cover": "https://image.tmdb.org/t/p/w780/AbWf8PdF1stcXiOwQXCAP7qGo8u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O Dominador do Universo",
+          "overview": "As a colossal spaceship floats in the skies above City A, a member of its monstrous crew battles on the ground against a group of S Class heroes. Despite their powers, they can’t seem to finish it off. Meanwhile, Saitama has boarded the enemy ship on his own.",
+          "cover": "https://image.tmdb.org/t/p/w780/5QqxkbKwSCQOW2XXaoyEpMaKtiZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "026-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "O herói mais forte",
+          "overview": "The inconceivably powerful Lord Boros has traveled untold distances in search of someone who can cure his boredom: Saitama! With the fate of humanity in the balance, will the two champions at last find in each other the worthy opponent they’ve been searching for?",
+          "cover": "https://image.tmdb.org/t/p/w780/31qHOAENzfEmYmtbhSahPez9MkZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/o/one-punch-man/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
