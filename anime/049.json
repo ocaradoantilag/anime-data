@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "id": "049",
+  "updatedAt": "2026-09-23T19:49:54Z",
+  "title": {
+    "romaji": "BLACK TORCH",
+    "english": "TOCHA PRETA",
+    "japanese": "BLACK TORCH",
+    "synonyms": [
+      "BLACK TORCH"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/m0Y86byoQXcxbYPdg4pQ8feEjE1.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "61169",
+    "tmdb": "285993",
+    "imdb": "tt37532893"
+  },
+  "information": {
+    "synopsis": "Jiro Azuma não é um estudante qualquer. Descendente de ninjas e treinado na antiga arte marcial dos shinobis, também é capaz de se comunicar com os animais. Após um encontro misterioso com um gato ferido chamado Rago, Jiro descobre que o felino é, na verdade, a lendária estrela negra da perdição! Ao lado do serviço secreto, eles enfrentam mononokes que buscam explorar os poderes de Rago.",
+    "year": 2026,
+    "score": 6.9,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "100studio"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Sobrenatural",
+      "Animação",
+      "Mistério",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "049-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2026,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "049-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O futuro está em nossas mãos",
+          "overview": "When high school animal whisperer and ninja Jiro finds an injured cat, the supernatural unleashes.",
+          "cover": "https://image.tmdb.org/t/p/w780/mtlDuXNptLIb0oQdZtI0fqGHxiO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "A escolha é sua",
+          "overview": "Jiro awakens in hospital only to learn he is now under the surveillance of the Bureau of Espionage.",
+          "cover": "https://image.tmdb.org/t/p/w780/tozBPIkomDmttin0zxbhapeKjoI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "QUAL É MEU NOME?",
+          "overview": "Jiro is cuffed in a van, and the tension could be cut with a katana thanks to Jiro’s escort, Ichika.",
+          "cover": "https://image.tmdb.org/t/p/w780/noelV8o6ce1hD4D1B3j4pqjYYMk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Dois não é suficiente",
+          "overview": "Jiro is pitted against the newest recruit, Reiji, and each challenger’s fist has a tale to tell.",
+          "cover": "https://image.tmdb.org/t/p/w780/ib4rN6DP5AI2hXpnJAHnHwl3aO4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Jovem Gunz",
+          "overview": "In a subterranean hold, an imposing monolith towers over Jiro and Reiji-- Rago’s former prison.",
+          "cover": "https://image.tmdb.org/t/p/w780/8N7CHwRGxu8KDmG3PSWCmSEmQjV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Virar para cima",
+          "overview": "Jiro, Ichika, and Reiji have been handed a new trial, this time from the “friendly” mononoke Fuyo.",
+          "cover": "https://image.tmdb.org/t/p/w780/yVxqhICVEU4ztKNntVhZvJx7z1H.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "3 EM TRÊS",
+          "overview": "Mononoke have just committed mass murder, but it's more than just all-you-can-eat human meat.",
+          "cover": "https://image.tmdb.org/t/p/w780/v5iYrBms75S6oYdKfPUTOoyArx7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Azarão",
+          "overview": "The dueler who confronted Reiji is his own kin and Shinji’s inner turmoil is about to finally erupt.",
+          "cover": "https://image.tmdb.org/t/p/w780/qBm8UkREhTjjU92yTWnSHKpp3AB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "UM",
+          "overview": "Finally Jiro has gained consciousness, in a vast warehouse, behind the stone-cold stare of Kusumi.",
+          "cover": "https://image.tmdb.org/t/p/w780/uJzpTjpRat858KREeOb6bsaghtS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Habilidades Mortais",
+          "overview": "Jiro enters a mononoke’s forest only to meet a new and odd mononoke in the form of a white snake.",
+          "cover": "https://image.tmdb.org/t/p/w780/3aX0H50OGsxcIQyBB2V5nHrqel2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Preto ou Branco",
+          "overview": "Amagi’s dark ambitions have come to light, but Jiro is determined to save Rago and settle the score!",
+          "cover": "https://image.tmdb.org/t/p/w780/eBIqr1MFK7mgRcFWH3cwcgxhN3E.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "049-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "OUTRA VEZ",
+          "overview": "A superpowered Amagi stands before Jiro while, cloaked in a Rago forcefield, a defiant Jiro awaits.",
+          "cover": "https://image.tmdb.org/t/p/w780/kPwBH6Km9ORiS0d8DE5KAq5Vq2C.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-s01.mywallpaper-4k-image.net/stream/b/black-torch/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
