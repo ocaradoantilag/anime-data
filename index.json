@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T17:00:43Z",
+  "updatedAt": "2026-09-23T17:15:23Z",
   "animes": [
     {
       "id": "relife",
@@ -354,6 +354,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/036.json"
+    },
+    {
+      "id": "037",
+      "title": "Samurai Champloo",
+      "cover": "https://image.tmdb.org/t/p/w780/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg",
+      "year": 2004,
+      "type": "TV",
+      "episodes": 26,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/037.json"
     }
   ]
 }
