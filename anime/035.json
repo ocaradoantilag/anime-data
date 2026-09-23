@@ -1,0 +1,593 @@
+{
+  "schemaVersion": 1,
+  "id": "035",
+  "updatedAt": "2026-09-23T16:53:20Z",
+  "title": {
+    "romaji": "Kaijuu 8-gou",
+    "english": "Kaiju No. 8",
+    "japanese": "怪獣８号",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/htGeuCcNhlBe8GTx3izKOsd8frw.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "52588",
+    "tmdb": "207468",
+    "imdb": "tt21975436"
+  },
+  "information": {
+    "synopsis": "Com as maiores taxas de surgimento de kaijus no mundo, o Japão está acostumado a ataques de monstros mortais. É aí que entra a Força de Defesa do Japão, uma organização militar encarregada de neutralizar essas criaturas. Kafka Hibino, um trabalhador responsável pela limpeza de carcaças de kaijus, sempre sonhou em integrar a força. Mas, ao ganhar uma nova chance de realizar seu sonho de infância, ele passa por uma transformação inesperada. Como ele poderá combater os kaijus agora que se tornou um deles?!",
+    "year": 2024,
+    "score": 8.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Production I.G"
+    ],
+    "genres": [
+      "Ação",
+      "Ficção científica",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 23
+  },
+  "episodes": 23,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "035-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 23,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "035-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O homem que se tornou um Kaiju",
+          "overview": "Kafka Hibino has given up his dream of joining the Defense Force and now works cleaning up the remains of defeated kaiju. When ambitious newcomer Reno Ichikawa reminds him of the promise he once made to childhood friend Mina Ashiro, Kafka begins reconsidering the path he abandoned—just as an unexpected encounter changes everything.",
+          "cover": "https://image.tmdb.org/t/p/w780/6sYkwztTsCvHSt4eNaNCofIabaA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/h/S/8/RhS8q.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O Kaiju que derrota Kaiju",
+          "overview": "Following the shocking incident at the hospital, Kafka and Reno are forced to flee while trying to understand what has happened. When they encounter civilians threatened by a kaiju, Kafka must decide whether to remain hidden or risk everything to protect them.",
+          "cover": "https://image.tmdb.org/t/p/w780/qnw5xoDHL1YBc7uNXaoqgxeXMOk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/V/a/j/f/Vajfr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Partida de Vingança",
+          "overview": "Kafka and Reno arrive for the Defense Force selection exam, where they meet the highly confident Kikoru Shinomiya. Determined to revive his abandoned dream while keeping his secret hidden, Kafka struggles through the physical tests before facing a daunting final challenge that puts the candidates’ combat abilities to the test.",
+          "cover": "https://image.tmdb.org/t/p/w780/4wmoBvVAh9jAVNZOtQxVihNQ5gb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/d/H/n/rdHnr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Fortaleza 9,8",
+          "overview": "Kikoru’s overwhelming combat ability brings the Defense Force exam to a swift conclusion, leaving the other candidates in awe. Before they can recover, a mysterious kaiju suddenly appears within the testing grounds, throwing the exam into chaos and forcing Kafka to confront a dangerous choice.",
+          "cover": "https://image.tmdb.org/t/p/w780/ocKXnYcu58oMS5065PMhDsTbNfM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/3/F/1/v/3F1vr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Aderindo!",
+          "overview": "Kafka finally takes his first step into the Defense Force, but his place among its ranks is far from secure. Given only three months to prove his worth, he throws himself into training alongside his new teammates while struggling to keep pace with their rapidly developing abilities.",
+          "cover": "https://image.tmdb.org/t/p/w780/7TMMZ08p1DRskTG3OHomLsZgEN1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/d/O/B/W/dOBWr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Operação de neutralização de Sagamihara ao amanhecer",
+          "overview": "Kafka and the other new recruits embark on their first real Defense Force mission when a kaiju emerges in Sagamihara. Assigned to eliminate smaller monsters behind the front lines, Kafka eagerly embraces the work he has long dreamed of while struggling to prove that he belongs among his rapidly improving teammates.",
+          "cover": "https://image.tmdb.org/t/p/w780/sYo459puDf7hNXdOUAJUSvQ7BEM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/b/F/N/JbFNr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Kaiju nº 9",
+          "overview": "Reno and Iharu encounter a mysterious humanoid kaiju whose strength and intelligence far exceed their expectations. Quickly overwhelmed, the two recruits are pushed into a desperate fight for survival while Kafka races to reach them before it is too late.",
+          "cover": "https://image.tmdb.org/t/p/w780/3GrzXjcZCi8rt48GvcuEltQINkP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/h/K/y/W/hKyWr.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Bem-vindo à Força de Defesa",
+          "overview": "After revealing his power to save Reno and Iharu, Kafka comes face-to-face with Hoshina, who immediately recognizes him as a dangerous kaiju. Reluctant to fight back against someone he respects, Kafka must find a way to escape without exposing the truth behind his identity.",
+          "cover": "https://image.tmdb.org/t/p/w780/4m3RTR9wH3GyEDPROlP0zXgZ7wg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/1/M/n/6/1Mn6r.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Ataque à Base Tachikawa",
+          "overview": "With Mina away, Tachikawa Base is suddenly attacked by a coordinated swarm of flying kaiju led by a powerful new intelligent threat. As the Defense Force scrambles to defend its headquarters, Hoshina takes command and finds himself singled out by an enemy eager to test its strength against the base’s strongest fighter.",
+          "cover": "https://image.tmdb.org/t/p/w780/alWrh2pBJ0xJ0ZQIg8ckVyHYU9h.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/e/X/d/ReXds.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Segredo revelado",
+          "overview": "As the attack on Tachikawa Base intensifies, Hoshina is pushed to his limits against an increasingly powerful enemy. With the Defense Force struggling to contain the threat, Kafka faces an impossible choice between protecting the secret he has fought to preserve and using his hidden power to save his comrades.",
+          "cover": "https://image.tmdb.org/t/p/w780/e5dPuTaiuRujmCZYpSFFfUDOKq7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/9/q/L/m/9qLms.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Kaiju nº 8 capturado",
+          "overview": "With his identity exposed, Kafka is taken into Defense Force custody and transferred to headquarters under the orders of Director General Isao Shinomiya. Haunted by the possibility that his dream is over and that he has betrayed his comrades, Kafka faces an uncertain fate while Mina struggles with what comes next.",
+          "cover": "https://image.tmdb.org/t/p/w780/dIJSzy8gGinqzjI2rdjxMYIOiwj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/5/x/a/v/5xavs.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Kafka dá",
+          "overview": "As the Third Division fights to save Kafka from execution, he is forced into a brutal confrontation with Director General Isao Shinomiya. When the kaiju within him begins to seize control, Kafka must struggle to prove that he can remain human before his fate is decided.",
+          "cover": "https://image.tmdb.org/t/p/w780/gcDsdRpBJSvRvyAvDP1xtvLNlRk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/S/h/E/3ShEs.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Arma Kaiju",
+          "overview": "Kafka goes on a mission with his new squad and faces Kaiju No. 9 once again.",
+          "cover": "https://image.tmdb.org/t/p/w780/intVAZUUabVubbeRdO3o9zBQQLt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/50/s8/2/a/c/G/4/acG4y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "O julgamento da próxima geração",
+          "overview": "A massive sinkhole opens in Shinagawa, unleashing a swarm of giant ant kaiju and sending the First Division into action. As Kikoru works to prove herself under Narumi’s command, Kafka joins the battle under close supervision, determined to demonstrate that he can still be an asset to the Defense Force.",
+          "cover": "https://image.tmdb.org/t/p/w780/5ZXhULMqvQHp7kVAH2tL6Oni6pM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/a4/s8/2/E/b/K/5/EbK5y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "A divisão mais forte",
+          "overview": "Kaiju No. 9 divides into two bodies, forcing the First Division into battles on multiple fronts. While Narumi confronts one of the evolving threats, Kafka and Kikoru struggle against the other, and Kafka faces a frightening new problem when he suddenly finds himself unable to transform.",
+          "cover": "https://image.tmdb.org/t/p/w780/C5mc4rl8nkcU8cOYkpAgc8hKTy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/6e/s8/2/g/F/o/-/gFo-y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "O Homem Chamado Isao Shinomiya",
+          "overview": "As the battle against Kaiju No. 9 reaches a critical stage, Kafka, Kikoru, and Narumi combine their strength to confront the evolving threat. Just when the Defense Force appears to regain control, a sudden development places Director General Isao Shinomiya at the center of an unprecedented crisis.",
+          "cover": "https://image.tmdb.org/t/p/w780/tl5IqC62k7VsW878Si2nZctDCe4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/2/o/F/o/-/oFo-y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Eu quero ser forte",
+          "overview": "In the aftermath of the devastating battle with Kaiju No. 9, the Defense Force faces an uncertain future. As Narumi and Kikoru renew their determination to become stronger, Kafka confronts the growing consequences of relying on Kaiju No. 8’s overwhelming power.",
+          "cover": "https://image.tmdb.org/t/p/w780/ftbkHVunIr0FnwCdW8qbw3CBM4B.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/1b/s8/2/2/p/W/_/2pW_y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Usuário compatível",
+          "overview": "Kaiju No. 10 awakens in Defense Force custody and makes an unexpected proposal to Hoshina. Meanwhile, the division captains gather to discuss how to confront the growing threat of Kaiju No. 9, leading Hoshina to present a surprising possibility that could reshape their strategy.",
+          "cover": "https://image.tmdb.org/t/p/w780/kMUolUiIbRzW7g4GmDtacdCE5Oe.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/2f/s8/2/k/c/T/b/kcTbz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Parede",
+          "overview": "Chosen to wield the formidable Numbers Weapon 6, Reno enters his first real battle with the dangerous new equipment. As his abilities continue to grow at an astonishing pace, Iharu struggles with frustration and self-doubt while trying to keep up with the teammate who once stood beside him as an equal.",
+          "cover": "https://image.tmdb.org/t/p/w780/dHpWGagaNfnUEtJ9QCNMmGZUf4m.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/0/4/M/d/04Mdz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Destino",
+          "overview": "As Reno struggles to control the immense power of Numbers Weapon 6, Iharu refuses to let him face the danger alone. Their battle pushes both recruits to their limits, forcing Iharu to confront his own potential while the bond between them becomes their greatest weapon.",
+          "cover": "https://image.tmdb.org/t/p/w780/sLFazZdwaBm3qJdgXyvVbfXXpl8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/56/s8/2/g/O/k/k/gOkkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Presságio",
+          "overview": "Determined to fight without relying entirely on Kaiju No. 8, Kafka begins intensive close-quarters training under Hoshina. As he reconnects with his scattered comrades, the Defense Force grows increasingly concerned by a series of unexplained kaiju incidents appearing across Japan.",
+          "cover": "https://image.tmdb.org/t/p/w780/2mOFhR5uYAdS6RG0EZPKMXN6qpR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/59/s8/2/u/O/k/k/uOkkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Cataclismos",
+          "overview": "Kaiju suddenly emerge across Tokyo and begin coordinated attacks on critical facilities throughout Japan. As the crisis spreads on an unprecedented scale, the First and Third Divisions mobilize alongside the Defense Force’s strongest fighters and newest recruits to confront a threat unlike anything they have faced before.",
+          "cover": "https://image.tmdb.org/t/p/w780/6EQverjf8op1zbbeTLPBgT3P02R.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/53/s8/2/A/O/k/k/AOkkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "035-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Segunda Onda",
+          "overview": "Just as the Defense Force begins turning the tide against the widespread kaiju attacks, five powerful numbered kaiju appear before its strongest fighters. With the situation rapidly deteriorating, Kafka is forced to decide whether he can continue waiting for Kaiju No. 9 or must enter the battle himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/tHoeKeFW5jnnK5AzTIsZVetT28E.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/35/s8/2/Y/m/V/l/YmVlz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
