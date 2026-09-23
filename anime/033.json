@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "id": "033",
+  "updatedAt": "2026-09-23T16:46:12Z",
+  "title": {
+    "romaji": "Gleipnir",
+    "english": "Gleipnir",
+    "japanese": "グレイプニル",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/1hPI4AAM4hOMNV2ucOvsVg7LJsV.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/hfMLaKqYeOrWRZNuiAYggUW5bPG.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "39463",
+    "tmdb": "96203",
+    "imdb": "tt11988478"
+  },
+  "information": {
+    "synopsis": "Shuuichi Kagaya é um garoto comum do ensino médio de uma cidade pequena e chata, mas quando uma bela colega de sua classe é pega em um incêndio no armazém, ele descobre um poder misterioso: Ele pode se transformar em um cachorro peludo com um revólver enorme e um zíper nas costas. Ele salva a vida da garota, compartilhando seu segredo com ela. Mas ela está procurando a irmã que matou sua família e ela não se importa com o quão degradante seja: Ela usará Shuuichi para cumprir sua vingança!",
+    "year": 2020,
+    "score": 6.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "PINE JAM"
+    ],
+    "genres": [
+      "Ação",
+      "Ecchi",
+      "Mistério",
+      "Sobrenatural",
+      "Animação",
+      "Comédia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 13
+  },
+  "episodes": 13,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "033-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2020,
+      "status": "Finalizado",
+      "episodeCount": 13,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "033-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Algo dentro de mim",
+          "overview": "Shuichi lives a normal high school life until a mysterious stranger threatens to reveal his incredible secret.",
+          "cover": "https://image.tmdb.org/t/p/w780/db4In46A9sioKKvK5nILF1v8fqq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O que significa estar vazio",
+          "overview": "As the mysterious attacker closes in, Clair discovers something about Shuichi’s costume form… And that changes everything.",
+          "cover": "https://image.tmdb.org/t/p/w780/4YA7WxK4UurgBVMUaY0wrD0Pai8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Elena",
+          "overview": "Shuichi and Clair begin to search for Clair’s missing sister.",
+          "cover": "https://image.tmdb.org/t/p/w780/472lkIulAqDWxt3e82kWVNrdV9e.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Eu queria ser outra pessoa",
+          "overview": "After encoutering Elena, Shuichi and Clair are guided to the source of all the mysterious happenings.",
+          "cover": "https://image.tmdb.org/t/p/w780/8WAJYQgEbdd3ChSoKOML434YaTp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Inimigos Loucos",
+          "overview": "Clair and Shuichi wander into the mountains, and encounter a strange and powerful monster.",
+          "cover": "https://image.tmdb.org/t/p/w780/rEmTExYHmsUQsOOwTHbnXW2l6DG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Coletores",
+          "overview": "After defeating an evil monster, Clair uses information he had to form a connection with a strange group of gatherers.",
+          "cover": "https://image.tmdb.org/t/p/w780/qYK2T8WvIYqqqf2rzO9duLGZ1jQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Metamorfose",
+          "overview": "Yoshioka and Shuichi encounter a fearsome foe while searching for her wallet.",
+          "cover": "https://image.tmdb.org/t/p/w780/sIuVcKrfGPa3yjMKrGOfzSznDBi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Sombras na memória",
+          "overview": "Clair and her new allies recover Shuichi and Yoshioka. What did Yoshioka see when she was in Shuichi?",
+          "cover": "https://image.tmdb.org/t/p/w780/eqlaifHkQtgw8YgGrZGl1lqjf3C.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Reivindicações apostadas",
+          "overview": "Koyanagi leads the team through the mountains, and they discover a suspicious and troubling mark.",
+          "cover": "https://image.tmdb.org/t/p/w780/5LbtFLxLAMuTX0bm2Wf3mHXCTth.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Linda Flor",
+          "overview": "A terrible ultimatum from a powerful enemy makes Clair, Shuichi, and their friends face an impossible decision.",
+          "cover": "https://image.tmdb.org/t/p/w780/eJyoiMJ5vlFYzIoac8KKd1E2aqv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O preço da resolução",
+          "overview": "Everyone returns to town, but they must come to terms with what happened in the mountains.",
+          "cover": "https://image.tmdb.org/t/p/w780/mTcWQ09Rb0tMOWRIHubJJnP7QYk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Onde a promessa foi feita",
+          "overview": "A few months earlier, a series of strange events happened among Shuichi and his childhood friends.",
+          "cover": "https://image.tmdb.org/t/p/w780/9vfnMODnqfskYiYY9B9NbRyzc9j.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "033-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Nós dois somos um",
+          "overview": "Shuichi and Clair attempt to strike a deal with the other members of their team, as Yoshioka reaches out to Elena.",
+          "cover": "https://image.tmdb.org/t/p/w780/b8BN8VTZ0M3Ilr8jGfsez3My9eZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gleipnir/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
