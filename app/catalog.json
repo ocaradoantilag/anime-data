@@ -263,6 +263,12 @@
       "title": "Undead Unluck",
       "cover": "https://image.tmdb.org/t/p/w780/62LKH8aho4EeZmcpYks9DvxyHxB.jpg",
       "file": "anime/047.json"
+    },
+    {
+      "id": "048",
+      "title": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
+      "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+      "file": "anime/048.json"
     }
   ]
 }
