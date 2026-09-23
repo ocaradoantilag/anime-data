@@ -133,6 +133,12 @@
       "file": "anime/014.json"
     },
     {
+      "id": "030",
+      "title": "Shuumatsu no Valkyrie",
+      "cover": "https://image.tmdb.org/t/p/w780/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+      "file": "anime/030.json"
+    },
+    {
       "id": "004",
       "title": "Spy x Family Movie: Code: White",
       "cover": "https://image.tmdb.org/t/p/w500/thGaW3UXecNJAEdB6rs8sC45JWv.jpg",
