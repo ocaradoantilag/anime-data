@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "id": "040",
+  "updatedAt": "2026-09-23T17:26:57Z",
+  "title": {
+    "romaji": "High School DxD NEW",
+    "english": "High School DxD",
+    "japanese": "ハイスクールD×D NEW",
+    "synonyms": [
+      "null"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/oF8PNdntjZ7DUrAvnhNPPNRi0q6.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "15451",
+    "tmdb": "45950",
+    "imdb": "tt2230051"
+  },
+  "information": {
+    "synopsis": "Issei Hyoudou é um garoto idiota, vagabundo e pervertido do segundo ano do ensino médio. Quando ele supostamente consegue uma namorada, ela o mata em seu primeiro encontro. Ele é reencarnado como um demônio e, dali em diante, será um servo de Rias, um demônio de alto nível que também é a garota mais bonita do colégio de Issei.",
+    "year": 2012,
+    "score": 7.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "27 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "TNK"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Ecchi",
+      "Fantasia",
+      "Romance",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "040-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2012,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "27 min per ep.",
+      "episodes": [
+        {
+          "id": "040-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Eu tenho uma namorada!",
+          "overview": "Issei Hyodo's first date with his new girlfriend ends poorly when she turns into a monster and stabs him in the stomach. Luckily, he's saved by Rias, the buxom president of his school's Occult Research Club. And then, things really start to get weird...",
+          "cover": "https://image.tmdb.org/t/p/w780/n6PE7WDBKP4AA1o3NXpGdiIWW90.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Cansei de ser humano!",
+          "overview": "Surprise! All the members of the Occult Research Club are devils, including new-recruit Issei, who's having difficulties figuring out the whole \"demonic power\" thing. Maybe he'd have better luck if Fallen Angels stopped popping up and trying to kill him.",
+          "cover": "https://image.tmdb.org/t/p/w780/y7LiMwl4GqyRQyNR7vFLf1gonAu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Eu fiz um amigo!",
+          "overview": "Issei meets and befriends a girl named Asia Argento, a Sister who has arrived to serve at the town's church. Issei learns more about the chess game in which he has become a part, and the roles that he and his fellow devils play within it.",
+          "cover": "https://image.tmdb.org/t/p/w780/mQs4o0Lls5zaZMVGzhcUc06IeL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Estou salvando meu amigo!",
+          "overview": "Issei is determined to get stronger. He spends some more time with Asia, but once again, their circumstances keep them apart. Issei finds out that although pawns may not be very strong, they have a power that allows them to act like other chess pieces.",
+          "cover": "https://image.tmdb.org/t/p/w780/icmGQ1i72QsiOvQQ4wXEBuDkmiL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Vou derrotar minha ex-namorada!",
+          "overview": "While Kiba and Koneko back him up, Issei rushes in to rescue a critically injured Asia. Leaving the others behind, Raynare and Issei become engaged in a duel to the death! Elsewhere, Rias and Akeno have their hands full with Raynare's fallen angels.",
+          "cover": "https://image.tmdb.org/t/p/w780/kW5dbfBU5c7jhQkS1s0TE6kfOnm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Eu trabalho como um demônio!",
+          "overview": "New living arrangements are made for Asia, who has been living in the club's room. Meanwhile, Issei begins a new training regimen with Rias to improve his physical fitness. Asia begins attending school, where she is placed in Issei's class.",
+          "cover": "https://image.tmdb.org/t/p/w780/2VE70GSq5yrz4HvzAbapvvZZDMf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Eu recebo um familiar!",
+          "overview": "Rias decides that it is time for Issei and Asia to have servant familiars. The school's student council visits the club room, and Issei learns that they are another faction of devils. The two groups compete to see who gets first pick of the new familiars.",
+          "cover": "https://image.tmdb.org/t/p/w780/apUUUMyHJEQUuv27lThX1bDIJau.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Eu escolho uma luta!",
+          "overview": "Issei dreams that he is marrying Rias, which leads him to get in touch with his inner dragon. Asia confesses a desire to have a deeper relationship with Issei.",
+          "cover": "https://image.tmdb.org/t/p/w780/pOqwhBlydJpV6kUkg5qOFkkiV8e.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Comecei meu treinamento!",
+          "overview": "Issei and Asia undergo a special training camp with the other household members to get ready for the upcoming Rating Game. Issei struggles to figure out what his own special characteristic is. Rias explains more about devils and the Gremory family.",
+          "cover": "https://image.tmdb.org/t/p/w780/wkUfTENeQnZsOOhYPPEIOQdZxd7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O confronto começa!",
+          "overview": "The time for the start of the Rating Game arrives, and the contestants are transported to a battlefield in an alternate dimension. While Asia and Rias remain at their base, Issei and Koneko face the opposition, and Issei reveals his new signature move.",
+          "cover": "https://image.tmdb.org/t/p/w780/vUzZJY3r4jTPK8gyrYGsyILCdoS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A aclamada batalha continua!",
+          "overview": "Kiba becomes entrenched in battle against Karlamine, one of Riser's knights, while Akeno fights Yubelluna, his queen. Meanwhile, Issei takes on Ravel and the other remaining pieces. Rias launches an all-or-nothing sneak attack against Riser.",
+          "cover": "https://image.tmdb.org/t/p/w780/1jo0n3TAZEiA3kEiicxoEni6JA6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "040-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Estou aqui para cumprir minha promessa!",
+          "overview": "Issei wakes up to find that the battle is over, and he has lost. Rias and the others are at a party in honor of her engagement to Riser, but with some help from Grayfia and Asia, Issei decides to crash it, rescue Rias, and bring her home with him!",
+          "cover": "https://image.tmdb.org/t/p/w780/9wamgE5hRoBYqC0kMCKqvlmle0w.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/high-school-dxd-new/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
