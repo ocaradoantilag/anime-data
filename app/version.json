@@ -1,6 +1,6 @@
 {
-  "requiredVersionCode": 7,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/ocaradoantilag/anime-data/releases/download/TakM-1.5.0/TakM-1.5.0.apk",
+  "requiredVersionCode": 8,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/ocaradoantilag/anime-data/releases/download/TakM-1.5.0/TakM-1.6.0.apk",
   "changelog": "Correções no editor e melhorias no salvamento de alterações."
 }
