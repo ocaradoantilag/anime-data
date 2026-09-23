@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "045",
+  "updatedAt": "2026-09-23T18:54:38Z",
+  "title": {
+    "romaji": "Chainsaw Man",
+    "english": "Chainsaw Man",
+    "japanese": "チェンソーマン",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/5DUMPBSnHOZsbBv81GFXZXvDpo6.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "44511",
+    "tmdb": "114410",
+    "imdb": "tt13616990"
+  },
+  "information": {
+    "synopsis": "Denji é um adolescente que mora com Pochita, o Demônio da Motosserra. Por conta das dívidas que herdou de seu pai, ele vive na miséria, exterminando outros demônios com Pochita para pagar as contas. Até que, um dia, Denji é traído e morre. Em seus últimos momentos de consciência, ele firma um contrato com Pochita e renasce como o Homem-Motosserra - um humano com coração de demônio.",
+    "year": 2022,
+    "score": 8.3,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "25 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "MAPPA"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Terror",
+      "Sobrenatural",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "045-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2022,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "25 min per ep.",
+      "episodes": [
+        {
+          "id": "045-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "CÃO E MOTOSSERRA",
+          "overview": "Denji is a teenager who lives his life as a Devil Hunter.\n\nAiming to pay off the debt he inherited from his father, he starts hunting devils for the yakuza with his buddy Pochita, a \"Chainsaw Devil\", while living a tragically poor life.\n\nJust when things seem like they couldn't get any worse, Denji gets betrayed and killed by the yakuza. As Denji starts passing out, he hears someone calling from inside his head...",
+          "cover": "https://image.tmdb.org/t/p/w780/dDwTq0HNQGMCpEdVQQyksvJvUcP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "CHEGADA A TÓQUIO",
+          "overview": "After being taken into custody by Makima, one of the Public Safety Devil Hunters, Denji finds himself head over heels in love with her thanks to her suggestive insinuations.\n\nWishing to team up with Makima, Denji arrives at the Devil Hunters Headquarters in Tokyo, and gets introduced to Aki Hayakawa, a senior hunter that he was supposed to partner with. But then Hayakawa beats Denji up, and demands that he “quit this job”...",
+          "cover": "https://image.tmdb.org/t/p/w780/sHT11G9NrSxYCTPLJn0Uo8UGVys.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "PARADEIRO DE MEOWY",
+          "overview": "Denji decides that his new dream is \"to fondle some boobs.\"\n\nHis partner, Power the Blood Fiend, offers to let him feel her boobs only if he rescues her old pet cat Meowy from a devil.\n\nWith his dream in sight, Denji is all fired up and ready to go, until...",
+          "cover": "https://image.tmdb.org/t/p/w780/rBsJMk7RMG0KkcwNMw85wL6NRMv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "RESGATAR",
+          "overview": "After a fierce battle, Denji defeats the “Bat Devil” and rescues Power even after she had trapped him.\n\nHe says it is all for the sake of “touching Power’s boobs”.\n\nPower mocks his ridiculous motivation saying “that’s a pretty dumb reason”, but still agrees to let him fondle her boobs.\n\nAs Denji gets thrilled with the idea, he faces a sudden attack from out of nowhere...",
+          "cover": "https://image.tmdb.org/t/p/w780/xKHaV7lbRU6AHijcAsGmJgXWcBi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "DIABO ARMA",
+          "overview": "Aki Hayakawa, Denji, and Power start living together.\n\nDenji finally fulfills his dream of touching Power’s boobs, but is shocked when things do not turn out the way he expected.  As Denji realizes that chasing his dream was more fun than achieving it, Makima approaches him and says, \"If you can kill the Gun Devil, I’ll grant you one wish.”",
+          "cover": "https://image.tmdb.org/t/p/w780/5OX1F7rJY5GUrxJ3ll8PWABzTN3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "MATAR DIGNO",
+          "overview": "Denji and Tokyo Special Division 4 members enter a hotel to collect a piece of the Gun Devil. However, they end up being trapped on the 8th floor due to the devil’s extraordinary power.\n\nWith the members being cornered on the endless 8th floor with seemingly no way to escape, the devil makes them an offer: “If you let me eat Denji, I will let all of the other devil hunters leave in one piece.”",
+          "cover": "https://image.tmdb.org/t/p/w780/uHxdaAAeQUDszXPkzmYDDz04fmd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O GOSTO DE UM BEIJO",
+          "overview": "Aki gets stabbed by Kobeni while protecting Denji. Seeing this, Denji jumps inside the “Eternity Devil” and starts attacking it. He fails to kill the “Eternity Devil” and his chainsaw power ends up fading after losing too much blood. But then, he manages to restore his power after eating the devil’s flesh and drinking its blood, and begins to fight back.\n\nAs Himeno watches Denji, she remembers the saying, “The Devil Hunters that devils fear are the ones with a few screws loose...”",
+          "cover": "https://image.tmdb.org/t/p/w780/iUCOrXRCuc17081EZb0i2OnNDtA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "FOGO",
+          "overview": "Denji experiences his first, yet devastating, kiss.\n\nAn intoxicated Denji is taken to Himeno's house, where she starts seducing him. Feeling torn between Makima, whom he admires, and Himeno, who is standing in front of him, he decides to fall into temptation. However, Denji then finds something in his pocket: The Chupa Chups lollipop that Makima gave him.",
+          "cover": "https://image.tmdb.org/t/p/w780/oMRTKYMYHQBlFVYvjNuUJWzLYz5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "DE QUIOTO",
+          "overview": "A fierce battle unfolds between Denji and the menacing Samurai Sword. But even after Denji takes one of Samurai Sword's companions hostage, Samurai Sword slashes through them both until Denji is captured. Meanwhile, after seemingly being killed, Makima turns out to be alive. She sets out to rescue Denji with the help of Public Safety Devil Hunters from Kyoto, Kurose and Tendo.",
+          "cover": "https://image.tmdb.org/t/p/w780/dLiGSci8j5HTkS0SnJaNFKC1sOQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "machucado e maltratado",
+          "overview": "Samurai Sword's vicious attack resulted in many lost personnel for Public Safety Devil Extermination Division 4.\n\nAki Hayakawa wakes up in a hospital bed, unable to accept the reality of losing Himeno. Kurose and Tendo then appear in front of Hayakawa, letting him know that they are now in charge of coaching him.\n\nMeanwhile, Makima introduces Denji and Power to a member of Public Safety who will act as their mentor in order to strengthen Division 4.",
+          "cover": "https://image.tmdb.org/t/p/w780/agiShHMgIhNCVC7wZ88PGwU6AnU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "INÍCIO DA MISSÃO",
+          "overview": "Denji and Power complete their training with Kishibe, while Aki Hayakawa makes a new contract with the \"Future Devil\" through Kurose and Tendo.\n\nMeanwhile, Makima threatens the yakuza boss into revealing the names of all those who have made contracts with the \"Gun Devil,\" along with the location of Samurai Sword's hideout.\n\nThe time has finally come for Public Safety to begin their counterattack against Samurai Sword and his companions.",
+          "cover": "https://image.tmdb.org/t/p/w780/8sDXfti8kNF1NXZ0OM7qdeVH3Pr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "045-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Katana vs. MOTOSSERRA",
+          "overview": "Sawatari sends the \"Ghost Devil\" after Hayakawa, and he's nearly killed before the \"Ghost Devil\" stops and hands him a cigarette with a message from Himeno. The words inside give Hayakawa the strength to kill the “Ghost Devil” and capture Sawatari.\n\nMeanwhile, Denji heads into his rematch with Samurai Sword. With a pull of the starter on his chest, he transforms into Chainsaw Man.\n\nAnd now, the last battle between Chainsaw Man and Samurai Sword has finally begun...",
+          "cover": "https://image.tmdb.org/t/p/w780/xqxc5esGMw5alHcju87cmjyAkyy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/c/chainsaw-man/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
