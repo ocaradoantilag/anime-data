@@ -1,46 +1,34 @@
 {
   "animes": [
     {
-      "id": "022",
-      "title": "Akame ga Kill!",
-      "cover": "https://image.tmdb.org/t/p/w780/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg",
-      "file": "anime/022.json"
-    },
-    {
-      "id": "ao-no-hako",
+      "id": "001",
       "title": "Ao no Hako",
       "cover": "https://image.tmdb.org/t/p/w780/6BSedpeUInCC9hRKiWjUPjFJMRP.jpg",
       "file": "Anime/anime/001.json"
     },
     {
-      "id": "024",
-      "title": "Dragon Ball DAIMA",
-      "cover": "https://image.tmdb.org/t/p/w780/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
-      "file": "anime/024.json"
-    },
-    {
-      "id": "023",
-      "title": "Go-toubun no Hanayome",
-      "cover": "https://image.tmdb.org/t/p/w780/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
-      "file": "anime/023.json"
-    },
-    {
-      "id": "016",
-      "title": "Grand Blue",
-      "cover": "https://image.tmdb.org/t/p/w780/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
-      "file": "anime/016.json"
-    },
-    {
-      "id": "015",
-      "title": "Haibara-kun no Tsuyokute Seishun New Game",
-      "cover": "https://image.tmdb.org/t/p/w780/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
-      "file": "anime/015.json"
-    },
-    {
-      "id": "hanazakari-no-kimitachi-e",
+      "id": "002",
       "title": "Hanazakari no Kimitachi e",
       "cover": "https://image.tmdb.org/t/p/w780/wCZn0Is62Tx4HC9WuFGYysjeHCx.jpg",
       "file": "Anime/anime/002.json"
+    },
+    {
+      "id": "003",
+      "title": "Kimi ni Todoke",
+      "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+      "file": "Anime/anime/003.json"
+    },
+    {
+      "id": "004",
+      "title": "Spy x Family Movie: Code: White",
+      "cover": "https://image.tmdb.org/t/p/w500/thGaW3UXecNJAEdB6rs8sC45JWv.jpg",
+      "file": "Anime/anime/004.json"
+    },
+    {
+      "id": "005",
+      "title": "ReLIFE",
+      "cover": "https://image.tmdb.org/t/p/w780/oavCFoklxWAqPHSbuPaDZCZQ0gB.jpg",
+      "file": "Anime/anime/005.json"
     },
     {
       "id": "007",
@@ -49,76 +37,10 @@
       "file": "anime/007.json"
     },
     {
-      "id": "012",
-      "title": "Hime Kishi wa Barbaroi no Yome",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
-      "file": "anime/012.json"
-    },
-    {
-      "id": "kimi-ni-todoke",
-      "title": "Kimi ni Todoke",
-      "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
-      "file": "Anime/anime/003.json"
-    },
-    {
-      "id": "025",
-      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-      "cover": "https://image.tmdb.org/t/p/w780/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg",
-      "file": "anime/025.json"
-    },
-    {
-      "id": "019",
-      "title": "LV999 no Murabito",
-      "cover": "https://image.tmdb.org/t/p/w780/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-      "file": "anime/019.json"
-    },
-    {
-      "id": "021",
-      "title": "Magic Maker: Isekai Mahou no Tsukurikata",
-      "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
-      "file": "anime/021.json"
-    },
-    {
-      "id": "020",
-      "title": "Nanatsu no Maken ga Shihai Suru",
-      "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
-      "file": "anime/020.json"
-    },
-    {
-      "id": "013",
-      "title": "Niwatori Fighter",
-      "cover": "https://image.tmdb.org/t/p/w780/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
-      "file": "anime/013.json"
-    },
-    {
       "id": "010",
       "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
       "cover": "https://image.tmdb.org/t/p/w780/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
       "file": "anime/010.json"
-    },
-    {
-      "id": "relife",
-      "title": "ReLIFE",
-      "cover": "https://image.tmdb.org/t/p/w780/oavCFoklxWAqPHSbuPaDZCZQ0gB.jpg",
-      "file": "Anime/anime/005.json"
-    },
-    {
-      "id": "014",
-      "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-      "cover": "https://image.tmdb.org/t/p/w780/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
-      "file": "anime/014.json"
-    },
-    {
-      "id": "spy-x-family-movie-code-white",
-      "title": "Spy x Family Movie: Code: White",
-      "cover": "https://image.tmdb.org/t/p/w500/thGaW3UXecNJAEdB6rs8sC45JWv.jpg",
-      "file": "Anime/anime/004.json"
-    },
-    {
-      "id": "017",
-      "title": "Suki na Ko ga Megane wo Wasureta",
-      "cover": "https://image.tmdb.org/t/p/w780/xLk0eyJ7Fcc4PK6gLORmeQSLhlk.jpg",
-      "file": "anime/017.json"
     },
     {
       "id": "011",
@@ -127,10 +49,88 @@
       "file": "anime/011.json"
     },
     {
+      "id": "012",
+      "title": "Hime Kishi wa Barbaroi no Yome",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
+      "file": "anime/012.json"
+    },
+    {
+      "id": "013",
+      "title": "Niwatori Fighter",
+      "cover": "https://image.tmdb.org/t/p/w780/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+      "file": "anime/013.json"
+    },
+    {
+      "id": "014",
+      "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "cover": "https://image.tmdb.org/t/p/w780/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
+      "file": "anime/014.json"
+    },
+    {
+      "id": "015",
+      "title": "Haibara-kun no Tsuyokute Seishun New Game",
+      "cover": "https://image.tmdb.org/t/p/w780/3Bxl4kYXdGMMIoZXgDGzo26OiGH.jpg",
+      "file": "anime/015.json"
+    },
+    {
+      "id": "016",
+      "title": "Grand Blue",
+      "cover": "https://image.tmdb.org/t/p/w780/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+      "file": "anime/016.json"
+    },
+    {
+      "id": "017",
+      "title": "Suki na Ko ga Megane wo Wasureta",
+      "cover": "https://image.tmdb.org/t/p/w780/xLk0eyJ7Fcc4PK6gLORmeQSLhlk.jpg",
+      "file": "anime/017.json"
+    },
+    {
       "id": "018",
       "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "cover": "https://image.tmdb.org/t/p/w780/bWHLEMqymTuaRAEDQQvwHfw7AR9.jpg",
       "file": "anime/018.json"
+    },
+    {
+      "id": "019",
+      "title": "LV999 no Murabito",
+      "cover": "https://image.tmdb.org/t/p/w780/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+      "file": "anime/019.json"
+    },
+    {
+      "id": "020",
+      "title": "Nanatsu no Maken ga Shihai Suru",
+      "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
+      "file": "anime/020.json"
+    },
+    {
+      "id": "021",
+      "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+      "cover": "https://image.tmdb.org/t/p/w780/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg",
+      "file": "anime/021.json"
+    },
+    {
+      "id": "022",
+      "title": "Akame ga Kill!",
+      "cover": "https://image.tmdb.org/t/p/w780/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg",
+      "file": "anime/022.json"
+    },
+    {
+      "id": "023",
+      "title": "Go-toubun no Hanayome",
+      "cover": "https://image.tmdb.org/t/p/w780/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg",
+      "file": "anime/023.json"
+    },
+    {
+      "id": "024",
+      "title": "Dragon Ball DAIMA",
+      "cover": "https://image.tmdb.org/t/p/w780/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
+      "file": "anime/024.json"
+    },
+    {
+      "id": "025",
+      "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "cover": "https://image.tmdb.org/t/p/w780/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg",
+      "file": "anime/025.json"
     }
   ]
 }
