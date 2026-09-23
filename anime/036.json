@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "036",
+  "updatedAt": "2026-09-23T17:00:40Z",
+  "title": {
+    "romaji": "Teogonia",
+    "english": "Teogonia",
+    "japanese": "神統記",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/wvQokVLDcFk8X1YN3UO4VGAmrgX.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/4gcAg5Y47J4BPgrTHRTpoEolQmd.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "58614",
+    "tmdb": "256109",
+    "imdb": "tt32514593"
+  },
+  "information": {
+    "synopsis": "Humanos lutam incansavelmente para proteger suas terras contra tribos de semi-humanos invasores. Em meio a esse cenário de guerra implacável, Kai, um jovem de um vilarejo chamado Lag, se junta à luta para defender tudo o que ele conhece. Porém, após ver seus companheiros caírem um a um e ser gravemente ferido, Kai subitamente recupera suas memórias de outra vida. Assim começa uma jornada fantástica, enquanto um garoto do vilarejo desbrava um mundo de magia, mistérios e heroísmo.",
+    "year": 2025,
+    "score": 6.7,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Asahi Production"
+    ],
+    "genres": [
+      "Ação",
+      "Fantasia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "036-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "036-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Kai da Vila Lag",
+          "overview": "Kai's destiny changes when he reproduces an ability that he saw in a strange dream.",
+          "cover": "https://image.tmdb.org/t/p/w780/8Wnw5UFsGpYolJBTCyd3vSv23Fr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Senhora José",
+          "overview": "Kai travels to Eda Village with Lady Jose, who teaches him about the duty of guardian bearers.",
+          "cover": "https://image.tmdb.org/t/p/w780/2ViKZ44P4S3q7Gy19M5yevoVYBs.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Deus da Arbitragem",
+          "overview": "Kai returns to the valley where his journey started, where he learns more about the valley god.",
+          "cover": "https://image.tmdb.org/t/p/w780/58FACg7NOPBNscrqoL3Qg5Ah9dS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Um pequeno paraíso",
+          "overview": "Kai's accomplishments attract the attention of Vezin, and Kai recalls a childhood memory.",
+          "cover": "https://image.tmdb.org/t/p/w780/c13gHLRTp6UOHeVeuoviqqZPed3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O Padre e o Inspetor",
+          "overview": "An inspector from the central plain visits Rag Village, and Kai escorts a priest following an org band.",
+          "cover": "https://image.tmdb.org/t/p/w780/xXvUjwUt6slUOIcQ0HfS43bPBE5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Rigdaros",
+          "overview": "Kai battles Adurakan, a powerful org guardian bearer, in order to protect the valley.",
+          "cover": "https://image.tmdb.org/t/p/w780/e7SQCSdk6Gi6tPkDwFFlaaGjtOw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Buscador da verdade",
+          "overview": "The scouting party returns to Rag Village only to learn it was devastated by an attack during their absence.",
+          "cover": "https://image.tmdb.org/t/p/w780/nwkYwD5y0YOiYxzVcY44sC1bFs6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Ispi Rio",
+          "overview": "Kai and Nada fight for their lives while Lag Village defends itself from another macaque attack.",
+          "cover": "https://image.tmdb.org/t/p/w780/6cisGDlesjeRO3370EvZc8adKnQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O Poder de Deus",
+          "overview": "Macaques come flooding through the gate opened by the inspector. Will Kai arrive in time to save Lag Village?",
+          "cover": "https://image.tmdb.org/t/p/w780/dzZQA3qwVL2fgf7SjVyTwdW3btG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O Grande Deus Kanae",
+          "overview": "The macaques ask Kai to save them from the evil Great God Kanae.",
+          "cover": "https://image.tmdb.org/t/p/w780/7ewrTYySPmqqFq27khUJgeI673s.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Diabo",
+          "overview": "Kai and his allies confront the diabo, but it is not easily defeated.",
+          "cover": "https://image.tmdb.org/t/p/w780/5KzZWHr5Mnp4jNkJwsaDpEq1bOy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "036-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Protetor de Kanae",
+          "overview": "Kai's life is slowly drained away after being swallowed by the diabo when he hears a voice...",
+          "cover": "https://image.tmdb.org/t/p/w780/mYySMkRKoAFnN98csYm6t2ZdxGN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/teogonia/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
