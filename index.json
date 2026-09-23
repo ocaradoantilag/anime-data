@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T17:17:22Z",
+  "updatedAt": "2026-09-23T17:17:55Z",
   "animes": [
     {
       "id": "relife",
@@ -378,6 +378,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/038.json"
+    },
+    {
+      "id": "039",
+      "title": "MASHLE: MAGIA E MÚSCULOS",
+      "cover": "https://image.tmdb.org/t/p/w780/koKOPmCjEBOUVQwC6uV3HflKba3.jpg",
+      "year": 2023,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/039.json"
     }
   ]
 }
