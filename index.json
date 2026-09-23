@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:52:18Z",
+  "updatedAt": "2026-09-23T18:54:41Z",
   "animes": [
     {
       "id": "relife",
@@ -450,6 +450,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/044.json"
+    },
+    {
+      "id": "045",
+      "title": "Chainsaw Man",
+      "cover": "https://image.tmdb.org/t/p/w780/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "year": 2022,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/045.json"
     }
   ]
 }
