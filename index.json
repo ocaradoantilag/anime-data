@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T19:30:46Z",
+  "updatedAt": "2026-09-23T19:35:21Z",
   "animes": [
     {
       "id": "relife",
@@ -474,6 +474,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/046.json"
+    },
+    {
+      "id": "047",
+      "title": "Undead Unluck",
+      "cover": "https://image.tmdb.org/t/p/w780/62LKH8aho4EeZmcpYks9DvxyHxB.jpg",
+      "year": 2023,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/047.json"
     }
   ]
 }
