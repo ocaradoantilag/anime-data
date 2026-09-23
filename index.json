@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:08:49Z",
+  "updatedAt": "2026-09-23T18:38:50Z",
   "animes": [
     {
       "id": "relife",
@@ -426,6 +426,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/042.json"
+    },
+    {
+      "id": "043",
+      "title": "Cowboy Bebop",
+      "cover": "https://image.tmdb.org/t/p/w780/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+      "year": 1998,
+      "type": "TV",
+      "episodes": 26,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/043.json"
     }
   ]
 }
