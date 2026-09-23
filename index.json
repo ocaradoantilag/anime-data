@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T15:17:52Z",
+  "updatedAt": "2026-09-23T15:21:51Z",
   "animes": [
     {
       "id": "relife",
@@ -258,6 +258,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/028.json"
+    },
+    {
+      "id": "029",
+      "title": "A flor perfumada floresce com dignidade",
+      "cover": "https://image.tmdb.org/t/p/w780/iR3kusHHeoAbjAjWrg53nSAVDx7.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 13,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/029.json"
     }
   ]
 }
