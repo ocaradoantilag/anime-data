@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T17:15:23Z",
+  "updatedAt": "2026-09-23T17:17:22Z",
   "animes": [
     {
       "id": "relife",
@@ -366,6 +366,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/037.json"
+    },
+    {
+      "id": "038",
+      "title": "Plunderer",
+      "cover": "https://image.tmdb.org/t/p/w780/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "year": 2020,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/038.json"
     }
   ]
 }
