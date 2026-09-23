@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T16:53:23Z",
+  "updatedAt": "2026-09-23T17:00:43Z",
   "animes": [
     {
       "id": "relife",
@@ -342,6 +342,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/035.json"
+    },
+    {
+      "id": "036",
+      "title": "Teogonia",
+      "cover": "https://image.tmdb.org/t/p/w780/wvQokVLDcFk8X1YN3UO4VGAmrgX.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/036.json"
     }
   ]
 }
