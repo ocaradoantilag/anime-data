@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "044",
+  "updatedAt": "2026-09-23T18:52:16Z",
+  "title": {
+    "romaji": "Shiunji-ke no Kodomotachi",
+    "english": "The Shiunji Family Children",
+    "japanese": "紫雲寺家の子供たち",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/kVZcEY6PCeweU4GFWBOnlKAM28L.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "58131",
+    "tmdb": "261091",
+    "imdb": "tt35331428"
+  },
+  "information": {
+    "synopsis": "O amor entre irmão e irmã. O amor entre homem e mulher. O que é mais proibido é mais inflexível. Os dois filhos e cinco filhas da família Shiunji brilham como pedras reluzentes, cada um com inteligência e beleza em igual medida. E com o pedigree de seu pai rico por trás deles, como eles poderiam não ser o assunto da cidade? O filho mais velho Arata passou a vida sendo empurrado pelos caprichos de suas irmãs coloridas, mas um pouco de provocação não o impedirá de valorizar sua família sobre qualquer coisa e qualquer outra pessoa. Mas quando sua irmã mais nova faz quinze anos, seu pai revela um segredo há muito escondido dos \"irmãos\" Shiunji e derruba o mundo de Arata fora de seu eixo...",
+    "year": 2025,
+    "score": 7,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Doga Kobo"
+    ],
+    "genres": [
+      "Comédia",
+      "Romance",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "044-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "044-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "E se...?",
+          "overview": "Arata (16), the 3rd of 7 siblings and oldest son of the Shiunji family, dreams of a different life until...",
+          "cover": "https://image.tmdb.org/t/p/w780/pMUTD3DvDJmuSXJIuOC1olImPIt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Agora o que",
+          "overview": "How will the siblings come to terms with the news?",
+          "cover": "https://image.tmdb.org/t/p/w780/hXgec7laJgIIczLUWohQs418vNP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Por agora",
+          "overview": "The gang heads to an amusement park to celebrate Kotono's birthday!",
+          "cover": "https://image.tmdb.org/t/p/w780/7YXhWD4nGtO1pyO5FpsVvGsEmt7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Respectivamente",
+          "overview": "After Ouka's confession, Minami and Banri want to find out if anything has changed for Arata.",
+          "cover": "https://image.tmdb.org/t/p/w780/7xd1QovCR4SLEAA548YYFplGazH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Talvez",
+          "overview": "Kotono's suspicions continue to grow. Meanwhile, Seiha has a theory and demands to test it out.",
+          "cover": "https://image.tmdb.org/t/p/w780/bIRcRgLuHkB13L9X3J2fFJobw4m.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Agora é a hora",
+          "overview": "Minami's distractions catch up to her in the lead-up to her inter-highs.",
+          "cover": "https://image.tmdb.org/t/p/w780/dCPwC4ViFoGIvXo7NktP1NC1BUM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Certamente",
+          "overview": "Where is Minami, and what comes of the tournament finals?",
+          "cover": "https://image.tmdb.org/t/p/w780/wueGYFOIcJwoSLJQZkWXeRV5kl0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Desde então",
+          "overview": "Minami deals with the aftermath, and Banri needs someone to help her.",
+          "cover": "https://image.tmdb.org/t/p/w780/siCniz5vbb4lstQex9LKu9Iq3aT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Ainda não",
+          "overview": "Ouka's gone AWOL, and the gang must figure out what's going on.",
+          "cover": "https://image.tmdb.org/t/p/w780/br1cQbxmFBV8p3WILPr6uO7P2Bt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Finalmente",
+          "overview": "Arata has found Ouka, but what next? And how will the rest of the family respond?",
+          "cover": "https://image.tmdb.org/t/p/w780/p7KL5ompnqJB0FKeZE1nuHdjfrN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Então então",
+          "overview": "The kids hit up their dad's summer villa in Karuizawa for a chill holiday, but things heat up for Arata!",
+          "cover": "https://image.tmdb.org/t/p/w780/ls90uqzov8gcEnJAQ5HvdykRtgo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "044-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Ainda",
+          "overview": "As the family trip draws to a close, the siblings each come to terms with their bonds in their own way.",
+          "cover": "https://image.tmdb.org/t/p/w780/fl8EktBsEv9v8whlYviQMtnvbGh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/s/shiunji-ke-no-kodomotachi/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
