@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "id": "038",
+  "updatedAt": "2026-09-23T17:17:20Z",
+  "title": {
+    "romaji": "Plunderer",
+    "english": "Plunderer",
+    "japanese": "プランダラ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "37345",
+    "tmdb": "93149",
+    "imdb": "tt11418324"
+  },
+  "information": {
+    "synopsis": "Em um mundo pós-apocalíptico dominado pelos chamados “Números”, cada humano terá sua identidade marcada com seu próprio “Conde”, que pode definir qualquer número relacionado à sua vida. Que seja a distância percorrida ou a quantidade de elogios que outros lhes deram, esse conde pode levá-los ao abismo quando cair a zero. No ano 305 do calendário alciano, Hina herdou uma missão de sua mãe, cujo conde se depreciou a zero, para procurar o lendário Barão Vermelho. Em sua aventura, ela conhece um espadachim meio mascarado chamado Licht, que tenta esconder sua identidade, já que ele é conhecido como um degenerado por ter um conde incrivelmente baixo.",
+    "year": 2020,
+    "score": 6.3,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "GEEKTOYS"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Ecchi",
+      "Fantasia",
+      "Romance",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "038-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2020,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "038-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O ás lendário",
+          "overview": "Ever since her mother disappeared, Hina has been traveling alone. Her mother’s last words to Hina were to find \"the Legendary Ace\". Hina follows a rumor to a town, where she meets Nana, a tavern owner, and Licht, a huge pervert.",
+          "cover": "https://image.tmdb.org/t/p/w780/ePk9Ox64DFHbRS3ktQmu1KGxDfj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Te odeio!",
+          "overview": "Licht, the legendary Ace of Flashing Strikes, saves Hina from the corrupt military officer. Hina is determined that he is the person her mother told her to find, but Licht seems to disagree.",
+          "cover": "https://image.tmdb.org/t/p/w780/krJ9owwT5enG0W67sQABdbhx5SI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uniformes são uniformes",
+          "overview": "Lynn and Pele are military officers overseeing a peaceful backwater town. They encounter a strange pudding peddler who looks suspiciously like the legendary Ace on the wanted poster.",
+          "cover": "https://image.tmdb.org/t/p/w780/iazgGEzTU33mQgKPJpPeQka49ik.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Titular da cédula",
+          "overview": "Licht can’t help but be impressed by how peaceful and happy the people in Lynn’s town are. However, that peace is broken with the arrival of Jail, Lynn’s superior officer.",
+          "cover": "https://image.tmdb.org/t/p/w780/x9jgw41Ga1VN5jX02S2V8Uu39Lq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Não se desculpe, peça desculpas",
+          "overview": "Jail reveals his true Count of 12500. He even overtakes Licht in raw speed, Licht’s specialty. As the townsfolk and Lynn look on, Licht is backed into a corner.",
+          "cover": "https://image.tmdb.org/t/p/w780/g4FW7KhwhyH8fwpcwKzknFZZhr5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Pressentimento",
+          "overview": "Hina catches up to Licht, guided by a hunch and aided by Nana. They meet Pelmo, another hunch-driven woman. Pelmo is chasing after a lifelong dream, which turns out to be quite dangerous.",
+          "cover": "https://image.tmdb.org/t/p/w780/wePuo92vuL8KYt1nreeB7xU5cSy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Estava uma delícia",
+          "overview": "Lynn and Pele also catch up to Licht. Sensing the establishment of an awkward love triangle, Nana proposes a cooking match to lighten up the mood.",
+          "cover": "https://image.tmdb.org/t/p/w780/1Q2W9KuTw8RTIBkbiV46BU25FFr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Demônio do Abismo",
+          "overview": "Jail, Lynn and Pele enter the town of Linden and discover that its inhabitants were annihilated by an unknown entity. Jail is confident that Licht must know something about this.",
+          "cover": "https://image.tmdb.org/t/p/w780/4T2wnCrwjsZoxJgY6boz0ZR3OJa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Saqueador",
+          "overview": "The Demon of the Abyss shows itself. Nobody knows what it is or how to defeat it, except for Licht, who takes command.",
+          "cover": "https://image.tmdb.org/t/p/w780/1UzkHreJ2fw94mLIRhQfPVuZOIV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Sério",
+          "overview": "Licht unleashes his true power, becoming an overwhelming killing machine. However, it seems like his unmatched strengths come at a high cost.",
+          "cover": "https://image.tmdb.org/t/p/w780/wcn2obcAqpggkrvqQdRSFKggogh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Na minha manga",
+          "overview": "Licht and Mizuka have returned to their normal selves. While the ladies in the group suffer the consequences of Licht and Mizuka’s unresolved Star Stake, Jail receives an order to report to the supreme commander of the military.",
+          "cover": "https://image.tmdb.org/t/p/w780/hQXfm1vKNxwN0zF0JTx3jBR0vXi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Cerimônia de Entrada",
+          "overview": "Nana sends Jail, Lynn, Pele and Hina 300 years back in time. They arrive at an unknown institution with technology far superior to the world they are accustomed to, and meet Rihito, a young man Hina is convinced is Licht himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/9fm3JPGrab4kBd6FB78xYDTiOCP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Estômago cheio",
+          "overview": "The time travelers settle into their new role as students in the military academy. However, when Schmerman reveals the \"rules\" of the school, it becomes apparent that there’s more to this place than fun times and friendship.",
+          "cover": "https://image.tmdb.org/t/p/w780/9TnXL4N5HjcObqvg6gH5uxhjBkZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "7 minutos 12 segundos",
+          "overview": "A voyeur is regularly sneaking a look at the girls’ bath, and the students are tasked with catching the culprit. Meanwhile, Jail attempts to find out more about this timeline and figure out why Nana sent them here.",
+          "cover": "https://image.tmdb.org/t/p/w780/jEpyf5IMO9mz12kwFl4Uysjk48y.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Um exército que não mata",
+          "overview": "Jail discovers more secrets about this world through Nana, but is intercepted by Alan during his escape. Meanwhile, the students of Class A come closer to realizing their dream of becoming a military force that does not take human lives.",
+          "cover": "https://image.tmdb.org/t/p/w780/1igaehEuEbnTGryqFEjqMTMbxGq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "A Guerra da Eliminação de Resíduos",
+          "overview": "Rihito decides to receive the operation to turn him into an Ace. This is the decisive moment in history that the time travelers wanted to change, but knowing what they know now, they cannot agree on what is best for everyone.",
+          "cover": "https://image.tmdb.org/t/p/w780/eb0rmT7OdWRmG5ZIu3YStz1K890.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Ás dos Golpes Flashes",
+          "overview": "Jail and the squad are successful. With his newfound overwhelming powers, Rihito should be able to defeat the enemy with ease. However, the enemy, a group of trained and determined soldiers, will not go down without resistance.",
+          "cover": "https://image.tmdb.org/t/p/w780/kwgMqqBgutaYOurC8zw64kXEjjy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Nascimento de Alcia",
+          "overview": "The time travelers return to the future, and learn the true history of their world. Though they were unable to change the past, they are determined to correct the present and shape the future.",
+          "cover": "https://image.tmdb.org/t/p/w780/wYZni4XWzF4jv08faHVodC4Xr3u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Trapaceando",
+          "overview": "Nana throws a party for the weary time travelers after their long journey through history. One by one, they recover from the gloomy atmosphere brought on by what they had witnessed.",
+          "cover": "https://image.tmdb.org/t/p/w780/rbooPqNauziJVRYGcy5cSdKOYsi.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Chuva",
+          "overview": "After Nana’s party, Hina confronts Licht as he is about to take off on his own again. As Schmerman’s Special Service Unit pursues its own mysterious goals, Alex contemplates his next move.",
+          "cover": "https://image.tmdb.org/t/p/w780/o3FCKj0E4hkgV3BV794RuMizFVS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Pai",
+          "overview": "Licht takes off on his own and faces off against Doan, whose power completely overwhelms him. The others chase after him, while Jail visits his adopted father to seek closure.",
+          "cover": "https://image.tmdb.org/t/p/w780/mcPEzF0aTfSlQcVjooOp9MJFAwN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Promessa",
+          "overview": "Licht is dead. Doan determines that the others are also attempting to take down Alcia, so he decides to kill them all as well.",
+          "cover": "https://image.tmdb.org/t/p/w780/4vLLSIwmAWer61GJDBEfla8q0x5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Imperdoável",
+          "overview": "Like he did in the past, Licht returns to life from what apparent death, and returns to save the others from Doan. However, Mizuka joins Doan. Licht must take both Aces on at once.",
+          "cover": "https://image.tmdb.org/t/p/w780/h4akFVO0MOEpeqfgAXBsC7GPDKm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "038-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Meu Ás",
+          "overview": "With Mizuka subdued, the only opposition facing Licht is Doan. Doan traps Licht in a prison of gravity, from which there is no escape. Hina, however, still believes in Licht.",
+          "cover": "https://image.tmdb.org/t/p/w780/m74tvOvkx0Zf3mX2Bnx2zACRPMb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/p/plunderer/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
