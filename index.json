@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T15:21:51Z",
+  "updatedAt": "2026-09-23T16:03:53Z",
   "animes": [
     {
       "id": "relife",
@@ -270,6 +270,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/029.json"
+    },
+    {
+      "id": "030",
+      "title": "Record of Ragnarok",
+      "cover": "https://image.tmdb.org/t/p/w780/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+      "year": 2021,
+      "type": "ONA",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/030.json"
     }
   ]
 }
