@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "id": "028",
+  "updatedAt": "2026-09-23T15:17:50Z",
+  "title": {
+    "romaji": "Kengan Ashura",
+    "english": "KENGAN ASHURA",
+    "japanese": "ケンガンアシュラ",
+    "synonyms": [
+      "KENGAN ASHURA"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/wJtrctuWTKgIi45zLw9tTjWQFY3.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "36903",
+    "tmdb": "90660",
+    "imdb": "tt9058134"
+  },
+  "information": {
+    "synopsis": "Ohma Tokita ingressa em um mundo secreto onde as disputas de negócios são resolvidas em combates entre gladiadores. Esqueça o dinheiro; ele só quer lutar e vencer.",
+    "year": 2019,
+    "score": 7.3,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "25 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Larx Entertainment"
+    ],
+    "genres": [
+      "Ação",
+      "Esportes",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "028-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2019,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "25 min per ep.",
+      "episodes": [
+        {
+          "id": "028-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Kengan",
+          "overview": "Chairman Nogi suddenly calls low-level employee Kazuo Yamashita into a meeting and gives him an unexpected -- and unwanted -- new assignment.",
+          "cover": "https://image.tmdb.org/t/p/w780/sv9r4DxljoGvvMFPnsjKuUOavtV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/57yv4yvzl98b1ph/Kengan_Ashura_01_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Super-humano",
+          "overview": "For his debut kengan match, Ohma calmly faces Yoshitake Real Estate's Lihito, an arrogant fighter with a superhuman vice-like grip.",
+          "cover": "https://image.tmdb.org/t/p/w780/8GIeAvmUnSEAb0XD2YbilPYEWOL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/c5f77lymdn2gi9z/Kengan_Ashura_02_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Cara durão",
+          "overview": "Ohma thinks he's got the upper hand, but Jun Sekibayashi quickly reminds him: pro-wrestlers are great actors, and they love to put on a show.",
+          "cover": "https://image.tmdb.org/t/p/w780/bisgbPavdbnckd04hErAc7rwwoF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/uxi1n6q1fy2myst/Kengan_Ashura_03_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Reunidos",
+          "overview": "Chairman Nogi refuses to enter Ohma into the Annihilation Tournament, but there's another way for him to qualify -- and he'll need Yamashita's help.",
+          "cover": "https://image.tmdb.org/t/p/w780/v1qeKwTi8aKvHESjSgAYi19sxXf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/b21lbi6rwrf2iwm/Kengan_Ashura_04_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Briga",
+          "overview": "Unexpectedly, Ohma is thrown into an all-out brawl. Over 100 fighters are locked in a room, but only five can make it into the tournament finals.",
+          "cover": "https://image.tmdb.org/t/p/w780/5tI95ZP9ddEYHBnvfh3VjbIkgCa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/1bnk0mchlzv4gjr/Kengan_Ashura_05_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Puxando Cordas",
+          "overview": "While some try to enjoy their time on the luxury liner, others strategize behind the scenes, with one savvy shogi player pulling a surprising move.",
+          "cover": "https://image.tmdb.org/t/p/w780/ejjc88RetY9MMWMeB7CsNPSEEv3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/0g9lefvkqsxj91r/Kengan_Ashura_06_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "A noite anterior",
+          "overview": "In a tense backroom meeting with all the corporate participants, the tournament brackets are finally decided. Tomorrow, the battles begin.",
+          "cover": "https://image.tmdb.org/t/p/w780/5lND5x5CBHAFxi5qxz40GRAHX2o.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/9qorcijpmnjynyl/Kengan_Ashura_07_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "A batalha começa",
+          "overview": "The Kengan Annihilation Tournament kicks off with great fanfare. First up, jujitsu master Cosmo Imai goes up against American brawler Adam Dudley.",
+          "cover": "https://image.tmdb.org/t/p/w780/sPZ5OvIy8wo6IR3PePNanze1mu6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/bo5c81sowugt4ij/Kengan_Ashura_08_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Justiça",
+          "overview": "Nentendo's Haruo Kohno combines his monstrous size with surprising speed and agility, but riot cop Seishu Akoya's got a secret plan in place.",
+          "cover": "https://image.tmdb.org/t/p/w780/ophObhUojn7Y00Ltkv2bqfxa466.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/0qubv5o7cf5z89a/Kengan_Ashura_09_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Irmã",
+          "overview": "In a battle between two storied lineages, Raian of the lethal Kure clan takes on Mokichi Robinson, scion of a legendary 19th century kengan fighter.",
+          "cover": "https://image.tmdb.org/t/p/w780/v3cyeBTQCezHgNxbvcxawp2MrOe.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/v9lhpej1avk7m3c/Kengan_Ashura_10_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Ashura",
+          "overview": "Ohma goes into his first fight of the tournament with confidence, but he struggles against Ryo Inaba's creepy, unorthodox fighting style.",
+          "cover": "https://image.tmdb.org/t/p/w780/j2P3RqMJ55EFq6paGeUrBtUK4VB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/mn5tpgm7p07c1o1/Kengan_Ashura_11_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Pai e filho",
+          "overview": "The tournament continues with plenty of rule-bending and inner-dealings in and out of the arena. Ohma chafes under Yamashita's fatherly affection.",
+          "cover": "https://image.tmdb.org/t/p/w780/mNaoUhhKfkOZTaJWOfGXzetspSH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://www.mediafire.com/file/kzhxb8kekm71keq/Kengan_Ashura_12_ER-Anbient.mkv/file"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Convicções",
+          "overview": "Kiohzan Takeru looks like he's using MMA moves against “Hell's Angel” Jun Sekibayashi, but his all-out style is how sumo was originally fought.",
+          "cover": "https://image.tmdb.org/t/p/w780/8eGSHBqJwdDZYfnE0pUOaUe8Ggz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/Y/E/H/b/YEHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Mestre e Aluno",
+          "overview": "Gladiators and spectators enjoy a night off. Ohma visualizes his matches against formidable opponents -- including his former master, Niko Tokita.",
+          "cover": "https://image.tmdb.org/t/p/w780/bGuYwftM5lp7ch3nJvfp6TOangk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/q/F/H/b/qFHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "O pescador",
+          "overview": "Ajiro Fisheries' Yoshinari Karo faces Saw Paing Yoroizuka. The fix is in: the match is rigged. But Karo and his harpoon aren't following the script.",
+          "cover": "https://image.tmdb.org/t/p/w780/s5az4gqNK7gHlIjCPiCUjFWSvjh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/A/K/H/b/AKHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "O Rakshasa",
+          "overview": "Destinyland's Masami Nezu takes on Rei Mikazuchi, the scion of an assassin sect. Ren Nikaido's uncanny move against Setsuna Kiryu backfires.",
+          "cover": "https://image.tmdb.org/t/p/w780/wODwUGbU2VEQ3Y7uczC3whHAdOZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/K/H/b/4KHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "A Lança do Diabo",
+          "overview": "Lihito's hot-headed and arrogant, but Motor Head Motors' Gensai Kuroki isn't fazed by his taunts. It's youth versus age and the Kaiwan style.",
+          "cover": "https://image.tmdb.org/t/p/w780/sKyxqVR2UVis0mpmF09yPU7jcuI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/n/R/H/b/nRHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Curiosidades",
+          "overview": "Sen Hatsumi faces Takayuki Chiba, mimicker of other fighters' moves. Hajime Hanafusa enters the ring with orders to kill death row inmate Yohei Bando.",
+          "cover": "https://image.tmdb.org/t/p/w780/bN49nDXhwILNuJyyWHi1ZyF7jT0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/R/R/H/b/RRHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Vontade",
+          "overview": "Thai boxer Kaolan Wongsawat fights for his country and sworn liege. Suekichi Kaneda's clearly outmatched, but he's got a cunning and unshakable will.",
+          "cover": "https://image.tmdb.org/t/p/w780/mrmWsstoxohJm3fEnUB3iuJS6DN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/i/W/H/b/iWHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Campeões",
+          "overview": "Naoya Ohkubo is known as the King of Combat, but crowd favorite Agito Kanoh is undefeated with 157 straight wins. It's a matchup for the ages.",
+          "cover": "https://image.tmdb.org/t/p/w780/ltidECvVl2VJRDEtpgbTu9h0VpU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/M/W/H/b/MWHbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "O Abismo",
+          "overview": "The second round begins. At a huge size disadvantage, Cosmo Imai discards his signature grappling moves when facing the monolithic Seishu Akoya.",
+          "cover": "https://image.tmdb.org/t/p/w780/cnR6RcxF4GE3ZmDHwEEghgdOz4a.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/k/3/H/b/k3Hbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Combate mortal",
+          "overview": "Seishu Akoya lives by his own code of sadistic justice. On the brink of death, Cosmo Imai has a revelation that puts him back in the fight.",
+          "cover": "https://image.tmdb.org/t/p/w780/qNGab174Cb5TX2f6xpWls4WSjoG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/3/3/H/b/33Hbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "O Diabo",
+          "overview": "As Ohma faces Raian of the Kure clan, other Kure assassins are on the move outside the ring. The life of Yamashita's eldest son hangs in the balance.",
+          "cover": "https://image.tmdb.org/t/p/w780/r46ZZCcKumbhKXPUeQn2zS0tVV8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/E/b/I/b/EbIbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "028-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Pai",
+          "overview": "Just when the match seems over, Ohma has a vision and unlocks a new level of his abilities for an epic showdown against Raian.",
+          "cover": "https://image.tmdb.org/t/p/w780/nxIEEzjSJCyNvIhlEFzbIYxny63.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/l/c/I/b/lcIbn.caa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
