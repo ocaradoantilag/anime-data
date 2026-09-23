@@ -1,0 +1,619 @@
+{
+  "schemaVersion": 1,
+  "id": "039",
+  "updatedAt": "2026-09-23T17:17:53Z",
+  "title": {
+    "romaji": "MASHLE",
+    "english": "MASHLE: MAGIA E MÚSCULOS",
+    "japanese": "マッシュル-MASHLE-",
+    "synonyms": [
+      "MASHLE: MAGIC AND MUSCLES"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/koKOPmCjEBOUVQwC6uV3HflKba3.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/p1swd15DRtCnNj20U904dbXeVsi.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "52211",
+    "tmdb": "204832",
+    "imdb": "tt21209804"
+  },
+  "information": {
+    "synopsis": "Em um mundo onde todos são capazes de usar magia, há uma floresta densa e escura, onde um jovem treina sem parar. Seu nome é Mash Burnedead, e ele guarda um segredo: ele não sabe usar magia. Tudo o que ele queria era levar uma vida tranquila com seu avô, mas a sociedade mágica não tolera não-usuários - e para escapar do perigo, ele acaba se matriculando na Escola de Magia. Seu objetivo? Tornar-se um Visionário Divino de elite, acima de tudo e todos. Será que seus músculos trincados vão conseguir encarar os maiores talentos do mundo mágico?",
+    "year": 2023,
+    "score": 7.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "039-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "039-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Mash Burnedead e o Corpo dos Deuses",
+          "overview": "This is the Magic Realm. Naturally, all who reside in this world can use magic. Magic is a normal part of everyday life. But deep within a certain forest lives a boy named Mash and his father-figure, Regro. Mash was frequently told to avoid going into town. The reason being, the mark that is ever present on everyone’s face does not exist on Mash — for he cannot use magic. One day, while Regro is away, Mash ventures into town to buy his favorite cream puffs....",
+          "cover": "https://image.tmdb.org/t/p/w780/sNuDaeRpJeAN68nkicHXhUspgyn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Mash Burnedead e o labirinto misterioso",
+          "overview": "For the sake of living peacefully with Regro, Mash decided to take the admission exam for the prestigious Easton Magic Academy in order to be selected as the most excellent and valued student — the Divine Visionary. Only those with exceptional magic power can pass the admission exam, so he smashes through various exams with power. In the maze exam, Mash is approached by a female student name Lemon, and together they aim to reach the goal.",
+          "cover": "https://image.tmdb.org/t/p/w780/wRhVcJOzPORex4f5MleMiBE0a8N.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Mash Burnedead e o valentão sinistro",
+          "overview": "Mash continues life at the magic academy with the help of Finn, with whom he shares the same dorm room. One day, Mash is called out by Lloyd, a continuing student similar to Finn, and is unwittingly made into an errand boy under the impression it will help him become the Divine Visionary. As the situation gradually escalates, he coincidentally discovers Finn lying in front of Lloyd, bleeding...!",
+          "cover": "https://image.tmdb.org/t/p/w780/nUWfraG7hbtVIZ2VaZv2QNqMgsZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Mash Burnedead e o desafiador usuário de magia",
+          "overview": "It is decided that Mash will participate in \"Duelo,\" a popular sport in the Magic Realm that uses brooms, to represent Adler Dorm. During the match, a player of the opposing team from Lang Dorm begins to widen the gap between the scores with cowardly acts such as striking last year's MVP, Tom. As Adler Dorm finds themselves in a clutch, will Mash be able to use his muscles to lead them to victory...?! Later, Mash is suddenly approached by the top exam student with two marks, the handsome Lance...!",
+          "cover": "https://image.tmdb.org/t/p/w780/yCkSMesQxSlUSl0bAwEA2QbShpk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Mash Burnedead e o colega impopular",
+          "overview": "It is a match against Lance with their silver coins on the line. Victorious, Mash manages to rescue Finn, Lemon, and Tom from the bottle. While smoothly moving through classes and assignments, a joint extracurricular activity is held for the Adler and Lang Dorms. Their task is to dispatch the forest scorpions to earn coins. After entering the forest and ending up lost and alone, Mash winds up working with a first-year student from his dorm named Dot...?!",
+          "cover": "https://image.tmdb.org/t/p/w780/kGWzULYc0GgdQaKFIMFNmM7COFq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Mash Burnedead e a Magia do Ferro",
+          "overview": "Mash and Dot are spotted by Silva, a Lang dorm student known for his bad behavior. Silva offers a bet on whether the boys can endure five hits each of his magic. Silva says he'll give up a silver coin if he can endure, and Dot says he'll take hits for Mash, too. Dot withstands ten hits, but Silva reveals the brutal reality. Looking on, Mash takes decisive action.",
+          "cover": "https://image.tmdb.org/t/p/w780/AiSJOokpu1cBDUlMtth7SLj10iu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Mash Burnedead e o Mestre das Marionetes",
+          "overview": "Mash beats Silva, defeats the giant forest scorpion, and successfully completes the joint extracurricular activity. The five silver coins collected become one gold coin, and Mash learns about the existence of Lang Dorm’s core students who hunt coins — the seven students of the Magia Lupus. But later, Mash, searching for his next classroom, wanders into the Magia Lupus stronghold. Although he makes it out alive, a black shadow approaches Mash and his friends while cleaning out the owl huts….",
+          "cover": "https://image.tmdb.org/t/p/w780/sFu8YYzAFayt6rkv73fOeRUEwAR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Mash Burnedead e os Lobos da Magia",
+          "overview": "After Mash and Lance defeat Olore and Anser of the Magia Lupus, Abyss appears before them to collect his comrades, leaving behind a disturbing atmosphere. Mash discusses the future with Lance while baking cream puffs when Lemon rushes in. It seems that Tom has temporarily lost his ability to use magic. That night, while Mash and his friends explore the school to unravel the mystery, they discover a strange-looking Lemon....",
+          "cover": "https://image.tmdb.org/t/p/w780/94Jx029j907EIqxZXbslIDcW07X.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Mash Burnedead e a batalha acelerada",
+          "overview": "After chasing Lemon and discovering a door to the basement, Mash and the others are confronted by the Magia Lupus at the bottom of their way down. It's Lance vs. the Third Fang Wirth and Mash vs. the Second Fang Abyss. The decisive battle begins!!",
+          "cover": "https://image.tmdb.org/t/p/w780/cWu9sSqfrd3YoSOzOHuk6F5qYbl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Mash Burnedead e o Visionário Divino",
+          "overview": "While Mash and Lance beat their respective opponents and proceed to help Lemon, Dot and Finn battle the Fifth Fang Love and the Forth Fang Milo. Dot fiercely struggles against Love's strength, but due to something unexpected, his magical power suddenly increases, and he undergoes a transformation. The secret is...?",
+          "cover": "https://image.tmdb.org/t/p/w780/8kxD7JcC2Re1u4TNQ67s9IjGHLg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Mash Burnedead e a sobrevivência do mais apto",
+          "overview": "Even with a win over Love, Dot is battered and bruised. Milo gives up on using petrification magic on Mash and launches an attack on Dot. Suddenly, the Divine Visionary Rayne appears, and Milo collapses in an instant. Rayne was informed by Wahlberg that Innocent Zero's agents were coming to school, and he showed up to respond. Meanwhile, Mash has made his way to the First Fang Abel. Mash reveals his quiet rage. What will be the course of this decisive battle?!",
+          "cover": "https://image.tmdb.org/t/p/w780/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Mash Burnedead e o Espelho Mágico",
+          "overview": "Mash overcomes Abel. Other than Lemon, Mash and the others are overjoyed after the other students are released from being transformed into puppets. Meanwhile, Rayne confronts a member of Innocent Zero who disguised himself as Lance. But he is left behind, and the Innocent Zero agent escapes to go after Abel, who is no longer of use. A new threat creeps up upon Mash and his friends...!",
+          "cover": "https://image.tmdb.org/t/p/w780/71iETgbXw6FragBF5GoNyRqQWkN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Mash Burnedead e os Visionários Divinos",
+          "overview": "After Cell War from Innocent Zero leaves, a rumor that Mash can't use magic begins to spread around the school. On the other hand, Mash and his friends win the battle against Magia Lupus and take Lang Dorm's coins for the Alder Dorm, thus bringing them a step closer to becoming Divine Visionaries. After school, they celebrate their victory with a party with Abel and Abyss joining them, when an owl suddenly appears and drops off a letter...",
+          "cover": "https://image.tmdb.org/t/p/w780/scJxHVqyZV2m50RPo0LEunKREHV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Mash Burnedead e a visita domiciliar",
+          "overview": "The Bureau of Magic calls upon an emergency inquiry regarding the concealment of Mash's lack of magic, and the Divine Visionaries gather one by one before Mash. The Divine Visionaries seek punishment for Mash on this, but Rayne and Wahlberg bow their heads down in a plea. Thus, the Divine Visionaries offer to defer the punishment on the condition that Mash becomes a Divine Visionary Candidate. Dot and the rest learn of this, and then everyone goes off to have some fun...?",
+          "cover": "https://image.tmdb.org/t/p/w780/7pBC1KCjYtQu3wt1X356E0S6auO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Rayne Ames e o presente de Deus",
+          "overview": "Right before the selection exam, Mash goes home with Finn and the rest of the gang, where Regro is waiting for him. For a brief moment, Mash and his friends can enjoy a calming break, but the prefect from Orca Dorm, Margarette Macaron, draws in closer to the group. Divine Visionary Rayne, however, stands in the way of Macaron. As Mash and his friends enjoy board games, a high-caliber fight between Macaron and Rayne unfolds in the background!",
+          "cover": "https://image.tmdb.org/t/p/w780/4IWOWSFvC8ZIK3z0NacA5PEn5n4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Mash Burnedead e o balão musculoso",
+          "overview": "The Divine Visionary Selection Exam finally begins. Traditionally, only those who have collected five or more coins were allowed to take the selection exam, but with Innocent Zero's interfering and the exam being accelerated this year, anybody with three or more coins is qualified to take the exam. Mash, Finn, Lance, and Dot, now qualified to take the exam, challenge themselves to a dead-or-alive qualifying round, also known as \"Deadervant's Haunt.\"",
+          "cover": "https://image.tmdb.org/t/p/w780/fLAY6UE1oFGIMh5LCGvAVuw575u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Finn Ames e o amigo",
+          "overview": "Mash and his friends safely passed the first round of the selection exam and were formed into a team of three out of the nine people who passed. Their next challenge is “The Life Crystal,” a competition where teams must simply break the other teams’ crystals. However, two of the three people on Mash's team (consisting of him, Dot, and Finn) break the crystals given to them before the challenge even starts. With only one crystal left for their team, the three members start the game in different locations. Finn then encounters Carpaccio Luo-yang from the Orca Dorm…",
+          "cover": "https://image.tmdb.org/t/p/w780/qVhoRTvvxl7X3NVjS10YgIge9N0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Mash Burnedead e você olha, você perde sua vida",
+          "overview": "Finn refuses to abandon his friends and faces off against Carpaccio while Mash rushes to save Finn. There are 13 ancient wands said to exist in the Magic World, known as the “Master Canes.” Carpaccio was chosen by one of them and was considered invincible as he was able to void any wounds. Mash completely defeats him. Margarette defeats Carpaccio’s two other team members elsewhere, ending the challenge. And just before the last exam, somebody comes to meet Mash and his friends in the waiting room…",
+          "cover": "https://image.tmdb.org/t/p/w780/3O14q9ftdHtaVH8KhS5FnUgbnrc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Mash Burnedead e o Maestro Mágico",
+          "overview": "The last test of the Divine Visionary Candidate Exam is a one-on-one battle. The first match pits Mash against Margarette. Mash faces off against Macaron, a magic user said to have great magic power and is treated on the same level as a Divine Visionary. How and where will this tough fight end?",
+          "cover": "https://image.tmdb.org/t/p/w780/q6OOwTU0ub6Xm2A8t2b82UMiPaY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Mash Burnedead e a Torre Alta",
+          "overview": "Mash wins against Macaron, but Innocent Zero unexpectedly appears from the sky and freezes time in the exam venue. Wahlberg confronts Innocent Zero. Kaldo and other Divine Visionaries along with prefect Margarette, now unfrozen, face off against monsters to protect the students. At the same time, a battle between Mash and Cell War unfolds!",
+          "cover": "https://image.tmdb.org/t/p/w780/vxglOgtO7ufDpOQJHPn12SOZavx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Wahlberg Baigan e a magia das trevas",
+          "overview": "Sitter Baby, one of Innocent Zero’s army of death row inmates, the Criminal Canes, turns Lance and Dot into babies. But Lance manages to defeat Sitter Baby with his overwhelming strength. Midair in the distant sky, Innocent Zero uses a forbidden spell to resurrect Adam Jobs, whom Wahlberg faces off with. Adam was considered a top legendary magic user in the Magic Realm and Wahlberg and Innocent Zero’s master at the same time…",
+          "cover": "https://image.tmdb.org/t/p/w780/dwEgEOtOw764pXyWVsU3urc9PmY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Wahlberg Baigan e o Maior Perigo",
+          "overview": "Although Cell used the true, summoned power of his wand, Mash decidedly defeated him. At the same time, Wahlberg shows his ever-powerful abilities to face off with Criminal Cane’s Necromance and Adam’s dark magic, both of which Innocent Zero controls. And finally, the peak showdown between Wahlberg and Innocent Zero begins!",
+          "cover": "https://image.tmdb.org/t/p/w780/uGPTvfoPZB24QMXyboCvZWPVHKQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Mash Burnedead e a origem do maior usuário de magia",
+          "overview": "In exchange for his life, Wahlberg attempts to whittle down Innocent Zero by manifesting Thirds, which opens the true power of his wand. Innocent Zero manages to escape the spell using his superior magic. Fallen into a desperate situation with no escape, Wahlberg is saved by…none other than Mash Burnedead himself!",
+          "cover": "https://image.tmdb.org/t/p/w780/aXGmBDj5YV6cR31ds8U3aGRPS1m.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "039-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Mash Burnedead e seus bons amigos",
+          "overview": "Innocent Zero leaves a fusion of dead monster bodies that form a giant in his wake. Seeing Mash fight against this monster in a trapped, hopeless situation where all magic has become ineffective, the students from the school start to cheer him on.",
+          "cover": "https://image.tmdb.org/t/p/w780/bUcGR1dCDalNV5fyvdXlpics8Fn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mashle-2nd-season/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
