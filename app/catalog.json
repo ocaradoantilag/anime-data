@@ -61,6 +61,12 @@
       "file": "anime/007.json"
     },
     {
+      "id": "040",
+      "title": "High School DxD NEW",
+      "cover": "https://image.tmdb.org/t/p/w780/yMYvz4vbKMIXb2IMYYi1GSlNaGx.jpg",
+      "file": "anime/040.json"
+    },
+    {
       "id": "012",
       "title": "Hime Kishi wa Barbaroi no Yome",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
