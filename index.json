@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T16:03:53Z",
+  "updatedAt": "2026-09-23T16:36:20Z",
   "animes": [
     {
       "id": "relife",
@@ -282,6 +282,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/030.json"
+    },
+    {
+      "id": "031",
+      "title": "The Water Magician",
+      "cover": "https://image.tmdb.org/t/p/w780/qYK9kCN23Lrg9jcPh1QDBL0PeWw.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/031.json"
     }
   ]
 }
