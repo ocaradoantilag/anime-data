@@ -13,6 +13,12 @@
       "file": "Anime/anime/001.json"
     },
     {
+      "id": "041",
+      "title": "Dandadan",
+      "cover": "https://image.tmdb.org/t/p/w780/vtQug1eOyeU2VXIpNoDF1lTlcH4.jpg",
+      "file": "anime/041.json"
+    },
+    {
       "id": "024",
       "title": "Dragon Ball DAIMA",
       "cover": "https://image.tmdb.org/t/p/w780/qlLJvJO8rsltmnWWbKgT13hP90I.jpg",
