@@ -1,0 +1,618 @@
+{
+  "schemaVersion": 1,
+  "id": "047",
+  "updatedAt": "2026-09-23T19:35:18Z",
+  "title": {
+    "romaji": "Undead Unluck",
+    "english": "Undead Unluck",
+    "japanese": "アンデッドアンラック",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/62LKH8aho4EeZmcpYks9DvxyHxB.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/8uoNGqXeJCBoG2gLOsKW3qUDuaI.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "52741",
+    "tmdb": "209077",
+    "imdb": "tt21927720"
+  },
+  "information": {
+    "synopsis": "Andy, um “Negador” com a habilidade de negar a morte, está há muito tempo buscando alguém que possa lhe dar uma morte real. Fuko Izumo, amaldiçoada com o poder do azar, traz má sorte a todos ao seu redor. Os dois decidem se juntar à União, uma organização que visa controlar e proteger o mundo de fenômenos não identificados. Juntos, eles desvendam mistérios do mundo enquanto buscam \"a morte perfeita\".",
+    "year": 2023,
+    "score": 7.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "david production"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Ficção científica",
+      "Sobrenatural",
+      "Animação",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "047-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "047-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Mortos-vivos e azar",
+          "overview": "An \"Undead\" man with an immortal body suddenly appears in front of Fuko with the power of \"Unluck\".",
+          "cover": "https://image.tmdb.org/t/p/w780/1bN6fZY8szmpwaBY9qE0zxV1Rax.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "União",
+          "overview": "Andy makes a move on Fuko thinking an even greater unluck will happen.",
+          "cover": "https://image.tmdb.org/t/p/w780/woQd6Nq9AX3hu2xhciqYm6cNgbW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Como usar meu azar",
+          "overview": "A Union member will be on the move for a UMA investigation. Andy and Fuko head towards Lake Baikal!",
+          "cover": "https://image.tmdb.org/t/p/w780/2H5lVShEncycU90epn2vUOctFmB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Você ama a mudança em mim?",
+          "overview": "Gena thinks Fuko has stolen her long crush Andy and shows emotions of rivalry out of jealousy.",
+          "cover": "https://image.tmdb.org/t/p/w780/cnQBSN3m03im4G9IN9ctyOTroy4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Unidos nós negamos",
+          "overview": "Andy and Fuko are taken to the Roundtable where Union members await. Apocalypse delivers new quests.",
+          "cover": "https://image.tmdb.org/t/p/w780/bUyS16gR4V3rl89Si2eZbUyaoP5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Estragar",
+          "overview": "Based on Union agent reports, the town of Longing had the UMA Spoil and zombies they've created.",
+          "cover": "https://image.tmdb.org/t/p/w780/pa9EMk8A4woW3IhPwPAyOKJ98IK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Sonhar",
+          "overview": "Fuko learns from the kids in the shelter about town's situation. Andy's gang join the zombie battle.",
+          "cover": "https://image.tmdb.org/t/p/w780/ibT8fqoI2v9n1ak45c2tADAX2Sa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Victor",
+          "overview": "Spoil transitions to Phase 2, firing a decomposition laser for anything that gets away.",
+          "cover": "https://image.tmdb.org/t/p/w780/9MP3M7wi80HDa8U51MbslK9GArT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Retornar",
+          "overview": "Victor is Andy's other face that shows up when the Card on his forehead is removed.",
+          "cover": "https://image.tmdb.org/t/p/w780/pvWXfuMawZcNgSzTsH4o4gBD8Ld.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Resultado",
+          "overview": "Apocalypse reads out the quest results. Failure of the sixth quest adds the UMA Galaxy as a penalty.",
+          "cover": "https://image.tmdb.org/t/p/w780/2CnPnHGvP21YWnNmZPfkAQIpYPg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Rio de Janeiro",
+          "overview": "The Negator Unrepair found near a black market auction, so Andy and company head over to the venue.",
+          "cover": "https://image.tmdb.org/t/p/w780/z7srLx1ALKxBhlYvQsPy6Q8kf90.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Ativar",
+          "overview": "The Union and the Negator Hunters infiltrated the black market auction.",
+          "cover": "https://image.tmdb.org/t/p/w780/3XHTjtXkBEdfGoZQDJ4Z5K7rlBS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Tatiana",
+          "overview": "While Tatiana fights members of the Negator Hunters, she receives a report that Fuko was wounded by Unrepair. Tatiana unleashes her powers in order to save Fuko!",
+          "cover": "https://image.tmdb.org/t/p/w780/chVZbu2bYAg1HybI2WkQvGbsXnT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Bala Carmesim",
+          "overview": "A huge explosion occurs and sends Andy and company up into the air. They find Rip among the rubble.",
+          "cover": "https://image.tmdb.org/t/p/w780/iO3YPz6tvmgC0rxauEeaumUfben.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Sob",
+          "overview": "Fuko and Andy head over to right outside Chikara's school to hear his reply about joining the Union.",
+          "cover": "https://image.tmdb.org/t/p/w780/9gnmwJO5Mf8Wr3DmcV56YGehvG.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Revolução",
+          "overview": "Apocalypse reads out the quests that have the 100th penalty on the line.",
+          "cover": "https://image.tmdb.org/t/p/w780/9M7ybFfBuxgZeOVDQDiA6XzqiBU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Ser mais esperto",
+          "overview": "To regain the Roundtable, the Union commences an operation with Andy and Fuko as central members.",
+          "cover": "https://image.tmdb.org/t/p/w780/hQJD5IMbRHNsWnjGeCHvdA4qdcM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Chore pela Lua",
+          "overview": "The Union regains control of Apocalypse, but the Roundtable has been seized.",
+          "cover": "https://image.tmdb.org/t/p/w780/ytNHrCH0r1Py4dzFIVmchrBmpDA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Mortos-vivos + azar",
+          "overview": "Fuko's bible in life, “To You, From Me”, may possibly be a story drawn out by an Artifact.",
+          "cover": "https://image.tmdb.org/t/p/w780/2ASbwt9BG2PeG7fqaUnKmoQikaV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Ano Um",
+          "overview": "Andy and Fuko are on alert and wait for Anno Un on a bench at Stanley Park in Canada.",
+          "cover": "https://image.tmdb.org/t/p/w780/pSVaI3KUO3UUWHDnThLNepbByF7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Memento Mori",
+          "overview": "Andy becomes a book thanks to Autumn's claw that Anno Un materialized.",
+          "cover": "https://image.tmdb.org/t/p/w780/6DCAhrXTFSI40aX9urWUdTByTJU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Perfil",
+          "overview": "The next place Fuko arrives in the journey to learn more about Andy is Victor's memories.",
+          "cover": "https://image.tmdb.org/t/p/w780/eH8ikPrLEFvQ8h0grJm2Q7qKBGw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Uma história que não verei chegando",
+          "overview": "Anno Un's true self is Akira Kuno. Young Akira came across the Artifact, \"G-Liner.\"",
+          "cover": "https://image.tmdb.org/t/p/w780/nPl05if0CDxgG7ihiw8Y41YqlOU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "047-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Para você, de mim",
+          "overview": "Andy's group and Rip's group collide in the fight with Autumn.",
+          "cover": "https://image.tmdb.org/t/p/w780/6gFODeranPNO1bjzGFV33q271e7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/u/undead-unluck/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
