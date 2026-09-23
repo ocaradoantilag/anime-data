@@ -13,6 +13,12 @@
       "file": "Anime/anime/001.json"
     },
     {
+      "id": "045",
+      "title": "Chainsaw Man",
+      "cover": "https://image.tmdb.org/t/p/w780/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg",
+      "file": "anime/045.json"
+    },
+    {
       "id": "043",
       "title": "Cowboy Bebop",
       "cover": "https://image.tmdb.org/t/p/w780/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
