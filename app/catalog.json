@@ -163,6 +163,12 @@
       "file": "anime/014.json"
     },
     {
+      "id": "037",
+      "title": "Samurai Champloo",
+      "cover": "https://image.tmdb.org/t/p/w780/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg",
+      "file": "anime/037.json"
+    },
+    {
       "id": "030",
       "title": "Shuumatsu no Valkyrie",
       "cover": "https://image.tmdb.org/t/p/w780/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
