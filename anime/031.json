@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "031",
+  "updatedAt": "2026-09-23T16:36:17Z",
+  "title": {
+    "romaji": "Mizu Zokusei no Mahou Tsukai",
+    "english": "The Water Magician",
+    "japanese": "水属性の魔法使い",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/qYK9kCN23Lrg9jcPh1QDBL0PeWw.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/s7LgF8NmL0Qi9fWAeZvOBx9s2jy.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "60732",
+    "tmdb": "281615",
+    "imdb": "tt36592736"
+  },
+  "information": {
+    "synopsis": "A reencarnação levou Ryo a sonhar com a paz, mas, em vez disso, ele aterrisa em um mundo selvagem, infestado de monstros. Com magia da água e juventude eterne, ele sobrevive a incontáveis armadilhas malignas por 20 anos, tornando-se um dos mais poderosos magos que já existiram. O destino de Ryo muda quando ele conhece Abel, um cavaleiro genial, lançando-o nos holofotes da sociedade mágica.",
+    "year": 2025,
+    "score": 7,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "TYPHOON GRAPHICS",
+      "Wonderland"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "031-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "031-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A vida lenta, mas perigosa",
+          "overview": "After dying, Ryo Mihara finds himself reincarnated in a fantasy world with the ability to cast water magic.",
+          "cover": "https://image.tmdb.org/t/p/w780/8N9HtEikNrWEdO0aFuZ5AgBE7fp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Abel, o Náufrago",
+          "overview": "Ryo encounters a castaway who requests his help.",
+          "cover": "https://image.tmdb.org/t/p/w780/tNGnyYSTdyLTFVJdfyv4mUVeSXK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "A cidade de Luna",
+          "overview": "Abel is welcomed back in the town of Lune and Ryo gets acquainted with civilization.",
+          "cover": "https://image.tmdb.org/t/p/w780/kF1XufNalE3gL8nLBYByMfDXWWK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Eclipses e Akuma",
+          "overview": "As Ryo settles into life as an adventurer, he has an unexpected encounter with a menacing foe.",
+          "cover": "https://image.tmdb.org/t/p/w780/otMfty0EDBhxLg8a9gV7LtGooPa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O Grande Furo das Marés",
+          "overview": "Ryo looks for ways to prepare for another akuma encounter, while trouble is brewing in the dungeon.",
+          "cover": "https://image.tmdb.org/t/p/w780/kav679ruIMxXTQJkCB5DGI23J1J.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A masmorra selada",
+          "overview": "The aftermath of the Great Tidal Bore brings visitors from out of town who might be just as troublesome.",
+          "cover": "https://image.tmdb.org/t/p/w780/g06jMjUhKttZxTmvH8PND2BY5cI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Além do portão",
+          "overview": "As Abel escorts a team of academics through the dungeon, a strange warp puts them all in danger.",
+          "cover": "https://image.tmdb.org/t/p/w780/4wUy0SJfPV1SwMbCEwHdysGx5C9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Sem precedentes",
+          "overview": "Ryo comes to Abel's rescue in the depths of the dungeon, facing off against mysterious enemies.",
+          "cover": "https://image.tmdb.org/t/p/w780/jDKRpzTME5XPaPSz0Gxko251Kta.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Nils e a cidade misteriosa",
+          "overview": "A quest that takes Ryo to Nils hometown reveals more about the magical world.",
+          "cover": "https://image.tmdb.org/t/p/w780/wF0TwKycbHMTppX7XyAGh2hgOCA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O Festival do Porto Aberto",
+          "overview": "Ryo and his roommates travel to the coastal town of Whitnash for a job.",
+          "cover": "https://image.tmdb.org/t/p/w780/m4m6tVguzXTCtcRc4KCgfVdRqwQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O Mago do Inferno",
+          "overview": "As Princess Fiona and her brother come under attack, the Inferno Magician rushes to their rescue.",
+          "cover": "https://image.tmdb.org/t/p/w780/7Cm65I2gRFcGlKYTZnGxkE7vwxv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "031-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Ryo retorna para casa",
+          "overview": "Ryo's otherworldly water magic clashes against the furious flames of the Inferno Magician.",
+          "cover": "https://image.tmdb.org/t/p/w780/aGe7E340JbZ3BnEnzMDeLZZMAg8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/mizu-zokusei-no-mahoutsukai/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
