@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T18:38:50Z",
+  "updatedAt": "2026-09-23T18:52:18Z",
   "animes": [
     {
       "id": "relife",
@@ -438,6 +438,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/043.json"
+    },
+    {
+      "id": "044",
+      "title": "The Shiunji Family Children",
+      "cover": "https://image.tmdb.org/t/p/w780/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/044.json"
     }
   ]
 }
