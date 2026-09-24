@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T15:11:00Z",
+  "updatedAt": "2026-09-24T17:26:52Z",
   "animes": [
     {
       "id": "relife",
@@ -546,6 +546,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/052.json"
+    },
+    {
+      "id": "053",
+      "title": "MUSHI-SHI",
+      "cover": "https://image.tmdb.org/t/p/w780/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg",
+      "year": 2005,
+      "type": "TV",
+      "episodes": 26,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/053.json"
     }
   ]
 }
