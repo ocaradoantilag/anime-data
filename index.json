@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-23T19:49:56Z",
+  "updatedAt": "2026-09-24T13:40:49Z",
   "animes": [
     {
       "id": "relife",
@@ -510,6 +510,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/049.json"
+    },
+    {
+      "id": "050",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "cover": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "year": 2018,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/050.json"
     }
   ]
 }
