@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "id": "052",
+  "updatedAt": "2026-09-24T15:10:58Z",
+  "title": {
+    "romaji": "Shabake",
+    "english": "Shabake",
+    "japanese": "しゃばけ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/95frFI1k6Acjes3LNKAv4mexU0C.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/7wFgFAZ7czJwg2KgGDs5MgJNcMG.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "60378",
+    "tmdb": "278059",
+    "imdb": "tt37431548"
+  },
+  "information": {
+    "synopsis": "Ambientado no período Edo, acompanha as aventuras de Ichitaro, herdeiro de Nagasakiya, uma das maiores lojas comerciais de Nihonbashi. Ichitaro nasceu doente e, por isso, não consegue sair de casa, mas é amado por espíritos como seus amigos Sasuke (um inugami) e Nikichi (um hakutaku), que o acompanham e protegem. Certa noite, Ichitaro escapa de casa e presencia um assassinato, iniciando assim sua busca pelo culpado com a ajuda de seus companheiros espirituais.",
+    "year": 2025,
+    "score": 6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "genres": [
+      "Fantasia",
+      "Mistério",
+      "Animação",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 13
+  },
+  "episodes": 13,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "052-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 13,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "052-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Noite Escura",
+          "overview": "The sickly heir to a thriving business sneaks out from under the watchful eyes of his supernatural caretakers.",
+          "cover": "https://image.tmdb.org/t/p/w780/uFTPJaCk2jEXuH0LMg8IMSVQPgx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/ef/s8/2/o/u/0/n/ou0nz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Melancolia",
+          "overview": "Running from a robber, Ichitaro stumbles on the scene of a grisly murder.",
+          "cover": "https://image.tmdb.org/t/p/w780/zrsxR56CNyNXjGlE7gH1iE3gqn8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/e2/s8/2/6/h/e/Q/6heQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Arauto",
+          "overview": "Ichitaro's father asks him to supervise an unusual delivery from Nagasaki.",
+          "cover": "https://image.tmdb.org/t/p/w780/jP6FWK5F5WtfnbJaVmFPxCIW5yp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/2/E/h/e/Q/EheQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Compatibilidade",
+          "overview": "The frail Ichitaro must solve a string of murders haunting Edo alongside his ghostly companions.",
+          "cover": "https://image.tmdb.org/t/p/w780/eBgOZCMQkej8MR3njQnKLJjZN2Y.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/fa/s8/2/4/i/e/Q/4ieQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Este mundo de sofrimento",
+          "overview": "A strange customer demands unusual medicine. Ichitaro shows him the mummy and gets a startling response.",
+          "cover": "https://image.tmdb.org/t/p/w780/nI9L4rBQu60TmFvYL7Jq70SWdA0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/2/S/i/e/Q/SieQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Sentimentos unilaterais",
+          "overview": "Nikichi tells of his feelings for a spirit who refused to let death keep her from her human lover.",
+          "cover": "https://image.tmdb.org/t/p/w780/zaCHfPCuWSs9btKAVrPupHDIm4H.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/69/s8/2/o/k/e/Q/okeQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Amor",
+          "overview": "Ichitaro is missing, and an apothecary has been found murdered. Nikichi and Sasuke grow frantic.",
+          "cover": "https://image.tmdb.org/t/p/w780/pZ8zjFSL9YA4MqxqIZ6IKtRm2pA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/b8/s8/2/6/j/e/Q/6jeQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Oportunidade",
+          "overview": "Murdered cats keep turning up at the Azumaya, and Matsunosuke finds himself under suspicion.",
+          "cover": "https://image.tmdb.org/t/p/w780/fj8BgeqTJpbb4WeUg9yjdoUEVQk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/51/s8/2/G/l/e/Q/GleQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Conhecido",
+          "overview": "A drawing in a newspaper gives Ichitaro an idea about why people have been going after medicine dealers.",
+          "cover": "https://image.tmdb.org/t/p/w780/w5HQtmfwjioI4CToP6NYwIgMuTw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/54/s8/2/k/l/e/Q/kleQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Fato e Ficção",
+          "overview": "Eikichi is attacked on an errand for Ichitaro, forcing Ichitaro to reconsider his view of the case.",
+          "cover": "https://image.tmdb.org/t/p/w780/eicOO3TK5Dq0UrynHNnC8nAOrtl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/2b/s8/2/8/m/e/Q/8meQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Paradeiro",
+          "overview": "Ichitaro learns more about his own history and sets out to deal with the rogue spirit.",
+          "cover": "https://image.tmdb.org/t/p/w780/2Oy34LtgmVicFTEWWh59QkszkFm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/37/s8/2/I/m/e/Q/ImeQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Anseio",
+          "overview": "A fire at the Azumaya draws Ichitaro and Matsunosuke into a dangerous encounter.",
+          "cover": "https://image.tmdb.org/t/p/w780/gtBBeM1AROzEmalwj1fEIlYUUZW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/6d/s8/2/e/o/e/Q/eoeQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "052-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Felizes para sempre",
+          "overview": "With the supernatural crime spree laid to rest, Ichitaro makes a momentous decision.",
+          "cover": "https://image.tmdb.org/t/p/w780/xnM6jjsn6WbKkw1Dhwtz6x6ENAO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/00/s8/2/A/p/e/Q/ApeQz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
