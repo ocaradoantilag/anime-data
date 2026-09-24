@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T14:55:00Z",
+  "updatedAt": "2026-09-24T15:11:00Z",
   "animes": [
     {
       "id": "relife",
@@ -534,6 +534,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/051.json"
+    },
+    {
+      "id": "052",
+      "title": "Shabake",
+      "cover": "https://image.tmdb.org/t/p/w780/95frFI1k6Acjes3LNKAv4mexU0C.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 13,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/052.json"
     }
   ]
 }
