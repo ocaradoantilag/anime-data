@@ -3,10 +3,12 @@
   "id": "048",
   "updatedAt": "2026-09-23T19:40:48Z",
   "title": {
-    "romaji": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
-    "english": "A Journey Through Another World: Raising Kids While Adventuring",
-    "japanese": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
-    "synonyms": []
+    "romaji": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
+    "english": "Uma viagem por outro mundo: criando os filhos enquanto se aventura",
+    "japanese": "異世界ゆるり紀行 ～子育てしながら冒険者します～",
+    "synonyms": [
+      "A Journey Through Another World: Raising Kids While Adventuring"
+    ]
   },
   "images": {
     "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
@@ -15,25 +17,27 @@
     ]
   },
   "externalIds": {
-    "mal": "",
+    "mal": "57380",
     "tmdb": "240633",
     "imdb": "tt30236310"
   },
   "information": {
-    "synopsis": "Kayano Takumi é acidentalmente morto por um deus e reencarnado. Com várias novas habilidades, ele é enviado a uma floresta perigosa infestada de monstros em outro mundo. Na floresta, Takumi encontra um jovem menino e uma menina que parecem ser gêmeos, e ele decide cuidar deles e os batiza de Allen e Elena. Surpreso com o quão facilmente eles derrotam monstros com suas habilidades de combate, Takumi chega à cidade e se registra na guilda de aventureiros para poder sustentá-los. Assim começa sua vida de aventuras tranquila enquanto ele observa o crescimento de Allen e Elena!",
+    "synopsis": "Depois que um deus o mata acidentalmente, Takumi renasce com novas habilidades em uma floresta cheia de monstros, onde ele encontra gêmeos. Eles são doces, adoráveis ​​e super fortes! Conquistado instantaneamente, ele os chama de Alan e Elena, torna-se seu guardião e se junta a uma guilda de aventureiros para sustentar sua nova família. E assim começa sua vida tranquila de aventuras, acompanhando o crescimento de Alan e Elena!",
     "year": 2024,
-    "score": 7.152,
+    "score": 6.6,
     "ageRating": "",
     "type": "TV",
     "status": "Finalizado",
-    "duration": "",
-    "season": "",
+    "duration": "24 min per ep.",
+    "season": "Verão",
     "aired": "",
-    "studios": [],
+    "studios": [
+      "EMT Squared"
+    ],
     "genres": [
-      "Animação",
-      "Sci-Fi & Fantasy",
-      "Action & Adventure"
+      "Aventura",
+      "Fantasia",
+      "Slice of Life"
     ],
     "themes": [],
     "episodes": 12
@@ -332,5 +336,25 @@
         }
       ]
     }
-  ]
+  ],
+  "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+  "synopsis": "Depois que um deus o mata acidentalmente, Takumi renasce com novas habilidades em uma floresta cheia de monstros, onde ele encontra gêmeos. Eles são doces, adoráveis ​​e super fortes! Conquistado instantaneamente, ele os chama de Alan e Elena, torna-se seu guardião e se junta a uma guilda de aventureiros para sustentar sua nova família. E assim começa sua vida tranquila de aventuras, acompanhando o crescimento de Alan e Elena!",
+  "description": "Depois que um deus o mata acidentalmente, Takumi renasce com novas habilidades em uma floresta cheia de monstros, onde ele encontra gêmeos. Eles são doces, adoráveis ​​e super fortes! Conquistado instantaneamente, ele os chama de Alan e Elena, torna-se seu guardião e se junta a uma guilda de aventureiros para sustentar sua nova família. E assim começa sua vida tranquila de aventuras, acompanhando o crescimento de Alan e Elena!",
+  "year": 2024,
+  "score": 6.6,
+  "ageRating": "",
+  "type": "TV",
+  "status": "Finalizado",
+  "duration": "24 min per ep.",
+  "studios": [
+    "EMT Squared"
+  ],
+  "season": "Verão",
+  "aired": "",
+  "genres": [
+    "Aventura",
+    "Fantasia",
+    "Slice of Life"
+  ],
+  "themes": []
 }
