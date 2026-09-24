@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T13:40:49Z",
+  "updatedAt": "2026-09-24T14:55:00Z",
   "animes": [
     {
       "id": "relife",
@@ -522,6 +522,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/050.json"
+    },
+    {
+      "id": "051",
+      "title": "Que Chegue a Você: Kimi ni Todoke",
+      "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+      "year": 2009,
+      "type": "TV",
+      "episodes": 25,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/051.json"
     }
   ]
 }
