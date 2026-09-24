@@ -259,6 +259,12 @@
       "file": "anime/011.json"
     },
     {
+      "id": "050",
+      "title": "Tensei Shitara Slime Datta Ken",
+      "cover": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "file": "anime/050.json"
+    },
+    {
       "id": "036",
       "title": "Teogonia",
       "cover": "https://image.tmdb.org/t/p/w780/wvQokVLDcFk8X1YN3UO4VGAmrgX.jpg",
