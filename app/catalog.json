@@ -175,6 +175,12 @@
       "file": "anime/031.json"
     },
     {
+      "id": "053",
+      "title": "Mushishi",
+      "cover": "https://image.tmdb.org/t/p/w780/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg",
+      "file": "anime/053.json"
+    },
+    {
       "id": "020",
       "title": "Nanatsu no Maken ga Shihai Suru",
       "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
