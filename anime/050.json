@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "id": "050",
+  "updatedAt": "2026-09-24T13:40:47Z",
+  "title": {
+    "romaji": "Tensei Shitara Slime Datta Ken",
+    "english": "That Time I Got Reincarnated as a Slime",
+    "japanese": "転生したらスライムだった件",
+    "synonyms": [
+      "That Time I Got Reincarnated as a Slime"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "37430",
+    "tmdb": "82684",
+    "imdb": "tt9054364"
+  },
+  "information": {
+    "synopsis": "Mikami Satoru, funcionário de uma megacorporação, é apunhalado por um assassino nas ruas e renasce num mundo paralelo... Mas ele renasce como um slime! Jogado neste novo mundo com o nome Rimuru, ele assume a missão de criar um mundo que seja acolhedor para todas as raças.",
+    "year": 2018,
+    "score": 8,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "8-bit"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "050-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2018,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "050-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O Dragão da Tempestade, Veldora",
+          "overview": "Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When he regains consciousness in the darkness, he finds that he's been reincarnated as a slime! With nothing better to do, he spends his time devouring all the rare herbs and precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who was sealed in this cave 300 years ago by a hero's \"Unlimited Imprisonment\" skill. He's frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.",
+          "cover": "https://image.tmdb.org/t/p/w780/kn2O2A6yxvPNjyxJ2gJmW6l8qzs.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/MezkVMOzl5lbKQxtGMHKbmCQhyLmr5"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Conhecendo os Goblins",
+          "overview": "The slime Mikami and the Storm Dragon Veldora decide to give each other names. Veldora gives the slime Mikami the name \"Rimuru,\" and Rimuru comes up with a family name for both of them: \"Tempest.\" Then Rimuru uses his Predator skill to take Veldora into his body and analyze the \"Unlimited Imprisonment\" seal in hopes of breaking it... but this action sends a shock through the nations surrounding the Great Forest of Jura. With Veldora gone, there's a chance that the larger nations could become bold and invade the smaller provinces. With no knowledge of this, Rimuru leaves the cave and meets some Goblins.",
+          "cover": "https://image.tmdb.org/t/p/w780/bl7NSSaMhVQFAUdVMyyzylfZ5Be.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/6lhmYshE5xVBxWSS2CFIfB3nvrod2V"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Batalha na Vila Goblin",
+          "overview": "After leaving the cave, Rimuru encounters a village of Goblins under attack by a clan of Direwolves. Caught in the heat of the moment, Rimuru agrees to help the Goblins in their battle. That night, the Direwolves arrive to try to take over as the new rulers of the Great Forest of Jura!",
+          "cover": "https://image.tmdb.org/t/p/w780/uB7iLDVu1DXXk8u4IOr3O4eWAY1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/yfbCf3WIiWN48bXj0HmiVY3pbTNzw2"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "No Reino dos Anões",
+          "overview": "Rimuru and his companions visit the Dwarven Kingdom, the Armed Nation of Dwargon, in search of some artisans to help the Goblins learn to supply their own food, shelter, and clothing. However, a skirmish just outside the city gate lands Rimuru and Gobta in a prison cell. Then there's a report of an Armorsaurus in the nearby mines!",
+          "cover": "https://image.tmdb.org/t/p/w780/4kAo0igLqN4ql5IjOXFM1x2qE40.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/bwQQvWo18gmOISshA6BkMs0vM8hbmu"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Rei Herói, Gazel Dwargo",
+          "overview": "Thanks to Rimuru's skill, Kaijin was able to finish all the longswords and deliver them to the king, so the two of them celebrate by heading to a bar staffed by lots of elf girls. One of them reads Rimuru's fortune for fun, and sees an image in her crystal ball of someone she believes Rimuru is destined to be with. As everyone wonders who this person could be, Vesta shows up and starts to hassle Rimuru...",
+          "cover": "https://image.tmdb.org/t/p/w780/jZiQCe4EvUZMYUqdztgzmqgNYUH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/JF4Gv9bBr74yyXKHAQMYnYD8OmVGn8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Shizu",
+          "overview": "One day, in the midst of the improvements on the Goblin Village with the help of Kaijin and the dwarves, Rimuru meets a trio of adventurers from the Guild who've been temporarily joined by a masked woman named Shizu. Shizu turns out to be the person Rimuru is destined to be with, as his fortune said. Shizu also came to this world from Japan, but unlike him, she was summoned here many years ago. So Rimuru uses his Thought Communication skill to show Shizu what Japan looks like today.",
+          "cover": "https://image.tmdb.org/t/p/w780/umRZpXoBQ6L1KbSm9g74ZSofJ9J.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/vE9lHMtAI4eg5GMuEHZ0CXgt4JYiGd"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Conquistador das Chamas",
+          "overview": "The Demon Lord Leon Cromwell summoned Shizu out of Tokyo as it burned during in the air raids, then forced the high-ranked spirit Ifrit to possess her. After taking over Shizu's body, Ifrit begins to rampage.",
+          "cover": "https://image.tmdb.org/t/p/w780/eCFR8aqyILnl6sUS3QgFNFkMH6r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/9TAI4lxCP5ycPrijganqWfwrmnjm8s"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Testamento herdado",
+          "overview": "When Shizu was still with Demon Lord Leon, it was a Hero who rescued her. That Hero was Shizu's inspiration to help as many people as she could for many years. She even worked as a teacher for children who'd come from other worlds. And now, as her time comes to an end, Shizu asks Rimuru for one last favor...",
+          "cover": "https://image.tmdb.org/t/p/w780/2rLu3nl83nHbvqE435xAlyV40yw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/hjWCkwfWtbwKJbnb20ImSVOuJvCkDj"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Ataque dos Ogros",
+          "overview": "Rimuru and the Goblins' village is developing nicely. The Dwarves are building all kinds of houses and furniture, and the local Goblin Lords have appointed Rigurd as the Goblin King. As Rimuru watches everything come together, he decides to return to the cave and test the skills he received from Shizu. While there, he receives a request for help from Ranga through Thought Communication, and he rushes back to find his friends facing six Ogres. One of them orders Rimuru to \"reveal his true identity.\" What is going on in the Great Forest of Jura?",
+          "cover": "https://image.tmdb.org/t/p/w780/c3XhKRZlM7HLkhHpmzi2z2aeiZD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/9mhrqJXBiBiN87isw7SaoPWQD6tUoj"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O Senhor Orc",
+          "overview": "Six Ogres are all that remain of their clan after an attack by an Orc army. They say that the Orcs were traveling with a mysterious majin who wore plate mail and a clown mask. Rimuru proposes that the Ogres join his ranks, and they accept on the condition that they will get to take down the one leading the Orcs, so Rimuru gives all six of them names. Meanwhile, the Orcs begin to invade the marshlands surrounding Lake Siss that are inhabited by the Lizardmen. So the Lizardman chieftan gives his son, Gabiru, an order...",
+          "cover": "https://image.tmdb.org/t/p/w780/hMerUrDesUpiZyynGMsQjE5BgDq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/ZblmdWVrjOmGrColKofqXU44B7c1kr"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Gabiru está aqui!",
+          "overview": "Rimuru's village has gained Benimaru and the other five Ogres as its newest allies. Soon after, the Lizardman Gabiru visits the village, having heard rumors about it. Gabiru has been visiting Goblin villages throughout the Great Forest of Jura to enlist their aid in fighting off the Orc army. When he faces Ranga with an attitude of provocation, Ranga tells him that if he can defeat Gobta, they'll hear what he has to say...",
+          "cover": "https://image.tmdb.org/t/p/w780/8qmpYCQouyHFFC0iR77I6KBoF2u.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/f2hqXFIY4oveInz6a1KWW6zlgS9vqu"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "As engrenagens ficam fora de controle",
+          "overview": "The Orc army, led by the Orc Lord, continues its conquest throughout the Great Forest of Jura. The crisis has spurred Treyni of the Dryads, the caretakers of the forest, to take action. She has had her eye on Rimuru after noticing his rise to prominence in the forest, and she wants Rimuru to defeat the Orc Lord.",
+          "cover": "https://image.tmdb.org/t/p/w780/4sekRZzE4nat8VytAhTUVGEEpYK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/jWlKC1Z81Q4Y2GlleBzG5MmABaZ0gQ"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "O Grande Confronto",
+          "overview": "Rimuru and his Goblin riders set out for the marshlands to finalize their alliance with the Lizardmen. On the way, they save a Lizardman who'd been attacked by the Orcs. The victim turns out to be Gabiru's younger sister, who reveals that Gabiru led an insurrection and left to fight the Orc Lord without waiting for the alliance. She also pleads with Rimuru to save Gabiru and the rest of her clan. Meanwhile, Gabiru faces the massive Orc army and is shocked when he witnesses the power of their unique skill, Starved.",
+          "cover": "https://image.tmdb.org/t/p/w780/9PcZM0qOxB5AnE6IPSGJFW9JG3V.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/XPGeYEpW7Sjk8uqI30ZMSAna5maNTg"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Aquele que devora tudo",
+          "overview": "The majin Gelmud makes his appearance at last. His true goal was to evolve the Orc Lord into the Orc Disaster, a Demon Lord, and have him reign over the Forest of Jura. Upon learning this, the Orc Lord takes action...",
+          "cover": "https://image.tmdb.org/t/p/w780/46oZhigxWtncWcTRtu60TWuXZiv.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/dK2Q3C8K6dooCXwZa5YxVz80jSrGTY"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "A Aliança Florestal do Jura",
+          "overview": "Post-war arrangements following the battle with the Orcs have begun. At the meeting, Rimuru reveals that he made a promise with the Orc Disaster, Geld, to take all of the Orcs' sins upon himself. When the Ogres and Lizardmen hear this...",
+          "cover": "https://image.tmdb.org/t/p/w780/iFStfGwmHg8XtloFhPlIBB3XMFn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/q4wPOmvIptDoB3fgpLjgReuGNZowu"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Lorde Demônio Milim ataca",
+          "overview": "The Jura Tempest Federation, with Rimuru as its leader, has formed an alliance with the Armed Nation of Dwargon. Just as Rimuru thinks there are only peaceful days ahead, he senses an enormous mass of magical power heading straight for his location at an incredible speed. When the smoke from its collision with the ground clears, standing in its place is a humanoid figure. She is the Demon Mord Milim, the one and only Dragonoid and the one bearing the nickname \"Destroyer.\" Ranga, Benimaru, and the others who face her are quickly overwhelmed by her power.",
+          "cover": "https://image.tmdb.org/t/p/w780/j7IZf3gTyvS8j5K1AWv8J9EpytK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/obyZQecUfQa7YdEipgO0lW0xf27daO"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "A reunião",
+          "overview": "The Demon Lord Carrion has sent one of his Three Beastketeers, Phobio, on a raid of Rimuru's city. However, Phobio is quickly defeated when Milim meets his attack with her own. Rimuru and his subordinates then ask Phobio why he has come to their town.",
+          "cover": "https://image.tmdb.org/t/p/w780/isClSj96Vwlv1FgYpRYoNXWbejg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/2bZHTLZW7Bu1CINr9uOcasAs22LVAl"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "O mal se aproxima",
+          "overview": "Phobio can't restrain his anger toward Milim. He finds himself faced with Footman and Tear, two masked members of the Moderate Harlequin Alliance, who suggest that he become a Demon Lord to take revenge on Milim. They tell him that he can accomplish this using the power of Charybdis. Meanwhile, the Jura Tempest Federation sends Youm out on a journey to make the world believe he was the champion who defeated the Orc Lord.",
+          "cover": "https://image.tmdb.org/t/p/w780/7RVXfIQ1erRpRdWpaYOr5VbEuYz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/kwvia27pfKrNJbLlUtWJK86W6KMi9W"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Caríbdis",
+          "overview": "Its seal removed, the calamity-class monster Charybdis and its Medalodon minions advance on the capital city of Rimuru. The Jura Tempest Federation combines all its forces under Rimuru to intercept the attack. King Gazel even sends 100 of his Pegasus Knights to aid in the battle. But Charybdis's extra skills Magic Jamming and Ultraspeed Regeneration make it a formidable foe. So Rimuru unleashes his new skill, Gluttony...",
+          "cover": "https://image.tmdb.org/t/p/w780/ag2XMpv9gi3EFbjsUvHMKBRT7H8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/TjRYxxtxPZ7sNXddU0RdLt05DZVHVd"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Yuuki Kagurazaka",
+          "overview": "The threat of Charybdis has gone. That night, Rimuru has a dream in which he sees Shizu teaching children at her school in the Kingdom of Ingrassia—a dream showing Shizu's lingering regret. To see her wishes through, Rimuru leaves the Jura Tempest Federation and heads for the capital of the Kingdom of Ingrassia. His first goal is to meet with the Grandmaster of the Guild, Yuuki Kagurazaka, who happens to be a Summon and a former student of Shizu's.",
+          "cover": "https://image.tmdb.org/t/p/w780/eddUGXrqpY99Y5RWpgNsy8TVorz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/HZfCpzQiD5DR5qJh3xTjTF8xDXfTvl"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Alunos de Shizu-san",
+          "overview": "Rimuru becomes the new teacher for Shizu's students. However, having been summoned into this world against their will and facing shortened lifespans as a result, the children's feelings are complicated, and they're reluctant to accept Rimuru. So Rimuru proposes a series of mock battles with each of them to ascertain their abilities and allow them to let off steam.",
+          "cover": "https://image.tmdb.org/t/p/w780/waETiQ7NF5Dpcy7G853myOt9piH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/xxN25596CEUeB0KnM6AGCWiqQL6arD"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Conquistando o Labirinto",
+          "overview": "Rimuru tries to think of a way to save the children of Freedom Academy who are fated to die. The idea he comes up with is to have superior spirits inhabit each of them, as Shizu had, so their lives won't end prematurely. Determined to whatever it takes to save them, Rimuru leads the children to the Dwelling of Spirits, where superior spirits can be found. But as they make their way further inside, a Golem made of magisteel and controlled by the fairy Ramiris stands in their path.",
+          "cover": "https://image.tmdb.org/t/p/w780/p5o1dVBXSiy3Sn6krkuHNAxVVjS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/vFaLv9PhZiIemNCcNzQwMCtADZzFD7"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Almas Salvas",
+          "overview": "Rimuru and the children reach the deepest level of the Dwelling of Spirits, where they stand on a pedestal bathed in light to summon superior spirits. Will their summoning be successful? Amidst the uncertainty, the first to attempt the summoning is Gale, followed by Alice, Kenya, Ryota, and finally Chloe. But instead of a spirit, Chloe's summoning brings forth an unknown spiritual form with an immense amount of energy. Just what is this spiritual being? Ramiris seems to sense something about it...",
+          "cover": "https://image.tmdb.org/t/p/w780/53AyHp2PohkqITF2HMy49rMVpmP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/srfCWPunm4PIsFZ2nMjWL6UwN9jpu2"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "050-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Preto e a Máscara",
+          "overview": "This story takes place before Rimuru's reincarnation. Shizu, also known as the Conqueror of Flames, responds to an urgent request calling her to the Kingdom of Filtwood. When she reaches the castle, many adventurers are already there. What request could have demanded such a huge gathering? It turns out a demon has been revived, and the adventurers have been called to subjugate it. It is said that more than ten of the most skilled adventurers have already been killed by this demon. But there is more to this request than meets the eye...",
+          "cover": "https://image.tmdb.org/t/p/w780/1dfhbX75RXgO0hAR08PpUR2Z3nL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://dri.me/lk0YwTTqhi9nd77Jjq3FKp2UvlAP1E"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
