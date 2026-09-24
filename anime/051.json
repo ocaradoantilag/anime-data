@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "id": "051",
+  "updatedAt": "2026-09-24T14:54:58Z",
+  "title": {
+    "romaji": "Kimi ni Todoke",
+    "english": "Que Chegue a Você: Kimi ni Todoke",
+    "japanese": "君に届け",
+    "synonyms": [
+      "Kimi ni Todoke: From Me to You"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/nh0BS0sLXozmkTpOe1Ve33MyxlK.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "6045",
+    "tmdb": "68854",
+    "imdb": "tt1745240"
+  },
+  "information": {
+    "synopsis": "A tímida Sawako ganhou o apelido de \"Sadako\" na escola por conta de sua aparência. Mas coisas começam a mudar depois que ela faz amizade com o popular Kazehaya.",
+    "year": 2009,
+    "score": 7.9,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "Production I.G"
+    ],
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Animação"
+    ],
+    "themes": [],
+    "episodes": 25
+  },
+  "episodes": 25,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "051-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2009,
+      "status": "Finalizado",
+      "episodeCount": 25,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "051-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Prólogo",
+          "overview": "Kuronuma Sawako is often misunderstood and feared by others for resembling a horror movie character. She enters her new high school hoping that she can make new friends. Her chance comes when she volunteers to be a ghost for a school activity.",
+          "cover": "https://image.tmdb.org/t/p/w780/l9ndSxkMlo0lYWmh0sqg6lzGq5y.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Mudança de assento",
+          "overview": "Sawako finds a lost puppy and Kazehaya decides to take him in. The class seats are shuffled and Sawako learns that she might have more friends than she first thought.",
+          "cover": "https://image.tmdb.org/t/p/w780/vOik1FF1JwzbsejilCW0riijsuY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Depois da escola",
+          "overview": "Kazehaya and Sawako grow closer together and end up performing some classroom chores together after school.",
+          "cover": "https://image.tmdb.org/t/p/w780/n39l6iofFqssciD2BAivLy07M6W.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Rumor",
+          "overview": "Rumors are circulating about Sawako's friends, Ayane and Chizuru. It is said that Sawako started these rumors, but she is unaware that anything is going on at all. When approached about it, Sawako hesitates in her response.",
+          "cover": "https://image.tmdb.org/t/p/w780/2PSqtI47xWMOb6sboEfeSbU2Odh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Determinação",
+          "overview": "The group is plagued by questions. Did Sawako start these rumors? Why would she do that? Who could really be responsible? No answers are in sight and Sawako shrinks back into her old ways-quiet and alone.",
+          "cover": "https://image.tmdb.org/t/p/w780/8xP4ODtwKCGP7uXEQBPS0tdf33K.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Amigos",
+          "overview": "The rumor-mongers are outed and confronted when they decide to move against Sawako. Sawako learns who her true friends are.",
+          "cover": "https://image.tmdb.org/t/p/w780/qsVL2nwLrijPN1I4oHsouABbyta.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Sábado à noite",
+          "overview": "Sawako is invited to hang out with friends for the first time ever. She meets up with Ayane and Chizuru, and then spend some time at Ryuu's place. Kazehaya is invited over and everyone has a wonderful time.",
+          "cover": "https://image.tmdb.org/t/p/w780/twevwOcZ2zAxJ5nrUCnBmbhOpeT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Prática Livre",
+          "overview": "New rumors are circulating! Apparently, making Sawako laugh gives you good luck! Kazehaya's old friend Kurumi begins to get involved in things. Sawako and Kazehaya grow closer.",
+          "cover": "https://image.tmdb.org/t/p/w780/2bcgVbGenAFuaUD3uG3li3IAbuz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Novo amigo",
+          "overview": "Kurumi decides to become friends with Sawako in order to get closer to Kazehaya, herself. Ayane and Chizuru are suspicious of this eternally-cheerful girl.",
+          "cover": "https://image.tmdb.org/t/p/w780/ac9faEt7y115GPRAW2FuIQH2USH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Colaboração",
+          "overview": "Sawako finds herself unable to avoid Kurumi, who pops up around every corner to offer support or ask for something. An unfamiliar feeling surrounds Sawako and Kazehaya, who grow too flustered to speak with one another like they used to.",
+          "cover": "https://image.tmdb.org/t/p/w780/gdwR5IqCvxuCejtY1QoBEy0d5tH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Especial?",
+          "overview": "Kurumi has told Sawako her big secret, but Sawako apologizes and says that she cannot help. Kurumi reveals her true colors, but Sawako remains undeterred and promises to remain her friend.",
+          "cover": "https://image.tmdb.org/t/p/w780/a32aoi778yWBXJWufJoxAMpA2F0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Sentimentos românticos",
+          "overview": "During a school event, Sawako finds a mysterious note in her shoe locker. Apparently, Ryuu has something to admit to her. Kurumi and Kazehaya intervene with the worst possible timing for Sawako...",
+          "cover": "https://image.tmdb.org/t/p/w780/ytDVPdsIJHKgXnPnc6nT8O6x0UM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Amor",
+          "overview": "Kurumi's ultimate plan backfires, as Kazehaya pulls Sawako away in private when he finds her alone with Ryuu. The misunderstanding is cleared up instantly, but the feelings stirring within both Sawako and Kazehaya only get more confusing.",
+          "cover": "https://image.tmdb.org/t/p/w780/ieV2z1x5FmBEmYHHGOxoDxu0hD0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Kurumi",
+          "overview": "The girls confront Kurumi, who has done everything in her power to pull Kazehaya away from Sawako and toward herself. Despite admitting to it all, Sawako forgives Kurumi and continues to treat her like a friend.",
+          "cover": "https://image.tmdb.org/t/p/w780/hkzS0nZ6MNazci5NSM0v7fKrORK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Rival",
+          "overview": "Bolstered by the resolve shown by Sawako, Kurumi thinks about her past with Kazehaya and decides on her future. She faces Kazehaya, swallows her fear, and tells him the truth...",
+          "cover": "https://image.tmdb.org/t/p/w780/tKudzeSlqngzYcdWRI6mJj1d6YL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "História noturna",
+          "overview": "This episode is a recap of episodes 1 through 15 narrated by the tiny men Pin sees.",
+          "cover": "https://image.tmdb.org/t/p/w780/emDXSHB1F2zoG52P2Bx6xOIYX5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Feriado",
+          "overview": "Sawako is invited to a group get-together on a day off. She is inundated with wonderful memories of that evening, having pictures taken, singing karaoke, and-though she was not aware of it-falling asleep on Kazehaya's shoulder.",
+          "cover": "https://image.tmdb.org/t/p/w780/fgLB6bZSx9NEM4OiACoUdD2x5d0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "O amor de Chizuru",
+          "overview": "Sawako joins Chizuru on a shopping trip where Chizuru buys an out-of-character feminine outfit. When asked, she talks about the boy she likes. Sawako, thinking it is Ryuu, gives her some advice. But the truth is a bit more complicated...",
+          "cover": "https://image.tmdb.org/t/p/w780/6UrNbbO82Vu6ShjjxvklM5ZU6qZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Sonhar",
+          "overview": "Sawako finds herself once again over at Chizuru's house, where the group has gathered together for a night of fun. Suddenly, Ryuu's older brother, Tooru, arrives. Excited to see her crush, Chizuru leaps into his arms. And then she sees the girl...",
+          "cover": "https://image.tmdb.org/t/p/w780/w3e7QrLW1q7Sw67w2pitrOtD1K1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Presente",
+          "overview": "Both Sawako and Ayane are at a loss. How can they console their friend? Kazehaya says that doing nothing is the best thing, but is he right? How can Ryuu and Chizuru make up after such a bitter argument?",
+          "cover": "https://image.tmdb.org/t/p/w780/h7YsV3tKVhckiCOoHWg2cvkGsXR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Primeira neve",
+          "overview": "Tooru returns, and he wants to speak with Chizuru. He takes her on a long walk, past places they both remember from their youth, and he makes certain she is all right with his decision before leaving. Ryuu finds her at just the right time.",
+          "cover": "https://image.tmdb.org/t/p/w780/kfuwSZlaFH8PX3Vq2ydE9CC4VFF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "Natal",
+          "overview": "It's time for the Christmas party! However, Sawako promised her family to celebrate with them. Her anxiety clearly visible, Sawako's parents reluctantly let their daughter go meet her friends. But not before her father gives her her present-a cell phone!",
+          "cover": "https://image.tmdb.org/t/p/w780/xXpMR5cG6KfmJHo1oAjC9ucRW9P.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Os dois",
+          "overview": "With the new year approaching, the group makes some plans to visit a local shrine together. New Year's Day also happens to be Sawako's birthday, so to celebrate, Chizuru and Ayane prepare a makeover session for Sawako in order to floor Kazehaya.",
+          "cover": "https://image.tmdb.org/t/p/w780/xfxJWrcdlP1Imzn8jp19uEqH1zb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Aniversário",
+          "overview": "The group decided to go to the local shrine \"together\" on New Year's Eve, but when Kazehaya and Sawako show up, the rest of the group mysteriously vanishes! What follows is an awkward, but heartwarming, first date.",
+          "cover": "https://image.tmdb.org/t/p/w780/feYymBBFwZRF5bObT3ZLfIBJUcp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "051-1-25",
+          "number": "25",
+          "sortOrder": 25,
+          "title": "Ano Novo",
+          "overview": "The date continues at the shrine. Sawako and Kazehaya begin to tell one another about their past, about themselves, and about many other things. After their first year of knowing one another, Sawako is certain what she feels is love.",
+          "cover": "https://image.tmdb.org/t/p/w780/qenldvyCxdsVRyJy4zCSEYtSp5H.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kimi-ni-todoke/25.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
