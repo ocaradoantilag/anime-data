@@ -97,6 +97,12 @@
       "file": "anime/012.json"
     },
     {
+      "id": "048",
+      "title": "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
+      "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
+      "file": "anime/048.json"
+    },
+    {
       "id": "034",
       "title": "Ishura",
       "cover": "https://image.tmdb.org/t/p/w780/xleVFCZ2FnFHZbZIhcZ4GRbABas.jpg",
@@ -269,12 +275,6 @@
       "title": "Undead Unluck",
       "cover": "https://image.tmdb.org/t/p/w780/62LKH8aho4EeZmcpYks9DvxyHxB.jpg",
       "file": "anime/047.json"
-    },
-    {
-      "id": "048",
-      "title": "異世界ゆるり紀行  ～子育てしながら冒険者します～",
-      "cover": "https://image.tmdb.org/t/p/w780/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg",
-      "file": "anime/048.json"
     }
   ]
 }
