@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "066",
+  "updatedAt": "2026-09-24T23:39:04Z",
+  "title": {
+    "romaji": "Gimai Seikatsu",
+    "english": "Days with My Stepsister",
+    "japanese": "義妹生活",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/u9Em1XurYnmR0m36VntK6PakxIx.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/4VobhteGHVBfW5tDF1ZL4gymssz.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "52481",
+    "tmdb": "206629",
+    "imdb": "tt21975478"
+  },
+  "information": {
+    "synopsis": "Quando seu pai se casa outra vez, Yuta Asamura acaba tendo que dividir o mesmo teto com sua nova meia-irmã, Saki Ayase, a garota mais bonita da sua turma na escola. Carregando as cicatrizes dos divórcios conturbados de seus pais, eles prometem manter uma distância respeitosa. Mas o que começa como uma amizade cautelosa floresce em algo mais profundo a partir de experiências compartilhadas... Será admiração, amor familiar ou algo mais?",
+    "year": 2024,
+    "score": 7.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "Studio DEEN"
+    ],
+    "genres": [
+      "Romance",
+      "Slice of Life",
+      "Animação",
+      "Drama"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "066-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "066-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Estou em casa com um estranho",
+          "overview": "High school student Yuta Asamura begins living with his stepsister Saki Ayase and her mother due to his father's remarriage. Both Yuta and Saki, who hold cautious values regarding relationships between men and women, agree to live with an appropriate sense of distance between them.",
+          "cover": "https://image.tmdb.org/t/p/w780/kmtVzRv0nvDS55GyEsm908b9zDx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Um acordo e um ovo frito",
+          "overview": "At school, Yuta notices that there are some sensational rumors circulating about Saki due to her striking appearance. When he tries to talk to her about it, it quickly becomes clear that there is much more to the story than the rumors suggest.",
+          "cover": "https://image.tmdb.org/t/p/w780/8JRIwn9WyvYaiRX1LY9EYFLFLwJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=1"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Reflexão e Revisão",
+          "overview": "Yuta and Saki take turns making missteps in their new, still somewhat awkward home life together. As they reflect on these mistakes and figure out how to move forward, Saki realizes she's less and less sure how to feel about Yuta.",
+          "cover": "https://image.tmdb.org/t/p/w780/eO7C7Kf7SZiigX1CylJjClo0PMT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=2"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Tendências e Estratégias",
+          "overview": "A month has passed since Yuta and Saki started living together. As Yuta starts to understand the ambiguity of their relationship, Saki asks him for help studying modern literature. The two work together to prepare Saki for a test retake.",
+          "cover": "https://image.tmdb.org/t/p/w780/t1zCEOt0UGBIzmKxJ0BSDqVloRL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=3"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Um show tardio e o verdadeiro negócio",
+          "overview": "Shiori invites Yuta to a late showing of a movie adaptation of a book she enjoys. Saki takes an interest and goes to the bookstore the next day, where she meets Shiori for the first time.",
+          "cover": "https://image.tmdb.org/t/p/w780/kaYtOzfkFi3Qw2uaIyLpN5NG61x.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=4"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Carne de porco agridoce e chuva",
+          "overview": "Saki asks her classmate Narasaka Maaya to come over after school and help her study. Yuta decides to make dinner for a change so Saki can keep studying. Maaya helps Yuta with the recipe and then starts interrogating him about his relationship with Saki.",
+          "cover": "https://image.tmdb.org/t/p/w780/yFwCQ5O9597xcZ5eVkAJG3XYpXd.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=5"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Sentimentos e férias de verão",
+          "overview": "Saki adjusts to her new job over summer vacation. Taichi and Akiko notice that Yuta and Saki keep calling each other by their family names. Saki senses a change in how she feels about Yuta and wonders if she should describe it honestly in her diary.",
+          "cover": "https://image.tmdb.org/t/p/w780/y5wEkflt677fi9h3WyOgeRHlvoo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=6"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Uma resposta e leite quente",
+          "overview": "Yuta starts to get worried about Saki and asks Akiko for advice. Akiko tells him that he should take Saki out for a break now and then, even if he has to insist. Later, when Yuta tries to talk to Saki about the pool trip with Maaya, Saki reacts harshly.",
+          "cover": "https://image.tmdb.org/t/p/w780/4ny13wwyW1S9fPS7dpy9KFldDQz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=7"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Irmã adotiva e diário",
+          "overview": "Yuta and Saki accept Maaya's invitation to go to the pool with a group of friends. Saki enjoys the time at one of her favorite places and is finally able to let loose a little. Then, on the way home, Saki blurts something out that leaves Yuta speechless. (Subs Flix_)",
+          "cover": "https://image.tmdb.org/t/p/w780/tExdpWLobUwx5Yd3NXQ3zklObdj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Relações e arrependimentos",
+          "overview": "A new school term has started, and parent-teacher meetings are on the horizon. At school, Yuta and Saki still have not told anyone that they are siblings. As their mother, Akiko wants to attend both meetings, but she worries it would expose their secret.",
+          "cover": "https://image.tmdb.org/t/p/w780/5NnibpjT5GHp1SHYl6H3ZSUqrKL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=9"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Irmão e irmã",
+          "overview": "When Yuta is killing time in the library, Maaya confronts him and asks if he has feelings for Saki. After the parent-teacher meetings, Saki attends the open campus event at a prestigious women's college and is confronted by a particularly nosy professor.",
+          "cover": "https://image.tmdb.org/t/p/w780/rAJsthjqKtZkjNFnJZ7iugpf5Cm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=10"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "066-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "\" e \"",
+          "overview": "Saki spends time with Maaya and friends while Yuta gets to know Fujinami. In their own separate ways, Saki and Yuta start to understand the feelings connecting them... in this story of a relationship that may one day become love.",
+          "cover": "https://image.tmdb.org/t/p/w780/wxA0gM2pdtO7oj1PVa2s25j1udu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/795c1598dce9f58afc2962ad67e41d40.bin?u=0&b=11"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
