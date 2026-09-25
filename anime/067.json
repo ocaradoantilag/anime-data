@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "067",
+  "updatedAt": "2026-09-25T00:01:01Z",
+  "title": {
+    "romaji": "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
+    "english": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+    "japanese": "最凶の支援職【話術士】である俺は世界最強クランを従える",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/yREym2Qanimi40OI1W75df6weNg.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/fy229btO53qlYFo1gzrH2cM6jwX.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "58714",
+    "tmdb": "258580",
+    "imdb": "tt32501772"
+  },
+  "information": {
+    "synopsis": "Noel sonha em ser um Seeker como seu lendário avô, derrotando as feras que surgem dos Abismos e explorando terras distantes. No entanto, ele descobre que é apenas um simples Talker — uma função sem nenhuma habilidade de combate. Determinado a mudar isso, Noel parte para formar o clã mais forte de todos, usando suas habilidades de Talker, como mestre da persuasão, para unir assassinos e heróis sob sua liderança!",
+    "year": 2024,
+    "score": 7.4,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "Felix Film",
+      "GA-CREW"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Psicológico",
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "067-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "067-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Por que o mais fraco pretende ser o mais forte",
+          "overview": "Noel is a boy who aims to become the strongest Seeker, but the class he is assessed as is Talker, the weakest of them all. As he fights alongside his party, Blue Beyond, he is limited to barking out orders--not directly participating in battle.",
+          "cover": "https://image.tmdb.org/t/p/w780/5wMDV6LH57UoBrqSVdRyigfRewH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/J/W/V/T/JWVTt.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Este falador é implacável",
+          "overview": "Noel and Walter must come up with a plan to capture the runaway Lloyd and Tanya, and get their money back.",
+          "cover": "https://image.tmdb.org/t/p/w780/8BNtOFKWmRpujB2kkYJyKR1y8XM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/r/9/J/Z/r9JZt.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O verdadeiro negócio",
+          "overview": "Blue Beyond is reborn, but it won't get anywhere with Noel as its only member. So he puts out a call for new recruits, only to find an unexpected taker.",
+          "cover": "https://image.tmdb.org/t/p/w780/wUi3LpBP6xWmxAmIOdfN2DqWkpV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/K/A/5/4/KA54t.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Um pedido de desculpas não vai resolver",
+          "overview": "Noel and Alma head out on their first job, a request from a poor village chief to deal with a group of thieves giving them problems, but it doesn't go as hoped.",
+          "cover": "https://image.tmdb.org/t/p/w780/43HWZJ7tXSsaZZDZofAS1KZJJZW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/C/s/N/-/CsN-t.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O Espadachim do Extremo Oriente",
+          "overview": "Noel and Alma are back in Etria, and they decided to spend the day doing some much-needed shopping. However, their date runs into a few roadblocks on the way…",
+          "cover": "https://image.tmdb.org/t/p/w780/fUcfBlnA4BG4mPgKV96AhvoZVxR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/Q/E/e/fQEeu.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O preço da honra",
+          "overview": "Noel is having trouble finding new party members that meet his standards, but things take a dangerous turn when someone comes looking for him instead.",
+          "cover": "https://image.tmdb.org/t/p/w780/2npNF7sJExcWmXK0NJfg20xvuQK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/L/J/O/n/LJOnu.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Mundo sem Honra ou Humanidade",
+          "overview": "After the scuffle, Noel decides to go into action to get his payback on the man who ordered his assassination, Albert Gambino.",
+          "cover": "https://image.tmdb.org/t/p/w780/8c8XSUdbJXH8BvCIACaxzIPv6ih.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/e/F/T/C/eFTCu.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Os ingredientes de um campeão",
+          "overview": "With Finocchio as witness, Noel has to face off against the representative of Albert Gaminbo's choosing, who happens to be a familiar face.",
+          "cover": "https://image.tmdb.org/t/p/w780/jZnW2H2LADc72GWEPTkUjy0oPag.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/O/6/c/S/O6cSu.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "A cobra afia suas presas",
+          "overview": "Blue Beyond meets with the Inspector who will oversee their clan application, Harold Jenkins, who explains to them that the situation has changed.",
+          "cover": "https://image.tmdb.org/t/p/w780/8xISl1T25F2O0ZZUHUbW8Ey08Px.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/u/Z/f/7/uZf7u.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Os que têm e os que não têm",
+          "overview": "Noel sets his sights on the Winged Knights, who decide to take a step forward themselves.",
+          "cover": "https://image.tmdb.org/t/p/w780/ggTjGFmmQABBmZ0xoz9B1rJ1PtE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fw/s8/2/G/_/J/k/G_Jkv.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O preço de estar certo",
+          "overview": "Blue Beyond and the Winged Knights face off, and Noel has a plan to deal with the skill gap.",
+          "cover": "https://image.tmdb.org/t/p/w780/qYb7mcy8EP1h3CMdp4WG5JJ6S18.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/X/V/4/y/XV4yv.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "067-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "A cobra tem asas",
+          "overview": "As the test comes to an end, Blue Beyond and the Winged Knights must come to terms with the aftermath.",
+          "cover": "https://image.tmdb.org/t/p/w780/26QsOHA3GAuFqBRMJUnA3PlGhWz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/s8/2/G/U/r/N/GUrNv.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
