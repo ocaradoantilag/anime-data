@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "id": "069",
+  "updatedAt": "2026-09-25T00:19:29Z",
+  "title": {
+    "romaji": "Witch Watch",
+    "english": "WITCH WATCH",
+    "japanese": "ウィッチウォッチ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/yTfaG7igCJa324DU0QaxCTzYBXF.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59597",
+    "tmdb": "261868",
+    "imdb": "tt33165027"
+  },
+  "information": {
+    "synopsis": "Morihito Otogi, um colegial de uma linhagem de ogros, aproveita uma vida pacífica e comum até sua amiga de infância, Nico, se mudar e passar a morar com ele. Nico é uma bruxa em treinamento e escolhe Morihito como seu familiar. Enquanto Nico está empolgada em reencontrar seu velho amigo e paixão do passado, Morihito é encarregado com a perigosa tarefa de protegê-la de uma calamidade anunciada. Entre o caos imprevisível causado pela magia de Nico e o constrangimento de compartilhar uma casa, suas vidas vão se tornar um redemoinho de farras e ameaças sobrenaturais.",
+    "year": 2025,
+    "score": 7.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Bibury Animation Studios"
+    ],
+    "genres": [
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Slice of Life",
+      "Sobrenatural",
+      "Animação",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 25
+  },
+  "episodes": 25,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "069-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 25,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "069-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O Retorno da Bruxa",
+          "overview": "Morihito Otogi is a teenager with ogre strength. His childhood friend, Nico, is coming home after completing her witch training! Following an old pact, they begin living together. Can Morihito protect the clumsy Nico from a dire prophecy?",
+          "cover": "https://image.tmdb.org/t/p/w780/fRvOA3U5CJnhaUv8Eo6xmIzAOVc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Um novato gigante / Vamos jantar / A sala de aula voadora",
+          "overview": "On the first day of school, Morihito urges Nico to hide the fact that she's a witch, but she tries using magic to secretly help him out in class.",
+          "cover": "https://image.tmdb.org/t/p/w780/kuwEX3F9iFoVEqSAr9Pifad5Zdl.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Modas frescas e transparentes para a primavera / Serviço de entrega de bruxa / Cães perdidos e o tamborilar da chuva",
+          "overview": "Nico's mother sends Morihito a letter containing a worrying prophecy. Unable to decipher the meaning, Morihito spends the rest of the day on his toes.",
+          "cover": "https://image.tmdb.org/t/p/w780/g5liYRAwa1uHVXsNT6bWAvMONYx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Kanshi Kazamatsuri, o Tengu",
+          "overview": "Kanshi explains that Nico's mother sent him to protect her. He and Morihito clash, but he takes a moment to warn him of an enemy within the school.",
+          "cover": "https://image.tmdb.org/t/p/w780/qCE3JI90cAcdQ9m6RJmrxHNh89x.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Meu aluno é meu artista favorito / Minha barriga está macia hoje / Cat Scout",
+          "overview": "Closet manga fan Ms. Makuwa loses her composure when she realizes that one of her students is a popular fan artist for her favorite series.",
+          "cover": "https://image.tmdb.org/t/p/w780/iH1ouguZFFn2umbVE3v9Tn6yqYk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Debaixo da árvore dos amantes",
+          "overview": "After realizing Morihito is getting popular with the girls at school, Nico learns of a so-called lovers' tree near the site of an upcoming field trip.",
+          "cover": "https://image.tmdb.org/t/p/w780/qbkwxnsDmWWZRrkNTiSS8TyiorB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Canal de Kan e Nico / A cerimônia do chá é um pedaço de bolo de chá",
+          "overview": "Nico and Kanshi start an online video channel, but Morihito is annoyed by their lack of originality and asks their hipster classmate Magami for help.",
+          "cover": "https://image.tmdb.org/t/p/w780/4pwENJmUvqNCaxI3dHBe33srVTq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Diários de trabalho de meio período de Kanshi ~ The Superhero Show ~ / Diários de trabalho de meio período de Kanshi ~ The Side Job ~",
+          "overview": "When Kanshi can’t pay his share of the living expenses, Morihito hands him a flyer from an amusement park hiring performers for a superhero show.",
+          "cover": "https://image.tmdb.org/t/p/w780/4hCKQ6ndRzRJ5ONYTCl96rrMqZO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Querida Kara / Novos amigos / Encontro com o Cavaleiro",
+          "overview": "Nico and Morihito's classmate Kara asks them to restore a letter from her deceased mother, which her father put through a paper shredder.",
+          "cover": "https://image.tmdb.org/t/p/w780/9QTkzdXwe3RkaOxyyWcBGa0zPhN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Conselho estudantil tropetacular / A bolha de felicidade de um gato perdido",
+          "overview": "After a student council vice president makes a dramatic entrance to forbid Nico from using magic, the council’s other larger-than-life members arrive.",
+          "cover": "https://image.tmdb.org/t/p/w780/7ST2qEsdiQn4V3dJcva1IUin3Wu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Cães e gotas de chuva (1)",
+          "overview": "Kanshi saves Keigo from a bully who claims to be using a candy with a stimulant effect. A self-proclaimed witch appears before Nico and Morihito.",
+          "cover": "https://image.tmdb.org/t/p/w780/rco1JRrnYF9IdQMW0mbJAwLYbTM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Cães e gotas de chuva (2)",
+          "overview": "A transformed Keigo attacks the isolated Morihito. Surrounded by Wolf's \"Dogs,\" Kanshi and Nico devise a plan to locate and neutralize the warlock.",
+          "cover": "https://image.tmdb.org/t/p/w780/f54pSvsKZStkb5smTgaPuG6Qocy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Keigo Magami, o Lobisomem / Tigre Gentil, Lobo Orgulhoso / Temperos fáceis para uma culinária apaixonante",
+          "overview": "Morihito and the others decide to get rid of any crescent-shaped objects to minimize the risk of Keigo transforming into a werewolf in the house.",
+          "cover": "https://image.tmdb.org/t/p/w780/oSwbaUG4MfeNCaJ2BKpjrWccGGN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Uron Mirage Capítulo 119: The Phasey Hunt, Parte 4 / Diário do meu artista favorito",
+          "overview": "In Episode 119 of Uron Mirage, swordsmen Utsuro, Oboro, Sagiri and Zack decide to split up and search the buildings of an abandoned research facility.",
+          "cover": "https://image.tmdb.org/t/p/w780/aDfVBKXeCsrV6MA9R7G9CV3V5h1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Demônio de verão",
+          "overview": "Ibuki's newest prophecy advises seeking a family that dispels evil. Nico and her friends set out in search, treating the journey like a summer trip.",
+          "cover": "https://image.tmdb.org/t/p/w780/y8qLYTfAxrAcAIkDBxeOBCdWthJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Miharu Kiryu, o Vampiro / Guarda-Sol Desaparecido / Estou tão feliz por você estar aqui",
+          "overview": "Vampire Miharu moves into the Otogi house, but as a night person with different energy needs, he may struggle to adjust to communal living.",
+          "cover": "https://image.tmdb.org/t/p/w780/xGfip1QJQRovlhcMPPQPP3vvALH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Ficamos presos em um jogo mortal, mas foi uma merda / Long Long a Go Go",
+          "overview": "Morihito and the other guys awake in an unknown place. A mysterious figure tells them they must play a game — and that Nico is being held hostage.",
+          "cover": "https://image.tmdb.org/t/p/w780/nqN4SAwrMxgQmWjNhYUEx0iW884.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Kara e Shiki / Mega Marble Mania Madness / Scramble Scrap Squad",
+          "overview": "Nico and Kukumi help Kara out at the shrine run by her father. When Nico casts a spell to make a paper cat move around, Kara gets an idea.",
+          "cover": "https://image.tmdb.org/t/p/w780/rC1vF6PSclyRoKer15YHBs0VBBM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Carta de um amigo",
+          "overview": "When tidying the house, Morihito finds a letter Nico wrote to him when they were kids. Nico shares her memories of those days with Nemu and the guys.",
+          "cover": "https://image.tmdb.org/t/p/w780/t5zJeUb7auvysXMZfbQw0JjzFjK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "O lobo perdido e o gato de rua",
+          "overview": "Noticing that Keigo seems sad, Nico gives him a ring imbued with a levitation spell. As he secretly trains to use it, Nemu approaches him.",
+          "cover": "https://image.tmdb.org/t/p/w780/7RIiDORwRr28xSjKyAvcamjk4to.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Desejos Secretos / Estilo Despreocupado de Keiko / Jekyll Visita a Casa Otogi",
+          "overview": "As Keigo wonders why his channel isn't getting more views, Nico casts a spell on him that she believes will help make his videos more interesting.",
+          "cover": "https://image.tmdb.org/t/p/w780/sszDaq0hZSAb3A5i9LX84Jr9oYw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "A incrível aventura do encolhimento / Festival do pão de outono de Hamazaki / Aniversário da sorte",
+          "overview": "While sharing donuts with Kara and Morihito, Nico decides to shrink herself and Morihito down so they can experience eating a giant pastry.",
+          "cover": "https://image.tmdb.org/t/p/w780/t8DNrLhouIEUjCn0IwCXmQdVwr2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Nosso primeiro Meetup offline / Arquivo de artista favorito: Creative Surge / Arquivo de artista favorito: Crazy Event Arc",
+          "overview": "When Kukumi mentions that she will be meeting a friend from social media in person for the first time, a worried Ms. Makuwa decides to tail her.",
+          "cover": "https://image.tmdb.org/t/p/w780/rhbp9iDrF4lcJszysdd8OIP2OHJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Devoção ao jeans de Moi / encontro com o guia",
+          "overview": "When Morihito declares it's time to give his favorite pair of jeans a second wash, Miharu asks to know more about denim — much to the others' chagrin.",
+          "cover": "https://image.tmdb.org/t/p/w780/1orgE66idaQwHczAP4EeMYb43m6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "069-1-25",
+          "number": "25",
+          "sortOrder": 25,
+          "title": "Bruxa caloura e seus familiares",
+          "overview": "Needing an attraction for the upcoming school festival, Nico's class decides to use her quirky spells to run a café with a spooky theme.",
+          "cover": "https://image.tmdb.org/t/p/w780/mVajlSTdtdIK7e7T1mE0pKTxCEO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-watch/25.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
