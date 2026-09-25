@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T00:08:16Z",
+  "updatedAt": "2026-09-25T00:19:32Z",
   "animes": [
     {
       "id": "relife",
@@ -738,6 +738,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/068.json"
+    },
+    {
+      "id": "069",
+      "title": "WITCH WATCH",
+      "cover": "https://image.tmdb.org/t/p/w780/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 25,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/069.json"
     }
   ]
 }
