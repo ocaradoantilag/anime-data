@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "068",
+  "updatedAt": "2026-09-25T00:08:14Z",
+  "title": {
+    "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+    "english": "Betrothed to My Sister's Ex",
+    "japanese": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/kwV4MylQoDhz14Qd54z3Hq4qppf.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/hyODXbjqZeGS2WMCw0nkcMiGTdO.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59421",
+    "tmdb": "279989",
+    "imdb": "tt35652469"
+  },
+  "information": {
+    "synopsis": "Com cabelos ruivos desgrenhados e roupas esfarrapadas, Marie, a filha do barão, sempre foi tratada como uma serva... O Conde Granado, o homem mais rico do país e conhecido por ser um misógino difícil de se agradar, se apaixona por ela à primeira vista. No entanto, devido a um mal-entendido, o Conde Granado acaba pedindo a irmã de Marie em casamento, uma moça chamada Anastasia, que se parece com uma princesa, em vez da humilde Marie...",
+    "year": 2025,
+    "score": 7.3,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "LandQ studios"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasia",
+      "Romance",
+      "Animação",
+      "Comédia"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "068-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "068-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Eu nunca poderia substituir minha irmã",
+          "overview": "Marie is always dressed in tatters and is treated like a servant in her own home. Then she meets Count Kyros.",
+          "cover": "https://image.tmdb.org/t/p/w780/rQ2SoSG6bPPicEjLGFAinkFUp1G.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/0b/s8/2/D/v/o/Z/DvoZy.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Marie, eu quero me casar com você",
+          "overview": "Kyros hates aristocratic society and its ties of obligation. But why? And what changed when he met Marie?",
+          "cover": "https://image.tmdb.org/t/p/w780/805inBkS3ovWZ5FM7WsjWr16Ieb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/22/s8/2/w/A/l/3/wAl3y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uma vida que vi em um sonho e uma vida semelhante a um sonho",
+          "overview": "Marie begins her new life as Kyros' fiancée and finds herself bewildered by the differences from her old life.",
+          "cover": "https://image.tmdb.org/t/p/w780/3dyGbbePFvDOeWnk1DxX5h57Zzm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/8f/s8/2/i/A/w/5/iAw5y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Encontrei as coisas que gosto",
+          "overview": "Kyros wants to provide Marie with every comfort, but Mio cautions him. Then a package from the baron arrives.",
+          "cover": "https://image.tmdb.org/t/p/w780/sXmVd1FBMmk4sN6agKDW4V7r5i8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/0c/s8/2/s/A/w/5/sAw5y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O Príncipe e o Guerreiro Negro como breu",
+          "overview": "Luiphon takes Marie to a sword fighting contest. The ferocity of it scares her. Then the dark warrior fights.",
+          "cover": "https://image.tmdb.org/t/p/w780/okLz5swmmHLgpcUlZxbPfEJpZED.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/4f/s8/2/y/g/d/-/ygd-y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Sou suficiente como sou?",
+          "overview": "Liu Liu, Kyros' mother, discovers surprising things about Marie. Mio investigates the baron on Kyros' orders.",
+          "cover": "https://image.tmdb.org/t/p/w780/7C0Dyup6CAvMlwp1bQ87AtckGvB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/a7/s8/2/y/f/d/-/yfd-y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Você está tão perto que acho que pode me deixar tonto",
+          "overview": "Mio investigates a comment in a letter from Marie's brother. Marie and Kyros go to the capital for a date.",
+          "cover": "https://image.tmdb.org/t/p/w780/zPzzObTqtAaL5doS72OpTi3Czdo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/9e/s8/2/4/t/D/_/4tD_y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Um presente mais lindo que joias",
+          "overview": "Kyros and Marie meet Luiphon at a jeweler's at his request. Thoughts of Anastasia haunt Marie's happiness.",
+          "cover": "https://image.tmdb.org/t/p/w780/xvrSQz24AzoBDwlNYnh5RqjqUwu.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/b7/s8/2/8/n/E/b/8nEbz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Em busca do espírito de Anastasia",
+          "overview": "Kyros demands the truth of Anastasia's accident, but he and Marie are not prepared for the answers they find.",
+          "cover": "https://image.tmdb.org/t/p/w780/QMwFMIgW4GuLoaNcIuM1Tz5p4E.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/78/s8/2/M/h/z/d/Mhzdz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Por favor, cancele o noivado",
+          "overview": "Worried, Kyros arranges to meet with Norman. But as Marie hears him describe his apprentice, her fears grow.",
+          "cover": "https://image.tmdb.org/t/p/w780/90Z2LZEmMqGxnNUhYsybO7sMyJp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/56/s8/2/4/U/j/k/4Ujkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A princesa vazia vive",
+          "overview": "Marie's attacker talks about the past. Why did little Marie's life change so much? Why was she left in rags?",
+          "cover": "https://image.tmdb.org/t/p/w780/jl61pfYGLQvo4iq8gmXMfecYhaU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/57/s8/2/s/V/j/k/sVjkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "068-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "É hora de resolver isso",
+          "overview": "Marie is determined to settle things. But even with everyone's help, how will she confront her parents?",
+          "cover": "https://image.tmdb.org/t/p/w780/7h1hbft7iOIwYA9UvF352BBkdSr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/c8/s8/2/Q/V/j/k/QVjkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
