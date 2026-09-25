@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T17:26:52Z",
+  "updatedAt": "2026-09-24T22:23:44Z",
   "animes": [
     {
       "id": "relife",
@@ -558,6 +558,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/053.json"
+    },
+    {
+      "id": "054",
+      "title": "Do velho caipira ao mestre espadachim",
+      "cover": "https://image.tmdb.org/t/p/w780/eAYuBIJxifz8NRkjQ2n1atpFdHq.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/054.json"
     }
   ]
 }
