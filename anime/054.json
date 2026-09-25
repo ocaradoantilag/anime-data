@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "054",
+  "updatedAt": "2026-09-24T22:23:41Z",
+  "title": {
+    "romaji": "Katainaka no Ossan, Kensei ni Naru",
+    "english": "Do velho caipira ao mestre espadachim",
+    "japanese": "片田舎のおっさん、剣聖になる",
+    "synonyms": [
+      "From Old Country Bumpkin to Master Swordsman"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/eAYuBIJxifz8NRkjQ2n1atpFdHq.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/sEagMcuLL3beaHc3ToiZicMuYSb.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59452",
+    "tmdb": "260823",
+    "imdb": "tt35346717"
+  },
+  "information": {
+    "synopsis": "Por 20 anos, Beryl Gardenant ensinou várias pessoas como mestre do dojo de luta com espadas de seu pai em uma vila remota. Muitos se tornaram espadachins surpreendentes, mas Beryl permanece bastante humilde, referindo-se a si mesmo como um homem velho. Todos os seus ex-discípulos discordam, incluindo Allucia Citrus, uma garota que se formou no treinamento de Beryl há mais de 10 anos e atualmente é comandante da Ordem Real dos Cavaleiros.\n\nDesejando revelar a verdadeira grandeza de seu querido professor, Allucia recomenda Beryl aos seus superiores, levando à sua nomeação como instrutor especial da Ordem pelo comando imperial. Ela mesma dá a notícia - embora Beryl ainda não tenha percebido seu motivo mais profundo. Pressionado pelos pais idosos, Beryl aceita relutantemente o emprego e muda-se para a capital. Lá, ele conhece mais de seus ex-alunos, como Surena Lysandra, agora uma aventureira negra, e Ficelle Harbeller, um membro proeminente do Magic Corps. Em pouco tempo, a notícia começa a se espalhar: nem mesmo os guerreiros mais fortes conseguem se igualar ao “velho” do campo.\n\n[Escrito por MAL Rewrite]",
+    "year": 2025,
+    "score": 6.95,
+    "ageRating": "PG-13",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep",
+    "season": "Primavera",
+    "aired": "2025-04-05 até 2025-06-22",
+    "studios": [
+      "Passione",
+      "Hayabusa Film"
+    ],
+    "genres": [
+      "Ação",
+      "Fantasia"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "054-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep",
+      "episodes": [
+        {
+          "id": "054-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O velho caipira vai para a capital",
+          "overview": "Beryl Gardenant lives a quiet life running a dojo in the backwaters, until Allucia, his former student, appears with a new job for him – special instructor to the knights she commands! Beryl accepts the job, but Vice-Commander Henblitz doesn’t think he’s up to the task and challenges him to a duel.",
+          "cover": "https://image.tmdb.org/t/p/w780/fN2oP5mwqQrieHWuJwZ9AjU7Z2k.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O velho caipira é surpreendido por um bruxo",
+          "overview": "Allucia reminisces about her training with Beryl, and her resolve to have him instruct the knights hardens. While taking in the city sights with Curuni, Beryl meets up with Ficelle, another former student. She surprises him with her magic. But another wizard gives him even more of a surprise!",
+          "cover": "https://image.tmdb.org/t/p/w780/hQD0eOu9tVdeozQ9TBgB8XicOD7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O velho caipira resiste a um ataque feroz",
+          "overview": "Former student and top-ranking adventurer Surena enlists Beryl’s help to train new adventurers. At the Adventurer’s Guild, Beryl ends up in a duel with her to prove he has what it takes for the job. He isn’t really happy with the turn of events, but Surena seems to feel differently.",
+          "cover": "https://image.tmdb.org/t/p/w780/iEtfZyiY9Q2cmWsukUCPqutmtJE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "O velho caipira voa com um monstro",
+          "overview": "To protect the new adventurers, Beryl faces off against a dangerous monster. Unlike other opponents, it acts on instinct, and he’s drawn into a ferocious battle, unable to get a read on its moves. Later on, he faces an encounter that will turn his future upside down.",
+          "cover": "https://image.tmdb.org/t/p/w780/ivChYvdHv1HHbd1IoDOb8suDbeQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "O velho caipira fica furioso com os bandidos",
+          "overview": "Beryl encounters a pickpocket. Seeing the despair in her eyes, he confronts her in an attempt to get her to open up, but it’s not as easy as he thinks. With the help of Allucia and Lucy, he strives to help her free herself from the clutches of shadowy forces and the evil that binds her.",
+          "cover": "https://image.tmdb.org/t/p/w780/eco8LR3aqjMUe56ok1BOW2eKv4r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O velho caipira enfrenta os mortos",
+          "overview": "Someone is controlling the lowlifes taking advantage of Mewi behind the scenes. Religion and international relations come to the forefront, and with no ties that might cause an international incident, Beryl is asked to flush out the mastermind. New sword in hand, Beryl battles for Mewi’s future.",
+          "cover": "https://image.tmdb.org/t/p/w780/wUZzO0uWxbUqwypk0dzmaaTxaTc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O velho caipira aprende os desafios da paternidade",
+          "overview": "Beryl and Mewi start living in the house Lucy gave Beryl. Although unsure, Beryl works on becoming a parent figure for Mewi. When they find out that the magic institute Mewi is enrolled at has a student dormitory, Beryl wonders whether it is best for her to live with him, or on campus.",
+          "cover": "https://image.tmdb.org/t/p/w780/vrd8UwqZkMkExE1Hom4825HTNr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "O velho caipira é atingido por uma espada ultrarrápida",
+          "overview": "When a delegation from a neighboring country arrives, Allucia asks Beryl to help guard the VIPs, and he can’t refuse. Beryl needs the right clothes for the job, so he and Allucia go shopping. It’s just like a date! The next day, Allucia approaches Beryl with an offer.",
+          "cover": "https://image.tmdb.org/t/p/w780/nDta186D8z2EuPSYLcQVYOtkxvU.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O velho caipira sai em sua primeira caçada em muito tempo",
+          "overview": "Mewi needs a new bag for school, so Beryl goes shopping. But he quickly realizes just how expensive bags can be! A job offer from Surena provides a means to make some extra cash, and he jumps at the chance. But he soon realizes – this job is one even high-ranking adventurers have never completed!",
+          "cover": "https://image.tmdb.org/t/p/w780/eiCBW8evSk7qHSsaEBTBbGvnbPz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O velho caipira guarda uma princesa",
+          "overview": "The Vice Commander of the Holy Order of the Church of Sphene is Beryl’s former student, Rose, and he renews his ties with her. When the delegation arrives, Beryl is assigned to guard the two royal families as they tour the capital. But a shadow looms over what is supposed to be a joyous event.",
+          "cover": "https://image.tmdb.org/t/p/w780/ipJuDHr6ltEW8xIyQXXeyP6Y1OH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O velho caipira se joga em uma luta mortal",
+          "overview": "Beryl helps protect the royal family from assassins, but the assassins all kill themselves, and any clues to the mastermind are lost. Lucy thinks a conflict between royalty and religion is at play. Despite Beryl wanting to cancel the tour of the capital to keep the prince safe, the plan goes ahead.",
+          "cover": "https://image.tmdb.org/t/p/w780/lBLyb8Pg780toRJouX6uO5xfXmV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "054-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "O velho caipira é elogiado como um mestre espadachim",
+          "overview": "It was Rose behind the flood of assassins. Beryl confronts her in an effort to find where her true intentions lie. Rose tells him, and the two draw their swords against each other. What will the outcome be in this battle between master and student?",
+          "cover": "https://image.tmdb.org/t/p/w780/bViPaj52dtLGQFnvA6l4a8a5eXb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/katainaka-no-ossan-kensei-ni-naru/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
