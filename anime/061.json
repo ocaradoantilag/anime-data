@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "id": "061",
+  "updatedAt": "2026-09-24T23:03:54Z",
+  "title": {
+    "romaji": "Hametsu no Oukoku",
+    "english": "Os Reinos da Ruína",
+    "japanese": "はめつのおうこく",
+    "synonyms": [
+      "The Kingdoms of Ruin"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/kWSXGzg9DXxq8ijjCJQeDWhF6y9.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/kcCVMHdKj3mujbBJ0RdqZ32av65.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "54362",
+    "tmdb": "219673",
+    "imdb": "tt28774702"
+  },
+  "information": {
+    "synopsis": "As bruxas, num passado distante, abençoaram a raça humana com sabedoria e paz... Porém, a Expansão de Engrenagens do Império Redia trouxe consigo uma cultura científica que superou em muito a magia, e as bruxas passaram a ser vistas como inimigas que impediam o progresso da civilização... Assim começaram as caças às bruxas. Um humano chamado Adonis, que foi criado por uma bruxa chamada Chloe, jura vingança contra a raça humana que tirou sua amada mentora! Que salvação pode ser encontrada no fim de um banho de sangue alimentado por completo desespero?",
+    "year": 2023,
+    "score": 6.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "Yokohama Animation Lab"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "061-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "061-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "E assim, nossa história começa",
+          "overview": "The rapid explosion of human technology has caused humanity to grow to fear and resent the divinely granted supernatural powers of witches. The witch Chloe and her apprentice, Adonis, find themselves caught in the crosshairs of the Redia Empire.",
+          "cover": "https://image.tmdb.org/t/p/w780/iG2qtp6r5HFPakBAD17Kx5ysmT8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Fogo Celestial",
+          "overview": "Adonis uses his newfound freedom to wreak havoc on the city of New Nightmare. His long-practiced written-style summoning magic tears through the Radian citizens while Doroka races to meet up with him.",
+          "cover": "https://image.tmdb.org/t/p/w780/ax8ePIBGZCYhupvuGbtmqekuoo0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Uma Morte Gentil",
+          "overview": "The various government institutions of Redia scramble to stop Adonis' rampage. When they go to activate the Magic Photon Suppression Device, Theta, the director of the National Science Agency, shares previously hidden information.",
+          "cover": "https://image.tmdb.org/t/p/w780/PqUL9Rlu0O6goZWkTj7HXXDUKf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "A Nação das Bruxas",
+          "overview": "Anna is ultimately successful in her mission and manages to use her magic to fool the Redia Empire long enough to extract Adonis. Adonis is extracted by the witches and witnesses firsthand the state of their society in the wake of their war with humanity.",
+          "cover": "https://image.tmdb.org/t/p/w780/etT3EYdRyhVz9L7qr9bQfbvCtma.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Alegria para o mundo",
+          "overview": "As the resurrection ritual comes to completion, Lunamilia is suddenly attacked by the National Security Bureau. The safety of the witches is compromised, and the mito is set ablaze. Adonis and Yamato face off in a revenge-fueled duel.",
+          "cover": "https://image.tmdb.org/t/p/w780/wgO4uACzLsWzPNoE4QyymE4vdtO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A Bruxa Doroka",
+          "overview": "Doroka finally calls upon her magical powers in an attempt to put an end to the carnage on Lunamilia. As the battle on the moon comes to a close, we discover who's truly in control of the Redia Empire.",
+          "cover": "https://image.tmdb.org/t/p/w780/wyHvVCL62lAGNBM4Uz7mkWxfXgq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Fique ao lado dele. Fique ao lado dela.",
+          "overview": "Adonis and Doroka find themselves on the planet's surface once again. Still reeling from the carnage on the moon, they encounter some wasteland vagrants who take them in. However, there may be more to these vagrants than expected.",
+          "cover": "https://image.tmdb.org/t/p/w780/a1N5RDvU8Qsf4nham7V1QCJRmBY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Coroação",
+          "overview": "With Goethe and the witches out of her way, Dorothea ascends to the imperial throne. As she uses her magic to consolidate her power, Shirousagi searches the wastelands for Adonis. Meanwhile, Adonis and Doroka stumble into a seemingly abandoned ghost town.",
+          "cover": "https://image.tmdb.org/t/p/w780/uQGk9q9l6dHSXkjlCpBVc8CSY8e.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O Reino Arruinado de Mamuta",
+          "overview": "Adonis and Doroka arrive at the city-state of Mamuta only to find it devoid of human life. Strange stirrings of something far from human echo throughout the city as two opposing parties begin to close in on Adonis and Doroka.",
+          "cover": "https://image.tmdb.org/t/p/w780/re5hEDiBqA0qWR3tjf4dIc8MoIf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Os olhos que foram perdidos",
+          "overview": "Shirousagi has found Adonis and Doroka with the help of the National Intelligence Agency. He brings the full power of humanity's technology to bear against Adonis and Doroka in a brutal battle.",
+          "cover": "https://image.tmdb.org/t/p/w780/vxmUBdP1P4Cce6pAuJ32x0DBLx6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Queda de Cavaleiro",
+          "overview": "Adonis has to face Shirousagi alone while trying to protect an incapacitated Doroka. When his limits are reached, the two of them work together through unsavory means in a desperate attempt to survive.",
+          "cover": "https://image.tmdb.org/t/p/w780/suojO5kZjAxX6j6uS0XbcdqSIL0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "061-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Amor e vingança",
+          "overview": "Empowered by Doroka's Love Spell, Adonis reaches new heights of physical and magical power. He unleashes his magic in a way that fulfils a promise he made to Chloe long ago.",
+          "cover": "https://image.tmdb.org/t/p/w780/bJx10S8HnKdwYlGqgCCsx7p5F1t.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/h/hametsu-no-oukoku/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
