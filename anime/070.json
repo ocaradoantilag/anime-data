@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "070",
+  "updatedAt": "2026-09-25T00:25:37Z",
+  "title": {
+    "romaji": "Witch Craft Works",
+    "english": "Witch Craft Works",
+    "japanese": "ウィッチクラフトワークス",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/6Dx6Cra1Ju06I4q62EOvLFwHaep.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "21085",
+    "tmdb": "65614",
+    "imdb": "tt3341534"
+  },
+  "information": {
+    "synopsis": "Takamiya Honoka é um aluno regular, cujo único problema parece ser que ele se senta ao lado de Kagari Ayaka, n º 1 da beleza da escola. Eles nunca falaram um com o outro antes e qualquer pequena interação entre eles resulta imediatamente em seu fã-clube querendo bater nele. No entanto, quando uma parte caindo do prédio da escola está prestes a mandá-lo para a vida após a morte, é Kagari que vem em seu socorro. Ela está vestida como uma bruxa, carregando-o nos braços e flutuando em uma vassoura! Kagari diz a ele que é a sua missão de protegê-lo e que agora ela finalmente pode protegê-lo abertamente, em vez de à paisana.",
+    "year": 2014,
+    "score": 6.7,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "J.C.STAFF"
+    ],
+    "genres": [
+      "Ação",
+      "Fantasia",
+      "Sobrenatural",
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "070-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2014,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "070-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Takamiya-kun e a Bruxa do Fogo",
+          "overview": "Takamiya Honoka is a completely average student at Fuyutsuki High School. Up to now, he normally went unnoticed, but it turns out he has a mysterious connection to his classmate Kagari Ayaka, the most popular girl in the school, earning him the wrath of her overzealous fan club.",
+          "cover": "https://image.tmdb.org/t/p/w780/ivUx715m1PjPpUO0QGPUPklOG5N.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Takamiya-kun e a agenda das bruxas",
+          "overview": "The prettiest girl in the school, Kagari Ayaka, says her mission is to protect him - since Takamiya Honoka learned this shocking fact, he has been caught up in several incidents. He had no idea why, but in a battle between Ayaka and the Tower Witches, Tanpopo reveals that their target is the \"white stuff\" inside him.",
+          "cover": "https://image.tmdb.org/t/p/w780/4fVpC3GaL6ecV1LMGrSm6UhSAiV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Takamiya-kun e a armadilha de Chronoire",
+          "overview": "Since Takamiya became Kagari's apprentice, the two are spending even more time together. Other students are outraged that he's monopolizing their \"Princess,\" but he tells himself it's all part of his training.",
+          "cover": "https://image.tmdb.org/t/p/w780/7PDUuiUnc7cv7KlgFu479ajfSoW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Takamiya-kun e sua irmãzinha malvada",
+          "overview": "Someone in the Takamiya household isn't happy about his relationship with Kagari: his younger sister and fellow Fuyutsuki High student, Takamiya Kasumi. She tailed her brother and Kagari on their date, and grows increasingly irritated by the relationship between them.",
+          "cover": "https://image.tmdb.org/t/p/w780/8MoTs4kRjDTnFcboC4dP9CQwLu3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Takamiya-kun e a Bruxa dos Olhos e Mãos de Pedra",
+          "overview": "Against Kasumi's wishes, Kagari has declared that she will protect Takamiya around the clock. She visits the family to explain this to his mother, who turns out to be an old friend of Kagari Kazane and reveals that the two of them were already betrothed.",
+          "cover": "https://image.tmdb.org/t/p/w780/athB67tsGwksHa9y2EtAykBaCn8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Takamiya-kun e o Teste do Amor",
+          "overview": "Takamiya's coveted \"white stuff\" finally appeared in the form of Evermillion, whose magic destroyed the Kagari home. As a result, Kagari is now living with Takamiya in his family's house. Meanwhile, the relationship between Kagari and Takamiya is still causing problems at school, even becoming a topic of discussion among the student council.",
+          "cover": "https://image.tmdb.org/t/p/w780/eEvBYAquf88wXNZvPeRFliMEHPZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Takamiya-kun e Noblesse Oblige",
+          "overview": "Takamiya and Kagari have begun their life together, but they have some weird roommates: Medusa and the KMM Team, who know about the White Princess, Evermillion. Kagari tells Takamiya that their high school security was assured as long as the seals within him were intact, but if Kazane finds out that Evermillion was released, she would most likely seal Takamiya himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/j4ONSmefx059nCAwtD5iABh6hNo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Feridas de Takamiya-kun e Kagari-san",
+          "overview": "Hoozuki Kanae, the head of Kagari Ayaka's fan club that protects her from \"bad bugs,\" and Hio Touko, a part-time waitress at a café, have been Ayaka's classmates since middle school.",
+          "cover": "https://image.tmdb.org/t/p/w780/enjQGmsoG5dlfmEfBlXykzsLsvw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Takamiya-kun e a Bruxa do Fim",
+          "overview": "After Takamiya's fight with the town's delinquent ringleader, Rinon, Kagari decides to resume his witch training. He has been making an effort to work out and toughen up on his own, but it looks like it'll take more time before he can control his own instincts.",
+          "cover": "https://image.tmdb.org/t/p/w780/9wm1um6MOEXrEgJfrElsejPgqC4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Takamiya-kun e fim de semana, parte 1",
+          "overview": "Weekend's scheme using her magic bomb has resulted in many Workshop casualties. Worse yet, the Workshop head, Kazane, has lost all her magic power, causing her barrier over the town that protects its citizens to fall.",
+          "cover": "https://image.tmdb.org/t/p/w780/qiLu1EoV70onIr2m8iUedFSpTpE.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Takamiya-kun e fim de semana, parte 2",
+          "overview": "Delirious with fever after signing the contract with the town, Takamiya strays into a space between dimensions known as \"the cycle of recollection.\" There, he sees the memories of Kazane, the former contractor, including images of himself and Kagari when they were younger.",
+          "cover": "https://image.tmdb.org/t/p/w780/sKPDmW52wSB4deLnUFQKa9xXEJ2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "070-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Takamiya-kun e fim de semana, parte 3",
+          "overview": "Weekend has pushed the button to detonate the bombs she rigged up throughout the town. To save the town and its people, Takamiya makes the decision to summon Evermillion, but that would mean giving up his own life as well as Kagari's...",
+          "cover": "https://image.tmdb.org/t/p/w780/4m7ThzvA6mLGX0m4EKBw8G7Ad6x.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/w/witch-craft-works/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
