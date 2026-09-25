@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T23:39:06Z",
+  "updatedAt": "2026-09-25T00:01:03Z",
   "animes": [
     {
       "id": "relife",
@@ -714,6 +714,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/066.json"
+    },
+    {
+      "id": "067",
+      "title": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+      "cover": "https://image.tmdb.org/t/p/w780/yREym2Qanimi40OI1W75df6weNg.jpg",
+      "year": 2024,
+      "type": "ONA",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/067.json"
     }
   ]
 }
