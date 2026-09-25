@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "id": "064",
+  "updatedAt": "2026-09-24T23:22:40Z",
+  "title": {
+    "romaji": "Maou 2099",
+    "english": "DEMON LORD 2099",
+    "japanese": "魔王2099",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/mU7QgTm2WadwVoT7jDyMY9Czpsj.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/rS6CNUPU62dsSmsPieLGm6NceZa.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "54853",
+    "tmdb": "234538",
+    "imdb": "tt32542096"
+  },
+  "information": {
+    "synopsis": "A metrópole cyberpunk de Shinjuku — uma enorme cidade-estado decorada com placas de neon, proeminentes arranha-céus e tecnologia de ponta. Foi lá que no ano de 2099 da Era Fundida, onde o lendário Rei Demônio Veltol retornou após cinco séculos. Mas esta paisagem não é nada como a quele conquistou anos atrás, já que a fusão de magia e engenharia elevou a civilização a um patamar deslumbrante e sem precedentes. Veltol pode ter sido reduzido a uma nota de rodapé nos livros de história, mas não se engane... Vai ser ele que vai se apropriar deste admirável mundo novo!",
+    "year": 2024,
+    "score": 7.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Outono",
+    "aired": "",
+    "studios": [
+      "J.C.STAFF"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Ficção científica",
+      "Animação",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "064-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "064-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Cidade Cyberpunk de Shinjuku",
+          "overview": "Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected truth.",
+          "cover": "https://image.tmdb.org/t/p/w780/wYr3HWgCkBUK2xfSnzbAHbua6WZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O Lorde Demônio e seus vassalos",
+          "overview": "Veltol learns of his former vassal Marcus’s betrayal firsthand. Meanwhile, Machina shows Veltol around the city. While Veltol struggles to adapt to the completely altered world of the future, Machina introduces him to someone.",
+          "cover": "https://image.tmdb.org/t/p/w780/dV8zxzgQTWE2O1msnwJ9aQ1bKzr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "[STREAM DE ESTREIA] O Lorde Demônio Veltol surgiu!",
+          "overview": "Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal. He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence. Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day, and Veltol is intrigued by the sight of a particular vagabond.",
+          "cover": "https://image.tmdb.org/t/p/w780/pCLu1OYl4WVdyhxqjwtSwFy9MFr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "As sombras de Shinjuku",
+          "overview": "Veltol is asked to work as Takahashi’s bodyguard. Hoping to test the strength of his restored faith as well, Veltol planned to launch a surprise attack on the yakuza, but their run-of-the-mill heist leads to unexpected developments, swallowing the two of them deeper into the city’s dark underbelly.",
+          "cover": "https://image.tmdb.org/t/p/w780/ecnudmJT27zvJYE5H9TZMBwzwxY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "As profundezas do cadinho",
+          "overview": "Machina lets her thoughts drift to Veltol as she prepares dinner. Meanwhile, Veltol learns new facts about the Immortal Furnace, and while he tries to inform Machina using Whisper magic, he gets no response. At the same time, Machina has an unexpected visitor…",
+          "cover": "https://image.tmdb.org/t/p/w780/8OCev7WSr4iLrGHDBDEQNUELIuL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A Batalha do Herói",
+          "overview": "The Immortal Furnace lies directly below the Aether Reactor of Shinjuku, and Machina flies into a rage when Marcus reveals an appalling truth about immortals. Meanwhile, Kinohara stands in the way of Veltol’s group. After Gram takes an attack for him, Veltol issues his orders.",
+          "cover": "https://image.tmdb.org/t/p/w780/quFWM6Y7p8irwQpf3EpZzMjlvYS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "A Ressurreição do Lorde Demônio",
+          "overview": "Trusting Gram to handle Kinohara, Veltol reaches the Immortal Furnace. He grills Marcus about his betrayal of the immortals and why he kidnapped Machina. The legendary Demon Lord faces Shinjuku’s ruler. The former lord and vassal cross blades in this new world.",
+          "cover": "https://image.tmdb.org/t/p/w780/hP7hJX790ykj9Y3MSA09RHWmqdS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Cidade Cibermagia Akihabara",
+          "overview": "Hizuki Reynard-Yamada heaves another deep sigh in class at the Akihabara Private School of Magic \"Lu Xel\". Meanwhile, Veltol defeats Marcus and safely rescues Machina. What he seeks next lies somewhere in Akihabara City…",
+          "cover": "https://image.tmdb.org/t/p/w780/jRJyE05fNJDY3XX05BowGOhsjGt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O estudante pobre e o estudante intercambista",
+          "overview": "Veltol, Machina, and Takahashi infiltrate Lu Xel under the pretense of a short-term exchange program so they can search for the regalia. When the three sit around a table in the school cafeteria, the school’s top student—Albert—begins provoking Hizuki Reynard-Yamada, the woman seated nearby.",
+          "cover": "https://image.tmdb.org/t/p/w780/hvIle9xqPJbpq6WsGne6kmMsimo.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "As três grandes casas de Akihabara",
+          "overview": "Veltol and the others go to Electric Town and visit the maid café Helheim, where Hizuki works. While experiencing the unique services the maid café provides, Veltol asks Hizuki about the regalia. Afterward, the four head out into Electric Town where they encounter a certain someone.",
+          "cover": "https://image.tmdb.org/t/p/w780/gUSOnODrc45dS0XZ8EYEWSqbwQc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A Deusa Reencarnada",
+          "overview": "After heading out into Electric Town, Veltol’s group visits the mansion of the Reynard family. After entertaining them, Hizuki heads for the bathroom… only to find Veltol already there! The next day, Hizuki hears people talking about the explosion in Electric Town.",
+          "cover": "https://image.tmdb.org/t/p/w780/hbNSGFwkeAuqZJcRXCMocy7jQy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "064-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "O Retorno do Senhor",
+          "overview": "Thanks to Mag Rosanta’s plot, the goddess Meldia has manifested by using Hizuki as a vessel. Veltol battles Meldia in an attempt to save Hizuki. Meanwhile, Machina faces a young girl wearing a visor. What will happen to Akihabara City and the conflict between Electric Town and Magic Town?",
+          "cover": "https://image.tmdb.org/t/p/w780/2iq4ALBeAEWe48F4j6bXsjh042O.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/m/maou-2099/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
