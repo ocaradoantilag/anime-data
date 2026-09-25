@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T22:53:06Z",
+  "updatedAt": "2026-09-24T22:58:52Z",
   "animes": [
     {
       "id": "relife",
@@ -630,6 +630,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/059.json"
+    },
+    {
+      "id": "060",
+      "title": "Fire Force",
+      "cover": "https://image.tmdb.org/t/p/w780/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "year": 2019,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/060.json"
     }
   ]
 }
