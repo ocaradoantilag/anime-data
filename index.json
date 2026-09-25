@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T00:01:03Z",
+  "updatedAt": "2026-09-25T00:08:16Z",
   "animes": [
     {
       "id": "relife",
@@ -726,6 +726,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/067.json"
+    },
+    {
+      "id": "068",
+      "title": "Betrothed to My Sister's Ex",
+      "cover": "https://image.tmdb.org/t/p/w780/kwV4MylQoDhz14Qd54z3Hq4qppf.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/068.json"
     }
   ]
 }
