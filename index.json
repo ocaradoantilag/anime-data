@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T23:08:00Z",
+  "updatedAt": "2026-09-24T23:13:13Z",
   "animes": [
     {
       "id": "relife",
@@ -666,6 +666,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/062.json"
+    },
+    {
+      "id": "063",
+      "title": "Gachiakuta",
+      "cover": "https://image.tmdb.org/t/p/w780/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg",
+      "year": 2025,
+      "type": "TV",
+      "episodes": 24,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/063.json"
     }
   ]
 }
