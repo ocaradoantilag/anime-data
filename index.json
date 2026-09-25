@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T00:19:32Z",
+  "updatedAt": "2026-09-25T00:25:39Z",
   "animes": [
     {
       "id": "relife",
@@ -750,6 +750,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/069.json"
+    },
+    {
+      "id": "070",
+      "title": "Witch Craft Works",
+      "cover": "https://image.tmdb.org/t/p/w780/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+      "year": 2014,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/070.json"
     }
   ]
 }
