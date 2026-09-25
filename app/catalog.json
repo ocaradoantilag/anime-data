@@ -247,6 +247,12 @@
       "file": "Anime/anime/005.json"
     },
     {
+      "id": "058",
+      "title": "Rokudenashi Majutsu Koushi to Akashic Records",
+      "cover": "https://image.tmdb.org/t/p/w780/drBuXuI6D7d7n0YntzTmLafQPJf.jpg",
+      "file": "anime/058.json"
+    },
+    {
       "id": "014",
       "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
       "cover": "https://image.tmdb.org/t/p/w780/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg",
