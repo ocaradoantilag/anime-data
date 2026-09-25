@@ -329,6 +329,12 @@
       "title": "Undead Unluck",
       "cover": "https://image.tmdb.org/t/p/w780/62LKH8aho4EeZmcpYks9DvxyHxB.jpg",
       "file": "anime/047.json"
+    },
+    {
+      "id": "059",
+      "title": "魔女と野獣",
+      "cover": "https://image.tmdb.org/t/p/w780/2XJqQO9S8JsxI6ohoZgNckUqxuI.jpg",
+      "file": "anime/059.json"
     }
   ]
 }
