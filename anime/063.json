@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "id": "063",
+  "updatedAt": "2026-09-24T23:13:11Z",
+  "title": {
+    "romaji": "Gachiakuta",
+    "english": "Gachiakuta",
+    "japanese": "ガチアクタ",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "59062",
+    "tmdb": "256721",
+    "imdb": "tt32612521"
+  },
+  "information": {
+    "synopsis": "Em uma cidade flutuante onde os ricos descartam seu lixo (e pessoas), Rudo é acusado falsamente de homicídio e jogado no Abismo, um lugar infernal onde vivem monstros de lixo mutantes. Para sobreviver, ele precisa conquistar um novo poder e se unir aos errantes Zeladores. Rudo não quer apenas lutar com os monstros, mas também contra os corruptos que o jogaram no Inferno.",
+    "year": 2025,
+    "score": 8.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "bones film"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "063-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "063-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A Esfera",
+          "overview": "Bullied outcast Rudo finds respite in repurposing trash, until a terrible tragedy changes his life forever.",
+          "cover": "https://image.tmdb.org/t/p/w780/gUg7D9CpjpCHUue0OAHVemG55Rs.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O habitado",
+          "overview": "Cast into the Pit, Rudo is saved by the mysterious Enjin who may not have his best interests at heart.",
+          "cover": "https://image.tmdb.org/t/p/w780/bx5BDggucxheJqYfmMYzNRU3zfx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O chão",
+          "overview": "Enjin is a Giver, a being who can give life to things and draw out their power. Ludo, who has also awakened to his power as a Giver, is scouted by Enjin to join an organization called the Cleaners, which fights against the Spotted Beasts born from garbage. Ludo accepts the offer in order to find a way to return to the Heavenly World where he has lived until now, but he suddenly gets into a fight with his trainer, Zanca.",
+          "cover": "https://image.tmdb.org/t/p/w780/bmWMdGBlTLKOwbX7d5EQiOZBtFX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "QG de limpeza",
+          "overview": "After being introduced to Cleaner HQ, Rudo follows Riyo on a job to learn the business.",
+          "cover": "https://image.tmdb.org/t/p/w780/7Y3O7q3mOt9f4FSChUIFyAZyRGa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Invasores",
+          "overview": "The Cleaners go on a job to save another Sphereite who survived the fall. Rudo tags along to learn more.",
+          "cover": "https://image.tmdb.org/t/p/w780/ztEDVMzddKRUQtvExgKaOVd8pHw.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Uma boa greve!!",
+          "overview": "With the job having gone terribly wrong, Rudo finds himself face to face with a merciless Raider named Jabber.",
+          "cover": "https://image.tmdb.org/t/p/w780/eWgtva5EavsnGIf3fRZD6Lxj7ge.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Uma pontuação para acertar",
+          "overview": "Jabber employs a new strategy to get through Rudo's defenses, and another ally joins the fray.",
+          "cover": "https://image.tmdb.org/t/p/w780/ne5S6caYYa5hr3yuZR9ZkmPQ9qn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Seguindo em frente",
+          "overview": "Rudo deals with the emotional aftermath of the Jabber fight and gets a new lead about returning to the Sphere.",
+          "cover": "https://image.tmdb.org/t/p/w780/3caLcoFAgTPEA4QDMxJWUFIFR6g.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "A cidade do graffiti",
+          "overview": "To get a \"spell\" for their next mission, the Cleaners head to Canvas Town, where they make a tragic discovery.",
+          "cover": "https://image.tmdb.org/t/p/w780/qJ4aOklpW9t9HLltLo8y3HthOZL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Penta: O Deserto, Terra de Ninguém",
+          "overview": "With their gear-up complete, the crew heads into the No Man's Land, Penta, to get clues about the Sphere.",
+          "cover": "https://image.tmdb.org/t/p/w780/e2iniIW4GZOfpzsYm3Gs9V3rrTa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Hospitalidade de Amo",
+          "overview": "A mysterious woman living in the No Man's Land challenges the crew from an unexpected angle.",
+          "cover": "https://image.tmdb.org/t/p/w780/a8FkL2y74TlH8T7FroXRVPn2O9a.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Algo como uma maldição",
+          "overview": "Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an unexpected reaction.",
+          "cover": "https://image.tmdb.org/t/p/w780/iM9y3lJYQXifyvu9NPZIXW1qKGk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Um olhar vazio",
+          "overview": "Amo tells the story of how she came to the tower and of the \"angels\" who came to visit her.",
+          "cover": "https://image.tmdb.org/t/p/w780/bf1akAaPwfA8X5s2rVBwXj6Fl4I.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "A tempestade antes da tempestade",
+          "overview": "After returning from the Penta No Man's Land, Rudo and the Cleaners face a series of new threats.",
+          "cover": "https://image.tmdb.org/t/p/w780/efY8OZLlkjYZTXap0CQzXlUkVyH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Choque!",
+          "overview": "Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and Zodyl makes Rudo an offer.",
+          "cover": "https://image.tmdb.org/t/p/w780/1Qzvoq3MddBP6GigTKgHxp4l3pS.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Dotado e não",
+          "overview": "Bundus interrogates the Santas while Zanka struggles to keep pace with a powered-up Jabber.",
+          "cover": "https://image.tmdb.org/t/p/w780/tKw1vSpYAYgQGPjzLFUj2R8QBXp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Memórias de uma mediocridade",
+          "overview": "Zanka reflects on the turning point in his past that brought him to where he is today.",
+          "cover": "https://image.tmdb.org/t/p/w780/bgZMvarva22hUXqCF5tG2JmB0KK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Oh Zap, sacolas legítimas",
+          "overview": "While the Raiders-Cleaners conflicts continue, the battle between Riyo and Noerde heats up.",
+          "cover": "https://image.tmdb.org/t/p/w780/o4Ikkls2J1Kc52AU3tj0DcP09Q7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Série Vigilantes",
+          "overview": "Zodyl reveals his plan to reach the Sphere, and the other Cleaners react to their current circumstances.",
+          "cover": "https://image.tmdb.org/t/p/w780/bHM5XVcofXakYQxAqj8wcK1ng1P.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Bandeira",
+          "overview": "As the battle climaxes, Enjin makes a play to unite his team, and Zodyl makes his final entreaty to Rudo.",
+          "cover": "https://image.tmdb.org/t/p/w780/yg7Czklh7ZMyMy15IGvj2tS5J7R.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Corrida contra o tempo",
+          "overview": "Exiled from his home, Rudo seeks vengeance on those responsible. But first, he must survive a wasteland.",
+          "cover": "https://image.tmdb.org/t/p/w780/c1t00n7NQBuYhAgUCzhtEoucELt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "O poder da proteção",
+          "overview": "Noerde is doing everything he can to prevent the cleaning crew from escaping before they cross the border on the haphazard contraption.",
+          "cover": "https://image.tmdb.org/t/p/w780/2In8eyBswA8ZqgGYxNcTqXserAr.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "O homem que será mais forte",
+          "overview": "As the Cleaners take stock after the battle, a convalescing Zanka receives some surprising news.",
+          "cover": "https://image.tmdb.org/t/p/w780/tfk85anbQEgvBsR068Q2AbrVdvN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "063-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "Viagem de campo",
+          "overview": "Rudo and the other child Cleaners take a trip to Canvas Town while Corvus entertains some unwanted guests.",
+          "cover": "https://image.tmdb.org/t/p/w780/fQeMJrYCrT4qMzgysELkLruxhdt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/g/gachiakuta/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
