@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T23:13:13Z",
+  "updatedAt": "2026-09-24T23:22:42Z",
   "animes": [
     {
       "id": "relife",
@@ -678,6 +678,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/063.json"
+    },
+    {
+      "id": "064",
+      "title": "DEMON LORD 2099",
+      "cover": "https://image.tmdb.org/t/p/w780/mU7QgTm2WadwVoT7jDyMY9Czpsj.jpg",
+      "year": 2024,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/064.json"
     }
   ]
 }
