@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "071",
+  "updatedAt": "2026-09-25T18:16:05Z",
+  "title": {
+    "romaji": "Death March Kara Hajimaru Isekai Kyousoukyoku",
+    "english": "Death March to the Parallel World Rhapsody",
+    "japanese": "デスマーチからはじまる異世界狂想曲",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/4rHRzkBEzkejL8DsFdAREBSHLzd.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/pv7CjeqAsN1fH5k8oUxs3lJUorJ.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "34497",
+    "tmdb": "76122",
+    "imdb": "tt7712706"
+  },
+  "information": {
+    "synopsis": "“Satou,” também conhecido como Ichiro Suzuki, é um programador no meio de uma marcha da morte. Ele só foi tirar um cochilo, mas sem querer acordou em outro mundo... Diante da tela de menu do jogo no qual ele estava trabalhando antes de adormecer. Ele é um personagem completamente novo, ainda no nivel 1. De repente, um grupo numeroso de homens-lagarto aparece diante dele. Para sobreviver, Satou usa uma Chuva de Meteoro - e com isso, sobe para o nível 310 e fica cheio da grana. Seja sonho ou realidade, a jornada de Satou está só começando.",
+    "year": 2018,
+    "score": 6.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Inverno",
+    "aired": "",
+    "studios": [
+      "SILVER LINK."
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Animação",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "071-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2018,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "071-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A catástrofe que começou com uma marcha da morte",
+          "overview": "Suzuki Ichirou is a programmer who is working a death march to keep up with nightmare combination of unreasonable deadlines and unreliable coworkers. After crawling under his desk for some much-needed shut-eye, he awakes to find himself in a familiar, but distinct, fantasy world.",
+          "cover": "https://image.tmdb.org/t/p/w780/ynZSpVFtBBhvekIsGQvjpGFLcXm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Explorando uma cidade que começou com uma marcha mortal",
+          "overview": "Satou seems to be stuck in the parallel world that looks like an amalgamation of the game projects he's worked on. And while his insider knowledge of the world's systems gives him an advantage, he still needs to find his bearings before he can start planning what to do next. To that end, he heads to the nearest city to establish a base of operations.",
+          "cover": "https://image.tmdb.org/t/p/w780/uyJcbGSk8hj6hsipRon9S0lxFq6.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Amor que começou com uma marcha mortal",
+          "overview": "Satou is shown around the city by Zena when they encounter demi-human slaves who are being abused by a mob. But prejudice isn't the only problem when everyone suddenly finds themselves deep in a dangerous labyrinth.",
+          "cover": "https://image.tmdb.org/t/p/w780/dsVFjSBh9XiTyIguZwGloB7eqgX.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Exploração do labirinto que começou com uma marcha mortal",
+          "overview": "With the aid of the slaves he was trying to help, Satou gradually starts his trek to escape the labyrinth, and rescue the other people who were trapped with him.",
+          "cover": "https://image.tmdb.org/t/p/w780/w7Rnfd3huBso5m4JJExGU57u7U4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "A princesa maluca que começou com uma marcha mortal",
+          "overview": "Satou chooses to become Tama, Pochi, and Liz's new master rather than let them return to a life of slavery. He also ends up with the strange sisters Arisa and Lulu, the younger of which seems to have a secret tied to Satou's original world...",
+          "cover": "https://image.tmdb.org/t/p/w780/pFiyswqtmRkiX82Jic8qVRHNTH2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Defesa da cidade que começou com uma marcha mortal",
+          "overview": "With five girls now in his care, Satou needs to find more permanent lodging. Unfortunately his real estate ventures will have to wait, as the city comes under attack by giant insects!",
+          "cover": "https://image.tmdb.org/t/p/w780/lysRgg749pEbVrdUQKkDnPbn5NH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Lições de acampamento que começaram com uma marcha mortal",
+          "overview": "Satou and the gang make plans to help return the elf girl that he rescued to her home in the forest, but first they need to prepare for the long trip by learning how to rough it outdoors.",
+          "cover": "https://image.tmdb.org/t/p/w780/uT4hw3ZSm8L2D1kDPkXpcbS6xZF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Imortalidade que começou com uma marcha mortal",
+          "overview": "Mia has been kidnapped, and Satou is hot on the trail of the strange specter that took her. The path leads to the place she originally was rescued from, the massive tower known as the Cradle.",
+          "cover": "https://image.tmdb.org/t/p/w780/90SDD8LMxouhwkuYW1EmTE0IYc2.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Apego profundamente arraigado que começou com uma marcha mortal",
+          "overview": "Satou reaches the top of the Cradle, but he won't be able to take Mia back before confronting a final challenge... One that will end with a surprising addition to his entourage.",
+          "cover": "https://image.tmdb.org/t/p/w780/pfTdtmPVGTbJuJqinzcahKTW63V.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "A canção de caça que começou com uma marcha mortal",
+          "overview": "The journey to return Mia home begins, giving Satou a chance to experiment with the functionality of the fantasy world during the long trip.",
+          "cover": "https://image.tmdb.org/t/p/w780/w8uhidzKobYFhMBs27rbXxxGu1N.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A conspiração de fantasia que começou com uma marcha mortal",
+          "overview": "The journey to take Mia home continues, with Satou running afoul the local nobles by disrupting their scheme involving the distribution of healing potions.",
+          "cover": "https://image.tmdb.org/t/p/w780/7YdplCWNszmhHnRSA6NqKl9rlWV.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "071-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Uma viagem ao submundo que começou com uma marcha mortal",
+          "overview": "Satou has to deliver on an arrangement where countless factors have been twisted against him, but will that be enough to keep him from pulling through?",
+          "cover": "https://image.tmdb.org/t/p/w780/ikhoc1xSSpK1iMkeJ84UF2apX7T.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/d/death-march-kara-hajimaru-isekai-kyousoukyoku/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
