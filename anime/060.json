@@ -1,0 +1,619 @@
+{
+  "schemaVersion": 1,
+  "id": "060",
+  "updatedAt": "2026-09-24T22:58:50Z",
+  "title": {
+    "romaji": "Enen no Shouboutai",
+    "english": "Fire Force",
+    "japanese": "炎炎ノ消防隊",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "38671",
+    "tmdb": "88046",
+    "imdb": "tt9307686"
+  },
+  "information": {
+    "synopsis": "Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!",
+    "year": 2019,
+    "score": 7.6,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "david production"
+    ],
+    "genres": [
+      "Ação",
+      "Drama",
+      "Ficção científica",
+      "Sobrenatural",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Comédia"
+    ],
+    "themes": [],
+    "episodes": 24
+  },
+  "episodes": 24,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "060-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2019,
+      "status": "Finalizado",
+      "episodeCount": 24,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "060-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Shinra Kusakabe se alista",
+          "overview": "On his first day with Special Fire Force Company 8, Shinra Kusakabe, a third-generation pyrokinetic who is able to produces flames from his feet, meets his fellow company members and begins to fulfil his wish of becoming a hero.",
+          "cover": "https://image.tmdb.org/t/p/w780/2OWHHF5wGZ7cU1VlqDc4L2nwhng.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "O coração de um soldado bombeiro",
+          "overview": "Arthur Boyle, the self-professed “Knight King,” arrives at Company 8, and immediately, there are tensions between him and Shinra. With the Rookie Games coming up, Hinawa wants to see what the two new recruits are really capable of.",
+          "cover": "https://image.tmdb.org/t/p/w780/o0Y2Ln91IMj3uUIM1hJj6eqcHWQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Os jogos do soldado bombeiro novato",
+          "overview": "Shinra and Arthur compete in the Rookie Fire Soldier Games, a contest to test the abilities of each year’s newest recruits. However, they are interrupted at the goal by the mysterious man who created explosions at their last fire scene.",
+          "cover": "https://image.tmdb.org/t/p/w780/6aiFNvCcv5593e4a6CVsN1VvJv7.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "O herói e a princesa",
+          "overview": "A call mistakenly comes in to Company 8 to rescue a dog out of a tree, to which Shinra and Arthur respond. However, when an Infernal suddenly appears at the district courthouse, the two must play catch-up to join the rest of the company.",
+          "cover": "https://image.tmdb.org/t/p/w780/cHIyHmCOUaEl3W8bLqIjXZ5J7sk.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "A batalha começa",
+          "overview": "While jogging, Shinra inadvertently disturbs Iris’s purification rite, and sees that she is troubled. When Iris later turns up missing, the other members of Company 8 rally to Company 5’s compound, to which Iris had secretly slipped away.",
+          "cover": "https://image.tmdb.org/t/p/w780/5MXiQW13qR4SMLUKMupDGIVX2KR.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A centelha da promessa",
+          "overview": "Shinra confronts Hibana in an attempt to rescue Iris, and must once again deal with her ability to make his body shut down. The story of Hibana and Iris’ youth as orphans, as well as Hibana’s rise to prominence, is revealed.",
+          "cover": "https://image.tmdb.org/t/p/w780/ykWfYxu1VGROLptPqOim49yjI8r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "A Investigação do 1º Começa",
+          "overview": "The members of Company 5 and 8 get together for a cookout, ostensibly to celebrate a successful nighttime training exercise. Using the bylaws of the Special Fire Force, Obi gets Shinra and Arthur temporarily assigned to the 1st to investigate it.",
+          "cover": "https://image.tmdb.org/t/p/w780/124ZSqCAPZnrBW35brkVuK0DURQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Insetos Infernais",
+          "overview": "Obi goes over Hibana’s research, and learns that the artificially-created Infernals she dissected all had traces of insect DNA in them. Shinra and Arthur’s investigation at the 1st continues, and they finally get their first lead on a culprit.",
+          "cover": "https://image.tmdb.org/t/p/w780/nrrPvzxEwN75T3s0TF5UMzB4xQn.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "A malícia que se espalha",
+          "overview": "Tamaki watches on as Shinra confronts Rekka over his actions, and reminisces about how she once looked up to the lieutenant. Rekka reveals his objective in seeking out compatible children, one which could spell disaster for the entire world.",
+          "cover": "https://image.tmdb.org/t/p/w780/eWLGY5LrVFKPKs5go4mrwvfjKEy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "A promessa",
+          "overview": "A captains’ conference is convened to allow the Special Fire Force to discuss the situation with the Evangelist and the White-Clad. Shinra once again has an encounter with Joker, in which startling information about Shinra’s brother is revealed.",
+          "cover": "https://image.tmdb.org/t/p/w780/9srqqZAzMW7S6snGGr5yDkl0VFy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Formação da Companhia Especial de Bombeiros 8 / The Mightiest Hikeshi",
+          "overview": "While Company 8 searches for clues about the Evangelist, Hinawa recounts the tale of how the company originally came into existence. A lead prompts the crew to pay a visit to Company 7’s jurisdiction in Asakusa, and its captain, Benimaru.",
+          "cover": "https://image.tmdb.org/t/p/w780/4kErkTtZZaMvnJDi0be3EVyZEee.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Véspera das Hostilidades em Asakusa",
+          "overview": "Company 8 pitches in to help rebuild Asakusa after the latest Infernal incident, helping to gain the trust of its people. However, a White-Clad plot threatens to undo all of their goodwill, prompting Obi to take matters into his own hands.",
+          "cover": "https://image.tmdb.org/t/p/w780/biVy4na1k6lS1uZKRZSanai5v6J.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "A armadilha está armada",
+          "overview": "With Konro’s help, the members of the 8th begin investigating events in the 7th’s jurisdiction. Chaos breaks out one dozens of cases of mistaken identity crop up, and the town’s people turn on each other. The 8th comes under White-Clad attack.",
+          "cover": "https://image.tmdb.org/t/p/w780/qnbZ77nAPD2nl9sVfIhutZlWr2j.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "Para quem as chamas queimam",
+          "overview": "As Asakusa burns around them, Konro encourages Benimaru to step into his role as a community leader. Benimaru devises a way for the townspeople to foil the designs of the impostors among the crowd. Konro reaches out to Shinra for help.",
+          "cover": "https://image.tmdb.org/t/p/w780/duudBJkS71aRder9CUMykMYTxbb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "O sonho do ferreiro",
+          "overview": "Viktor Licht is assigned to Company 8 as its forensic scientist, but he is viewed with suspicion, since the assignment came from Haijima. Obi sends Shinra, Arthur and Iris to speak to a man named Vulcan about joining the 8th as its engineer.",
+          "cover": "https://image.tmdb.org/t/p/w780/l0LrgVnbrFh9fWeaq7C5vgqil6K.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-16",
+          "number": "16",
+          "sortOrder": 16,
+          "title": "Nós somos uma família",
+          "overview": "Vulcan teaches Yu a lesson in the importance of forging things that cannot be broken, and his hope to create similarly unbreakable family ties. Sensing a threat to Vulcan, the members of Company 8 take up positions to keep him safe.",
+          "cover": "https://image.tmdb.org/t/p/w780/fBXakIvdE0UZkeMG3fk2ZD1II9F.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/16.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-17",
+          "number": "17",
+          "sortOrder": 17,
+          "title": "Preto e Branco e Cinza",
+          "overview": "While Dr. Giovanni continues to search Vulcan’s workshop, Hibana comes to Shinra’s aid, allowing him to rush back to help Vulcan. Meanwhile, Arthur has his hands full trying to deal with Mirage’s illusions, and Iris resists in her own way.",
+          "cover": "https://image.tmdb.org/t/p/w780/oYMOoCjLQ5nhQTUxOhjH7MuRdVx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/17.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-18",
+          "number": "18",
+          "sortOrder": 18,
+          "title": "Os segredos da pirocinese",
+          "overview": "Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills.",
+          "cover": "https://image.tmdb.org/t/p/w780/hPShwKq5tm8r4VnohuGanYkpXyy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/18.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-19",
+          "number": "19",
+          "sortOrder": 19,
+          "title": "Para o Nether",
+          "overview": "Licht’s analysis of the attack on Vulcan’s workshop reveals that the Evangelist’s men have been in the “Nether,” the area beneath Tokyo. Company 8 proceeds underground in search of the White-Clad and the secrets behind human combustion.",
+          "cover": "https://image.tmdb.org/t/p/w780/uEMHxCagxXalMrKOXqzjQ9NDWbq.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/19.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-20",
+          "number": "20",
+          "sortOrder": 20,
+          "title": "Vestindo Seu Orgulho",
+          "overview": "Hinawa comes upon an abandoned subway station, where he gets into a shootout with Arrow. Arthur and Mirage find themselves in a rematch, as Arthur gets the chance to put the training he received from Benimaru and Konro to the test.",
+          "cover": "https://image.tmdb.org/t/p/w780/p7YIyNsv4KhYR3OhvtwGViu2rge.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/20.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-21",
+          "number": "21",
+          "sortOrder": 21,
+          "title": "Aqueles conectados",
+          "overview": "Obi and Vulcan face off against Dr. Giovanni and Lisa, during which Giovanni tells Obi more about the nature of Adolla Bursts. Shinra has an unusual experience that leads him to find Sho, but their reunion proves more volatile than hoped for.",
+          "cover": "https://image.tmdb.org/t/p/w780/wJ9Z8v6s6liuEYtOpDzsgslaS1X.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/21.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-22",
+          "number": "22",
+          "sortOrder": 22,
+          "title": "A determinação de um irmão",
+          "overview": "As Shinra and Sho continue to share their Adolla Link, Shinra learns a startling truth about the origin of his Adolla Burst flame. Shinra comes to understand the Link’s nature further, developing his skills even more in his effort to reach Sho.",
+          "cover": "https://image.tmdb.org/t/p/w780/AcjSO3Ky8aEXlyJO3DD6rWYbypM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/22.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-23",
+          "number": "23",
+          "sortOrder": 23,
+          "title": "Sorriso",
+          "overview": "Shinra revisits his childhood to share his memories with Sho, to try to forge a deeper connection. When one of their own is critically injured, the members of the 8th rally to the rescue, and turn to Captain Huang of the 6th for assistance.",
+          "cover": "https://image.tmdb.org/t/p/w780/4BdI9SH6LYCO98ck7ICVXLX5VJB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/23.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "060-1-24",
+          "number": "24",
+          "sortOrder": 24,
+          "title": "O passado ardente",
+          "overview": "Before being discharged from the hospital, Shinra is visited by Captain Burns, who offers to tell him all about the fire that happened 12 years ago, but only if Shinra can demonstrate that he is strong enough to hear the whole truth.",
+          "cover": "https://image.tmdb.org/t/p/w780/9KatPe3wyu7us8bAswBbf9doHXy.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/e/enen-no-shouboutai/24.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
