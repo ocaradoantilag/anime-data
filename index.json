@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T23:22:42Z",
+  "updatedAt": "2026-09-24T23:31:21Z",
   "animes": [
     {
       "id": "relife",
@@ -690,6 +690,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/064.json"
+    },
+    {
+      "id": "065",
+      "title": "Senhor dos Mistérios",
+      "cover": "https://image.tmdb.org/t/p/w780/jd779Wg2stNJt4Qt943XTD8Ntg5.jpg",
+      "year": 2025,
+      "type": "ONA",
+      "episodes": 13,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/065.json"
     }
   ]
 }
