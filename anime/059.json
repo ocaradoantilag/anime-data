@@ -3,38 +3,43 @@
   "id": "059",
   "updatedAt": "2026-09-24T22:53:03Z",
   "title": {
-    "romaji": "魔女と野獣",
+    "romaji": "Majo to Yajuu",
     "english": "The Witch and the Beast",
     "japanese": "魔女と野獣",
     "synonyms": []
   },
   "images": {
-    "cover": "https://image.tmdb.org/t/p/w780/2XJqQO9S8JsxI6ohoZgNckUqxuI.jpg",
+    "cover": "https://image.tmdb.org/t/p/w780/ooSzpaJkU8MnfuLKn0IThcACv57.jpg",
     "background": [
       "https://image.tmdb.org/t/p/w1280/3sOWWRpSEGrljd8O50KLmOIdIPn.jpg"
     ]
   },
   "externalIds": {
-    "mal": "",
+    "mal": "52816",
     "tmdb": "208445",
     "imdb": "tt30089363"
   },
   "information": {
     "synopsis": "Tudo começou com as \"17 Origens\", cujos poderes foram transmitidos a indivíduos que ainda existem em todo o mundo nos dias de hoje. Um homem misterioso carregando um caixão e uma garota de olhos selvagens chegam a uma cidade. A garota está amaldiçoada por uma bruxa e busca desesperadamente por ela para quebrar o feitiço. A bruxa, finalmente encontrada, é realmente quem eles procuravam? E como essa maldição pode ser desfeita? A jornada de vingança contra a bruxa malévola começa quando a garota captura sua presa! Assim começa essa intensa e envolvente fantasia sombria!",
     "year": 2024,
-    "score": 7.69,
+    "score": 7.3,
     "ageRating": "",
     "type": "TV",
     "status": "Finalizado",
-    "duration": "",
-    "season": "",
+    "duration": "24 min per ep.",
+    "season": "Inverno",
     "aired": "",
-    "studios": [],
+    "studios": [
+      "Yokohama Animation Lab"
+    ],
     "genres": [
-      "Animação",
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Animation",
       "Sci-Fi & Fantasy",
-      "Action & Adventure",
-      "Drama"
+      "Action & Adventure"
     ],
     "themes": [],
     "episodes": 12
@@ -333,5 +338,29 @@
         }
       ]
     }
-  ]
+  ],
+  "cover": "https://image.tmdb.org/t/p/w780/ooSzpaJkU8MnfuLKn0IThcACv57.jpg",
+  "synopsis": "Tudo começou com as \"17 Origens\", cujos poderes foram transmitidos a indivíduos que ainda existem em todo o mundo nos dias de hoje. Um homem misterioso carregando um caixão e uma garota de olhos selvagens chegam a uma cidade. A garota está amaldiçoada por uma bruxa e busca desesperadamente por ela para quebrar o feitiço. A bruxa, finalmente encontrada, é realmente quem eles procuravam? E como essa maldição pode ser desfeita? A jornada de vingança contra a bruxa malévola começa quando a garota captura sua presa! Assim começa essa intensa e envolvente fantasia sombria!",
+  "description": "Tudo começou com as \"17 Origens\", cujos poderes foram transmitidos a indivíduos que ainda existem em todo o mundo nos dias de hoje. Um homem misterioso carregando um caixão e uma garota de olhos selvagens chegam a uma cidade. A garota está amaldiçoada por uma bruxa e busca desesperadamente por ela para quebrar o feitiço. A bruxa, finalmente encontrada, é realmente quem eles procuravam? E como essa maldição pode ser desfeita? A jornada de vingança contra a bruxa malévola começa quando a garota captura sua presa! Assim começa essa intensa e envolvente fantasia sombria!",
+  "year": 2024,
+  "score": 7.3,
+  "ageRating": "",
+  "type": "TV",
+  "status": "Finalizado",
+  "duration": "24 min per ep.",
+  "studios": [
+    "Yokohama Animation Lab"
+  ],
+  "season": "Inverno",
+  "aired": "",
+  "genres": [
+    "Ação",
+    "Aventura",
+    "Drama",
+    "Fantasia",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "themes": []
 }
