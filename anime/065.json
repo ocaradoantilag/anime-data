@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "id": "065",
+  "updatedAt": "2026-09-24T23:31:18Z",
+  "title": {
+    "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+    "english": "Senhor dos Mistérios",
+    "japanese": "诡秘之主 小丑篇",
+    "synonyms": [
+      "Lord of Mysteries",
+      "Lord of Mysteries: Clown Arc",
+      "Lord of the Mysteries",
+      "LOTM"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/jd779Wg2stNJt4Qt943XTD8Ntg5.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/gdvUUqWutEulHSB4JBoWWnbsLo6.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "49818",
+    "tmdb": "232230",
+    "imdb": "tt28618556"
+  },
+  "information": {
+    "synopsis": "Em um mundo vitoriano cheio de vapor, dreadnoughts e horrores ocultos, Zhou Mingrui desperta como Klein Moretti. Ele caminha no fio da navalha entre a luz e as trevas, enredado em Igrejas em guerra. Esta é a lenda do potencial ilimitado... e do perigo indescritível.",
+    "year": 2025,
+    "score": 8.61,
+    "ageRating": "18+",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "35 min per ep",
+    "season": "Null",
+    "aired": "2025-06-28 até 2025-08-16",
+    "studios": [
+      "B.CMAY PICTURES"
+    ],
+    "genres": [
+      "Ação",
+      "Fantasia",
+      "Mistério",
+      "Suspense"
+    ],
+    "themes": [
+      "Elenco adulto",
+      "Isekai"
+    ],
+    "episodes": 13
+  },
+  "episodes": 13,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "065-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 13,
+      "duration": "35 min per ep",
+      "episodes": [
+        {
+          "id": "065-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O tolo",
+          "overview": "Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the key to a dark power.",
+          "cover": "https://image.tmdb.org/t/p/w780/wfTjrlGMxqqpN8XZSuhYxX6pppT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lord-of-mysteries/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Além",
+          "overview": "Klein Moretti joins the Nighthawks and heads off on his first task to find an abducted child.",
+          "cover": "https://image.tmdb.org/t/p/w780/3TDIEmJE8osONAYSeZjcat2JmIN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/l/lord-of-mysteries/02v2.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O Caderno",
+          "overview": "Klein Moretti pursues the Antigonus Family's notebook and faces off against another Beyonder.",
+          "cover": "https://image.tmdb.org/t/p/w780/4LGytpB9h61MKvjlzTsuH30AyFI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/9f/s8/2/D/D/C/Z/DDCZy.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Espelho Mágico",
+          "overview": "Klein Moretti learns ritualistic magic from Old Neil. Meanwhile, an organization has their eyes on Klein.",
+          "cover": "https://image.tmdb.org/t/p/w780/bUAGKMgSAMsPZdDNkJFi20ZGuql.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/03/s8/2/W/A/l/3/WAl3y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Herói",
+          "overview": "A tragedy befalls a passenger ship and Klein Moretti is tasked with solving the mystery.",
+          "cover": "https://image.tmdb.org/t/p/w780/22ObUnPoLc8FkZvM18lqlSHHXvh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/07/s8/2/u/A/-/9/uA-9y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Professor",
+          "overview": "Klein Moretti discovers an ancient secret about his teacher, Azik Eggers.",
+          "cover": "https://image.tmdb.org/t/p/w780/kOvW9Ok2HNE1ymxv9sKAPHICL0L.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/ca/s8/2/s/d/G/5/sdG5y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Coincidência",
+          "overview": "When too many coincidences appear, Klein Moretti discovers he may be caught in an elaborate scheme.",
+          "cover": "https://image.tmdb.org/t/p/w780/hctPhfxfTu4ILMsdiILuhbVASVI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/78/s8/2/A/X/_/9/AX_9y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Perdendo o controle",
+          "overview": "Klein Moretti is on a mission, and the most dreaded fate that could happen to a Beyonder becomes reality.",
+          "cover": "https://image.tmdb.org/t/p/w780/lH3dxHzpl0E8oKgqRUrSL7asdxm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/2b/s8/2/u/W/_/9/uW_9y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Festa",
+          "overview": "Klein succeeds in ascending to Sequence 8, but this glorious moment is overshadowed by an event.",
+          "cover": "https://image.tmdb.org/t/p/w780/1KFT9OWPSehLkUuq6W5x2ji4aMp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/ae/s8/2/c/N/Z/_/cNZ_y.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Dica",
+          "overview": "Dunn and Klein attend the scene of a possibly supernatural murder of a congressman.",
+          "cover": "https://image.tmdb.org/t/p/w780/5G5621ZVJ5PrruUe8VU2oRlhPIa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/5a/s8/2/Y/w/P/b/YwPbz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Cérebro",
+          "overview": "Following Klein's suspicions, the Nighthawk investigates what Sharon Khoy is hiding.",
+          "cover": "https://image.tmdb.org/t/p/w780/9eWgNhITmBmQ3eebvFBjRwfrs9f.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/31/s8/2/G/t/K/d/GtKdz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "A bomba",
+          "overview": "Lanevus threatens to destroy Tingen, putting the Nighthawks in check.",
+          "cover": "https://image.tmdb.org/t/p/w780/fdUCnVgypUOlbsCF0dpIuiD8RaN.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/c6/s8/2/Q/i/k/k/Qikkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "065-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Luz",
+          "overview": "The Nighthawks defend Tingen from evil's descent, and past events are revealed to be more than coincidences.",
+          "cover": "https://image.tmdb.org/t/p/w780/l2qF75rKgFIkYXISSGHMh6OabN9.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/e5/s8/2/I/i/k/k/Iikkz.aaa.mp4?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
