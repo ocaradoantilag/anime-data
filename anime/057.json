@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "id": "057",
+  "updatedAt": "2026-09-24T22:37:27Z",
+  "title": {
+    "romaji": "THE NEW GATE",
+    "english": "O NOVO PORTÃO",
+    "japanese": "THE NEW GATE",
+    "synonyms": [
+      "THE NEW GATE"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/c1JCYZ6anQCKHxSgBPCtUdNnWoB.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/pELpFSbW0zIjlbQy42DrTZyS8nE.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "57100",
+    "tmdb": "239161",
+    "imdb": "tt31146105"
+  },
+  "information": {
+    "synopsis": "THE NEW GATE é um jogo online com vários jogadores. Um dia, o espaço virtual no jogo muda abruptamente, aprisionando pessoas do mundo real dentro dele. O jogador mais forte do jogo, um garoto chamado Shin, decide colocar um fim nessa loucura, mas o inimigo mais poderoso no mundo do jogo, Origin, está em seu caminho. Após uma luta de vida ou morte, a espada de Shin perfura Origin. Então, uma voz ressoa por todo o mundo, anunciando que Shin venceu o jogo e todos os jogadores capturados serão libertados. Enquanto todos finalmente saem do jogo, Shin também se prepara para deixar o mundo com o qual ele tanto se familiarizou, mas então um novo portal se abre diante dele... e diante dele se estende o mundo de THE NEW GATE... de 500 anos no futuro!",
+    "year": 2024,
+    "score": 6.4,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "CLOUDHEARTS",
+      "Yokohama Animation Lab"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "057-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "057-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "A Terceira Verdade",
+          "overview": "When Shin finds himself trapped in a video game turned deadly with thousands of other players, he fights until the bitter end to free everyone. His reward? Waking up inside the game five hundred years later, where he must now forge a new legend!",
+          "cover": "https://image.tmdb.org/t/p/w780/8ULWI934J1h3ixx1Wt5Md6W0gA5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Um pequeno parceiro",
+          "overview": "In an attempt to avoid unwanted attention, Shin tries to keep a low profile as word of his deeds already begins spreading through town. But even so, a curious request from a curious girl has him back in the northern woods on a rescue mission.",
+          "cover": "https://image.tmdb.org/t/p/w780/yJbRREsyfdQpxsHsZoVkoQHg56f.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Um pedido estranho",
+          "overview": "Shin finds a strange request from the church orphanage on the guild board. Intrigued and hoping to learn more about the orphan girl he met before anyway, he decides to go scope out the situation there.",
+          "cover": "https://image.tmdb.org/t/p/w780/ifEhjZjeclGEzBnQmu9rZWBiAEI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Depois da longa noite",
+          "overview": "Shin escorts a young nun on a mission into the Ghost Plains, notorious for spawning undead at frightening rates. Shin's going to find more than he bargained for there, both for better and for worse.",
+          "cover": "https://image.tmdb.org/t/p/w780/2d5RltufJkN98RnrbZyTFiicINf.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Uma pausa momentânea",
+          "overview": "Now that the immediate danger has passed, Shin opens up to Wilhelm and catches up with an old friend. Then it's time to plan for his next adventure. This world has secrets, and Shin is still determined to figure them out.",
+          "cover": "https://image.tmdb.org/t/p/w780/mg9TQ7oa2UgWXM0Ex8PxDWjwbAp.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Missão de escolta",
+          "overview": "Shin and Tiera begin making preparations for the trip ahead of them. Then, on the way out of town, they pick up Tiera's first adventurers guild quest: an escort mission for a merchant.",
+          "cover": "https://image.tmdb.org/t/p/w780/ryx9ml9Oj8iYmOJwa7HHPzNPT5G.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Bayreun",
+          "overview": "Shin and Tiera complete their quest and reach Bayreun, where they'll make a few important acquisitions and meet up with Schnee before setting out on the second half of their journey.",
+          "cover": "https://image.tmdb.org/t/p/w780/kx04EEaAkcRJytRWAv0OZJR5Yjh.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Confiável e confiável",
+          "overview": "Shin and company reach the Farnid Beast Alliance, where they meet Shin's former companion and the nation's first king, Girart. After five hundred long years, Girart has an unusual request for his old friend...",
+          "cover": "https://image.tmdb.org/t/p/w780/bOSEcYAzKF8gx0QIpdmz0iLn91q.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "A Princesa de Bayrelich",
+          "overview": "Shin decides it's time to raise his adventurer rank, but waiting for him at the guild is royal summons from Bayrelicht.",
+          "cover": "https://image.tmdb.org/t/p/w780/xmfmOdprdCXubelzetX7SiVXDKa.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Demônio",
+          "overview": "Shin's summons to the castle doesn't go exactly as he thought it would when the princess challenges him to a duel. Then when the aftermath of their fight goes horribly awry, it's up to Schnee to investigate.",
+          "cover": "https://image.tmdb.org/t/p/w780/pJqMRKTBPZ8eEDEgGD4vcqEQgKD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "A Terra Santa Fechada",
+          "overview": "Shin and Princess Rionne now find themselves effectively trapped in the holy land, forced to fight their way out. Can Shin pull it off without revealing his true strength?",
+          "cover": "https://image.tmdb.org/t/p/w780/yKeC8YuPSF8XhHmki7mBqqVuytg.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "057-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Grande inundação",
+          "overview": "Shin and Rionne spy a large horde of monsters headed straight for Valmer, where they're supposed to meet up with Schnee and Tiera. Can they reach the city in time to save it?",
+          "cover": "https://image.tmdb.org/t/p/w780/dUV2UQYq9cKEkZepS1zlwm63mQK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/t/the-new-gate/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
