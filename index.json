@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T22:58:52Z",
+  "updatedAt": "2026-09-24T23:03:56Z",
   "animes": [
     {
       "id": "relife",
@@ -642,6 +642,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/060.json"
+    },
+    {
+      "id": "061",
+      "title": "Os Reinos da Ruína",
+      "cover": "https://image.tmdb.org/t/p/w780/kWSXGzg9DXxq8ijjCJQeDWhF6y9.jpg",
+      "year": 2023,
+      "type": "TV",
+      "episodes": 12,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/061.json"
     }
   ]
 }
