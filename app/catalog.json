@@ -379,6 +379,12 @@
       "file": "anime/047.json"
     },
     {
+      "id": "070",
+      "title": "Witch Craft Works",
+      "cover": "https://image.tmdb.org/t/p/w780/elt434eNLMhZQBM0tPu4mUkPqGo.jpg",
+      "file": "anime/070.json"
+    },
+    {
       "id": "069",
       "title": "Witch Watch",
       "cover": "https://image.tmdb.org/t/p/w780/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
