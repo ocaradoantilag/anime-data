@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "id": "058",
+  "updatedAt": "2026-09-24T22:41:54Z",
+  "title": {
+    "romaji": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "english": "Akashic Records of Bastard Magic Instructor",
+    "japanese": "ロクでなし魔術講師と禁忌教典(アカシックレコード)",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/drBuXuI6D7d7n0YntzTmLafQPJf.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/fgO75CVntyrDD0BnfQZat0Q2uiU.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "32951",
+    "tmdb": "70637",
+    "imdb": "tt6845846"
+  },
+  "information": {
+    "synopsis": "A Academia Imperial de Magia de Alzano está localizada no sul do Império Alzano, um dos maiores reinos mágicos, e é considerada uma das mais prestigiadas academias do mundo, onde estudantes podem aprender as formas mais elevadas de magia. Todos que desejam aprender magia sonham em estudar nessa academia, e tanto seus estudantes quanto seus professores têm orgulho de integrar sua história de 400 anos. Glenn Radars é um novo instrutor que foi escolhido para dar aulas em meio-período nessa respeitada academia. As aulas nunca antes vistas desse vagabundo imprestável estão prestes a começar!",
+    "year": 2017,
+    "score": 6.8,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "25 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Animação",
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "058-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2017,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "25 min per ep.",
+      "episodes": [
+        {
+          "id": "058-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O bastardo desmotivado",
+          "overview": "Glenn is a bastard who only sleeps instead of teaching class at the Alzano Imperial Magic Academy. When one of his excellent students, Sistine, finally gets fed up, she challenges him to a duel to make him teach properly.",
+          "cover": "https://image.tmdb.org/t/p/w780/hpzp0GgZYKdtJ41KnXUgFDmvSM0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Apenas um pouquinho de motivação",
+          "overview": "Even after losing the duel, Glenn lacks all motivation. Yet through his interactions with Sistine and Rumia, he eventually starts genuinely teaching classes that will help them. Meanwhile, suspicious men show up at the academy...",
+          "cover": "https://image.tmdb.org/t/p/w780/ecS6WcuBjLubaKjSWiuKC9QiYsM.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O Louco e a Morte",
+          "overview": "The evil mages infiltrating the academy are terrorists belonging to the magic society, Researchers of Divine Wisdom. In order to rescue his students taken captive, Glenn finally exercises his real power.",
+          "cover": "https://image.tmdb.org/t/p/w780/vFQArX1Ctk10qJgOdOdorsudKYB.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "A Competição Mágica",
+          "overview": "Hoping to earn the special reward, Glenn aims to win the magic competition. While Sistine and the others don't know his reason, they all work hard to meet his expectations and start showing unexpected results.",
+          "cover": "https://image.tmdb.org/t/p/w780/a3022rA5qIXNMptOnfJ03aU76Li.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "A Rainha e a Princesa",
+          "overview": "Rumia comes becomes a suspect during the magic competition and the imperial guard targets her life. Glenn manages to save her in the nick of time, but an unexpected individual stands in his way.",
+          "cover": "https://image.tmdb.org/t/p/w780/FzJsmwNa6ruejNfbigYiCLFmIH.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O Ser Maligno",
+          "overview": "The ones pulling the strings behind the imperial guard were the Researchers of Divine Wisdom. Glenn fights to clear Rumia of suspicion. Meanwhile, in the magic competition, the students of Class 2 face…",
+          "cover": "https://image.tmdb.org/t/p/w780/5kaRyMgId2oFPoZss99LCf5HsHJ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O Mar das Estrelas Cadentes",
+          "overview": "Re=L joins the academy to guard Rumia, and thanks to her interactions with Sistine and the others slowly integrates into class. She gets along well with her classmates at first during their field research, but…",
+          "cover": "https://image.tmdb.org/t/p/w780/8YxfSUCQYnO1EaVssS0h9wqGYdP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "O Louco e a Estrela",
+          "overview": "When they arrive at the location for their field research, Sistine and the others observe the white alchemy lab. On the way back, Re=L acts on her own, meeting with her long separated brother, and they confront Glenn as he rushes to the scene.",
+          "cover": "https://image.tmdb.org/t/p/w780/fcjnx992PkUGQ2JxBfPLu2qxUya.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "A razão para viver",
+          "overview": "Mortally wounded, Glenn manages to hang on by a thread thanks to Sistine's magic. They chase after Re=L who kidnapped Rumia, and Glen storms into the white alchemy lab alongside Albert.",
+          "cover": "https://image.tmdb.org/t/p/w780/3ibqr6OYODNVC2mOwHV8tBYcJ2n.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Escavador de Ouro!?",
+          "overview": "After returning from their field research, Glenn and the others spend their days in different ways. On one such day, Leos visits the academy as a guest instructor, and causes a stir by proclaiming himself Sistine's fiance.",
+          "cover": "https://image.tmdb.org/t/p/w780/babshhY21G3aMiItWY4TdfggwCY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Confronto! A Batalha do Corpo Mágico",
+          "overview": "Glenn and Leos enter a duel involving the other students in a magic corps battle. Leos's camp is well organized, but Glenn fights back with clever tactics.",
+          "cover": "https://image.tmdb.org/t/p/w780/zYanE1ebyhWtzeMT6gHy6hJvWYj.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "058-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Encontrando o próprio lugar",
+          "overview": "Preparations begin for Sistine and Leos' wedding ceremony. Rumia holds out faith that the vanished Glenn will return, but they still have no word from him by the day of the wedding.",
+          "cover": "https://image.tmdb.org/t/p/w780/zw1eb3fzN0ZfusB1Epmr32eAUea.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/r/rokudenashi-majutsu-koushi-to-akashic-records/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
