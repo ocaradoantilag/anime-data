@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "id": "056",
+  "updatedAt": "2026-09-24T22:34:16Z",
+  "title": {
+    "romaji": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+    "english": "Why Does Nobody Remember Me in This World?",
+    "japanese": "なぜ僕の世界を誰も覚えていないのか？",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/iDVzUTs4CYz0aRMcTdqKg5llsjS.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/nxpzuqlmmrbJAAE0tvFHmhXeGjN.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "56062",
+    "tmdb": "244672",
+    "imdb": "tt31844529"
+  },
+  "information": {
+    "synopsis": "Em um mundo onde humanos triunfaram em uma grande guerra, Kai protege criptas seladas contendo seus inimigos. Mas quando o \"Renascimento do Mundo\" reescreve a história, ele é lançado em uma realidade alternativa onde a humanidade perdeu a guerra e ele foi esquecido por todos que ele conhece. Agora este herói perdido precisa se impor para restaurar o equilíbrio do mundo!",
+    "year": 2024,
+    "score": 6.2,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Verão",
+    "aired": "",
+    "studios": [
+      "project No.9"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Animação",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Mistério"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "056-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "056-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O menino esquecido pelo mundo",
+          "overview": "Kai's duty as a member of the Human Protection Agency is to ensure that the four races from The Great War are kept sealed in their graveyards. Humanity has been at peace for 100 years, until one day a portal opens and the world he's known ceases to exist.",
+          "cover": "https://image.tmdb.org/t/p/w780/mhR14fjKYoAC0hQrBXt991jij4P.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=0"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Rinne",
+          "overview": "In the graveyard where the demons were entombed in his world, Kai finds a girl whom he cannot identify as any of the known races. When she asks him for help, he doesn't hesitate for long. After freeing her from her chains, mysterious things happen again.",
+          "cover": "https://image.tmdb.org/t/p/w780/imk1Q2tFtso7LyjbDTuZj1gQOm4.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=1"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O Herói dos Demônios",
+          "overview": "After the demon attack on Neo Vishal, the resistance launches a major offensive against the demons and their heroine with the help of Kai and Rinne. But will Kai's knowledge from his world and Rinne's powers be enough to defeat the demons?",
+          "cover": "https://image.tmdb.org/t/p/w780/oV5VDJWBZ5bhOL4QNQ0670nXaUO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=2"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Assim, o mundo foi registrado",
+          "overview": "While Kai and Rinne confront the heroine of the demons, one of those mysterious beings reappears and tries to remove Vanessa from the world. However, Vanessa manages to fight it off. She then turns her attention back to Kai and Rinne.",
+          "cover": "https://image.tmdb.org/t/p/w780/it8mUSowY5qZIECLLY9iDtjBfQ0.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=3"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Para o Leste do Mundo",
+          "overview": "After finally driving the demons out of the capital, Urza's resistance sets out for the Federation of Io, whose resistance has requested support against the divine beings. However, it quickly becomes clear that not everyone welcomes this support.",
+          "cover": "https://image.tmdb.org/t/p/w780/3HlGRB6rF940Uv6G6cp4rgSBk7v.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=4"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Floresta Élfica",
+          "overview": "Jeanne and Urza's resistance encounter remnants of the Io resistance in the Elfan Forest. Following the trail, they arrive at the Elf Village, where the leader of the elves is already waiting to present them with a proposal.",
+          "cover": "https://image.tmdb.org/t/p/w780/3mA1S31Rk4E07mAM6lFQox1FIIF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=5"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Anjo sem coração",
+          "overview": "Urza's resistance, along with Reiren, confronts the Lord of the Heavens, Alfreya, who is attempting to subjugate the divine beings. However, Alfreya appears to possess powers that surpass even those of a hero.",
+          "cover": "https://image.tmdb.org/t/p/w780/bbknWoARFM1NE8BuwaGEQJWyUiz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=6"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Purgatório Celestial",
+          "overview": "Once again, a Last Riser seems to be connected to the sudden change in a hero's nature. Will Kai and his companions be able to defeat Alfreya? And what impact will this have on the relationship between humans and the divine beings?",
+          "cover": "https://image.tmdb.org/t/p/w780/xavmvqT7bIRfCU0vmYJZsbkb0VF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=7"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "O Centro do Mundo",
+          "overview": "The spirit hero, \"Spirit Sovereign Rikugen Kyoko\" and the mythical beast hero, \"Fang King Rath=IE\" face off, with the fate of their races in the balance. Meanwhile, Kai and his companions head south to the Yulun Federation.",
+          "cover": "https://image.tmdb.org/t/p/w780/4diSVVB0TLSTlyIlE5PjUZLvZ0c.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "O Profeta deste mundo",
+          "overview": "Guided by a mysterious voice, Kai, Rinne, and Jeanne enter Megalith. Awaiting them at the end is a stone statue of The Prophetic God Arsla Solaka. Kai is confused as he thought the Prophetic God was nothing more than a legend.",
+          "cover": "https://image.tmdb.org/t/p/w780/sLQd3dPoSjlvTU9GoiUjVfPyvqA.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=9"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Para onde está o destino",
+          "overview": "The resistance gets into a battle against the heroine of the spirit beings, but in the midst of it, a Last Riser appears. After the battle, they decide to get to the bottom of the mystery of the Last Risers. And so they proceed to the next tomb.",
+          "cover": "https://image.tmdb.org/t/p/w780/uspqQPEa5fMrgJ4PT2dYjVI9aEO.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=10"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "056-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Aqueles que quebram o ciclo interminável da reencarnação mundial",
+          "overview": "A battle begins between Last Riser and Kai with Kyoko’s aid. Rinne, frozen out of fear, recalls her past with Sid. They manage to lure the monster out of the graveyard as all the races join forces to defeat one enemy; The enemy of the world, Last Riser.",
+          "cover": "https://image.tmdb.org/t/p/w780/5Hjv3VxuYx9Dq4IF3cprYfWpANY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://embed-ssl.wistia.com/deliveries/2e3a9d579b20c2033094a6cd7bd6a751.bin?u=0&b=11"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
