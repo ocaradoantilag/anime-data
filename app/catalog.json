@@ -379,6 +379,12 @@
       "file": "anime/047.json"
     },
     {
+      "id": "069",
+      "title": "Witch Watch",
+      "cover": "https://image.tmdb.org/t/p/w780/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
+      "file": "anime/069.json"
+    },
+    {
       "id": "068",
       "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
       "cover": "https://image.tmdb.org/t/p/w780/kwV4MylQoDhz14Qd54z3Hq4qppf.jpg",
