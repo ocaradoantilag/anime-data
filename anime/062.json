@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "062",
+  "updatedAt": "2026-09-24T23:07:58Z",
+  "title": {
+    "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+    "english": "The Unaware Atelier Meister",
+    "japanese": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/6IxxJnQ7Lx5hsDoNsTChDGiVXVC.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/pLWdn8zZcljxHaVGiACNFVrYPMv.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "60140",
+    "tmdb": "277881",
+    "imdb": "tt35014218"
+  },
+  "information": {
+    "synopsis": "Kurt, um garoto de bom coração, é inesperadamente expulso do Grupo dos Heróis por não ser considerado bom o bastante, tendo a pior aptidão para armas, magia e qualquer habilidade de combate. Para sobreviver, ele começa a trabalhar em serviços simples, como reparar muros do castelo e mineração. Porém, é nessas tarefas que suas habilidades excepcionais vêm à tona. Kurt se mostra incrivelmente talentoso em cozinhar, construir, minerar, criar ferramentas mágicas e muito mais... Na verdade, todas as suas habilidades não relacionadas ao combate têm classificação SSS! Mesmo sem perceber o quão incrível ele é, Kurt acaba salvando pessoas, a cidade e até mesmo o país inteiro com suas ações despretensiosas!",
+    "year": 2025,
+    "score": 6.4,
+    "ageRating": "",
+    "type": "ONA",
+    "status": "Finalizado",
+    "duration": "24 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "EMT Squared"
+    ],
+    "genres": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Animação",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "062-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2025,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "24 min per ep.",
+      "episodes": [
+        {
+          "id": "062-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "O cara encarregado das tarefas com baixa autoestima acabou por possuir habilidades incríveis",
+          "overview": "After he's fired from his party of heroes, the 15-year-old Kurt turns to a temp agency for work.",
+          "cover": "https://image.tmdb.org/t/p/w780/frXxvbiHHAsbt6bsYs8nDVgus0x.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Seu primeiro ateliê",
+          "overview": "Kurt accepts an offer from Bandana to go work at his first Atelier, which harbors a dangerous secret.",
+          "cover": "https://image.tmdb.org/t/p/w780/fQR2iPnlSHiT3xvPGqnGfVhYg7r.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "O que a mineração significa para ele",
+          "overview": "While Ophelia and the others discuss plans to uncover who cursed Liselotte, Kurt takes a job as a porter.",
+          "cover": "https://image.tmdb.org/t/p/w780/paCDXBRrWY0r6OogJNQpvliRpgb.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Novos amigos em um novo ateliê",
+          "overview": "Yulishia establishes a new atelier in the frontier town without letting Kurt know he's its atelier meister.",
+          "cover": "https://image.tmdb.org/t/p/w780/vUkUTrHwO6esndyC5pmmxPFTpK5.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Uma cidade fronteiriça com inimigos por todos os lados",
+          "overview": "Tristan & a demon lord force Marlefiss to summon hordes of monsters to attack the town in order to kill Lise.",
+          "cover": "https://image.tmdb.org/t/p/w780/4ZB6nmFaDxwyQu2ZbRjxWmC96ZF.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "A Nona Direção",
+          "overview": "Kurt tunnels into the ruins from underground and saves Marlefiss while his allies defeat the demon lord.",
+          "cover": "https://image.tmdb.org/t/p/w780/1191AUEfUDrYMBCnWlHqLqmJcUt.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "O novo papai de um ovo misterioso",
+          "overview": "After helping a village with a water shortage, Kurt receives an egg that hatches into a 3-year old girl.",
+          "cover": "https://image.tmdb.org/t/p/w780/AgklZJzljTHbfqM7XpGuFi1bt5i.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Fwoosh de Akuri",
+          "overview": "While Kurt and Yulishia help a farm with their pigs, a demon tries to take away Akuri.",
+          "cover": "https://image.tmdb.org/t/p/w780/rTLKKVJHlahz5mhNrYA5LKxNk1K.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Confissão de Lise",
+          "overview": "Mimico reports on Akuri and interrogates Solflare. Then Kurt & Lise go on a date before the rescue mission.",
+          "cover": "https://image.tmdb.org/t/p/w780/8V83q6sL9AayWjB2Jds5FlgMDTQ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Encontro de Yulishia",
+          "overview": "Yulishia's date with Kurt is ruined when thugs harass a local meat bun shop over a cooking competition.",
+          "cover": "https://image.tmdb.org/t/p/w780/qnCuQl3BtmHjispltYfnTSM0Z99.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "O Segredo do Marquês",
+          "overview": "While the group distracts the Margrave, Akuri warps Kurt into the forbidden room hiding the Margrave's secret.",
+          "cover": "https://image.tmdb.org/t/p/w780/aUpkUYW51R1jc0QHU0hPnQFBWYz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "062-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Uma história comum sobre como o ex-chefe de tarefas de um grupo de heróis era na verdade classificado como SSS em todos, exceto habilidades de combate",
+          "overview": "The Margrave tries to summon a demon to save his daughter. After he fails, the mastermind summons it anyway.",
+          "cover": "https://image.tmdb.org/t/p/w780/o5fB5YFhQVoExIPXo8WKcrt4VlD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kanchigai-no-atelier-meister/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
