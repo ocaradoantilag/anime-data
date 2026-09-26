@@ -187,6 +187,12 @@
       "file": "anime/028.json"
     },
     {
+      "id": "073",
+      "title": "Kenka Dokugaku",
+      "cover": "https://image.tmdb.org/t/p/w780/biUCx1p4dAImAuqti1caxqKVzE7.jpg",
+      "file": "anime/073.json"
+    },
+    {
       "id": "051",
       "title": "Kimi ni Todoke",
       "cover": "https://image.tmdb.org/t/p/w780/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
