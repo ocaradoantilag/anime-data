@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "id": "074",
+  "updatedAt": "2026-09-26T14:54:25Z",
+  "title": {
+    "romaji": "七つの魔剣が支配する",
+    "english": "O Reino das Sete Magilâminas",
+    "japanese": "七つの魔剣が支配する",
+    "synonyms": [
+      "Reign of the Seven Spellblades"
+    ]
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/cr3Ycy5JAcdK1eFU01ebOyBYEEN.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "",
+    "tmdb": "153337",
+    "imdb": "tt27845099"
+  },
+  "information": {
+    "synopsis": "A primavera chegou na Academia de Magia Kimberly e novos alunos estão iniciando seu primeiro ano! Entre esses alunos, estão um garoto habilidoso e estudioso chamado Oliver, e uma garota samurai obstinada chamada Nanao. Os dois não demoram a formar um vínculo único nos corredores da escola, mas este pitoresco lugar não é o que parece ser... Segredos obscuros e perigos sem fim espreitam nas sombras. Serás que esses magos conseguirão chegar à formatura vivos?!",
+    "year": 2023,
+    "score": 6.75,
+    "ageRating": "",
+    "type": "TV",
+    "status": "",
+    "duration": "",
+    "season": "",
+    "aired": "",
+    "studios": [],
+    "genres": [],
+    "themes": [],
+    "episodes": 15
+  },
+  "episodes": 15,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "074-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2023,
+      "status": "",
+      "episodeCount": 15,
+      "duration": "",
+      "episodes": [
+        {
+          "id": "074-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Cerimônia",
+          "overview": "New student Oliver arrives at Kimberly Magic Academy, a house of learning where 20% of the students don't make it out in one piece.",
+          "cover": "https://image.tmdb.org/t/p/w780/uTTKIA2FMguWPdHrUEm5do8NPUP.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Artes da Espada",
+          "overview": "The new students settle into life at Kimberly, and Oliver has an intense duel with Nanao.",
+          "cover": "https://image.tmdb.org/t/p/w780/dLSssuOw0nDXn3ccdCgg62YQFdK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "Soldado",
+          "overview": "The new students find themselves trapped in Kimberly at night, with two powerful upperclassmen out to recruit them dead or alive.",
+          "cover": "https://image.tmdb.org/t/p/w780/5TjLJMZNzVCZIiFHpB78r9iW6mY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Coliseu",
+          "overview": "After Katie is bullied by the other students, her friends end up in a classroom brawl. But that won't be the only fight they see...",
+          "cover": "https://image.tmdb.org/t/p/w780/oYSzyJFSQ7YnnlKP0CoWw3S6TQc.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Brilho",
+          "overview": "Nanao and Oliver face down a powerful foe who has designs on Katie.",
+          "cover": "https://image.tmdb.org/t/p/w780/72qTINFt89Bw9vyDUVHAVmQu6eL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "Surgir",
+          "overview": "Oliver and Nanao battle a powerful mage with an enchanted eye, and the true purpose of Oliver's coming to Kimberly is revealed.",
+          "cover": "https://image.tmdb.org/t/p/w780/3yXj4rbERjeyQ913ab2cZRuXOjx.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Eu voltei",
+          "overview": "Oliver and friends attend their first broomriding class. Meanwhile, Pete discovers something unexpected about himself.",
+          "cover": "https://image.tmdb.org/t/p/w780/inXb4poUtCXxe8gwsEkitHOE2hm.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Rivais",
+          "overview": "Another student challenges Oliver and his friends to see who's really the strongest of their grade.",
+          "cover": "https://image.tmdb.org/t/p/w780/6iGgsMwLcOkqtttF3QAYPZWe85U.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Explorar",
+          "overview": "Katie is given a workshop, and she and her friends go into the labyrinth to take a look at it.",
+          "cover": "https://image.tmdb.org/t/p/w780/8h2ATB7iYbTcg02e14lw7nJuaKz.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Mestre e Cavaleiro",
+          "overview": "Oliver and his friends are caught in a brutal team battle against other students deep within the labyrinth.",
+          "cover": "https://image.tmdb.org/t/p/w780/i31z3F0Wx2uMeRpyXgOB05Vi1FW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Obrigação",
+          "overview": "Oliver and Chela fight a duel deep in the labyrinth, against an opponent who will do anything to avoid defeat.",
+          "cover": "https://image.tmdb.org/t/p/w780/xALQcvPEEie0BgIeMdRjpJFBw2b.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Possibilidade",
+          "overview": "Oliver and Chela recruit an unexpected ally to help them venture into the labyrinth and get back Pete.",
+          "cover": "https://image.tmdb.org/t/p/w780/eyvMsFQ7auDdJy2ldU5jUPF5jhY.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-13",
+          "number": "13",
+          "sortOrder": 13,
+          "title": "Floresta Barulhenta",
+          "overview": "Nanao, Oliver, and Chela venture through the labyrinth, encountering strange creatures and deadly threats.",
+          "cover": "https://image.tmdb.org/t/p/w780/wi4qjWtpRJ4FGve8Jn0Pc4WPTGD.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/13.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-14",
+          "number": "14",
+          "sortOrder": 14,
+          "title": "salvadorenho",
+          "overview": "As everyone heads deeper beneath the academy, Godfrey and Carlos think back to Ophelia's past.",
+          "cover": "https://image.tmdb.org/t/p/w780/uDO7jtuJ3hySU7afwZG4G61fsft.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/14.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "074-1-15",
+          "number": "15",
+          "sortOrder": 15,
+          "title": "Última música",
+          "overview": "Ophelia's plan reaches its climax, trapping Oliver and his friends inside another world where she rules.",
+          "cover": "https://image.tmdb.org/t/p/w780/4NnIP7L5VVTg7ilyS1G3sV9vhoZ.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/n/nanatsu-no-maken-ga-shihai-suru/15.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
