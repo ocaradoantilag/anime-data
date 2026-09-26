@@ -419,6 +419,12 @@
       "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
       "cover": "https://image.tmdb.org/t/p/w780/kwV4MylQoDhz14Qd54z3Hq4qppf.jpg",
       "file": "anime/068.json"
+    },
+    {
+      "id": "074",
+      "title": "七つの魔剣が支配する",
+      "cover": "https://image.tmdb.org/t/p/w780/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg",
+      "file": "anime/074.json"
     }
   ]
 }
