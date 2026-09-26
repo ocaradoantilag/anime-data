@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "073",
+  "updatedAt": "2026-09-26T14:46:48Z",
+  "title": {
+    "romaji": "Kenka Dokugaku",
+    "english": "Viral Hit",
+    "japanese": "喧嘩独学",
+    "synonyms": []
+  },
+  "images": {
+    "cover": "https://image.tmdb.org/t/p/w780/biUCx1p4dAImAuqti1caxqKVzE7.jpg",
+    "background": [
+      "https://image.tmdb.org/t/p/w1280/wBnmxSBxaP5VrNFVsZuruERb1Cv.jpg"
+    ]
+  },
+  "externalIds": {
+    "mal": "58080",
+    "tmdb": "246029",
+    "imdb": "tt31975855"
+  },
+  "information": {
+    "synopsis": "O estudante magricelo do ensino médio, Hobin Yu, é provavelmente o último cara que você esperaria ver como protagonista de um canal do NewTube focado em lutas. Mas depois de seguir alguns conselhos que viu em um misterioso canal no NewTube, Hobin logo está derrubando caras bem mais fortes do que ele e ganhando mais dinheiro do que jamais poderia imaginar. Será que Hobin conseguirá manter isso, ou acabará encontrando um adversário à altura?",
+    "year": 2024,
+    "score": 7.1,
+    "ageRating": "",
+    "type": "TV",
+    "status": "Finalizado",
+    "duration": "23 min per ep.",
+    "season": "Primavera",
+    "aired": "",
+    "studios": [
+      "Okuruto Noboru"
+    ],
+    "genres": [
+      "Ação",
+      "Comédia",
+      "Animação",
+      "Action & Adventure"
+    ],
+    "themes": [],
+    "episodes": 12
+  },
+  "episodes": 12,
+  "recommended": false,
+  "trending": false,
+  "newEpisodes": false,
+  "parts": [
+    {
+      "id": "073-season-1",
+      "title": "Temporada 1",
+      "type": "TV",
+      "number": 1,
+      "seasonNumber": 1,
+      "year": 2024,
+      "status": "Finalizado",
+      "episodeCount": 12,
+      "duration": "23 min per ep.",
+      "episodes": [
+        {
+          "id": "073-1-01",
+          "number": "1",
+          "sortOrder": 1,
+          "title": "Primeiro upload",
+          "overview": "With his mother in the hospital, Hobin Yu can only look on in envy as his classmates make obscene amounts of money from live streaming on NewTubu, but when he accidentally goes viral, a new world of possibilities opens up to him.",
+          "cover": "https://image.tmdb.org/t/p/w780/xG54T2JtsnR9qSg2nLQMoLghkRs.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/01.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-02",
+          "number": "2",
+          "sortOrder": 2,
+          "title": "Eu tenho que me tornar mais forte",
+          "overview": "After tasting viral success, Hobin and Snapper try to come up with ways to keep their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds out he's not as ready for a fight as he thought he was.",
+          "cover": "https://image.tmdb.org/t/p/w780/sQzxNB9zNNBdkw7qhmlO2WIhdlT.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/02.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-03",
+          "number": "3",
+          "sortOrder": 3,
+          "title": "A data",
+          "overview": "In an attempt to get back his phone that has Bomi's precious contact info on it, Hobin confronts the couple who mugged him in a karaoke booth live on stream.",
+          "cover": "https://image.tmdb.org/t/p/w780/x4B0IvkcxKTH8Pz640yITsjc8W8.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/03.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-04",
+          "number": "4",
+          "sortOrder": 4,
+          "title": "Humilhação",
+          "overview": "Munseong's arrival leaves Hobin feeling like a third wheel, so he makes his excuses and leaves. But after a pep talk from Snapper, he returns with the intention of telling Bomi exactly how he feels.",
+          "cover": "https://image.tmdb.org/t/p/w780/kXMKdzCLBiHshpDDdcUAWC3xrz1.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/04.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-05",
+          "number": "5",
+          "sortOrder": 5,
+          "title": "Amigos",
+          "overview": "",
+          "cover": "https://image.tmdb.org/t/p/w780/3PENBE4BoNN2v7uDkns9GTapmLW.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/05.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-06",
+          "number": "6",
+          "sortOrder": 6,
+          "title": "O Diabo",
+          "overview": "With Pakgo finally out of the picture and a new video editor on board, Hobin and Snapper turn their attentions to the next bully they are going to challenge.",
+          "cover": "https://image.tmdb.org/t/p/w780/kJJJc7xSEFN02NQuupGVTs1M41c.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/06.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-07",
+          "number": "7",
+          "sortOrder": 7,
+          "title": "Treinamento Especial",
+          "overview": "Taehun is Hobin's next opponent, but unlike Pakgo, Taehun is a trained martial artist specializing in taekwondo who used to fight in an MMA series. Can Hobin really defeat a former pro?",
+          "cover": "https://image.tmdb.org/t/p/w780/xYGbuqpmYmuzYbHYIP1jQ55n1oL.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/07.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-08",
+          "number": "8",
+          "sortOrder": 8,
+          "title": "Uma verdadeira luta",
+          "overview": "After a month of training, Hobin feels he is ready to take on taekwondo specialist Taehun. But despite much of the early sparring going his way, Hobin quickly realizes how big the gulf in skill is between them.",
+          "cover": "https://image.tmdb.org/t/p/w780/hK9LA9x37AI2oWHJgOwhS07tUS3.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/08.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-09",
+          "number": "9",
+          "sortOrder": 9,
+          "title": "Camaradas",
+          "overview": "Despite her impressive editing skills and everyone describing her as cute, first-year Gaeul isn't immune to being bullied. Will Hobin and Snapper leap to her aid?",
+          "cover": "https://image.tmdb.org/t/p/w780/uS28JLpgUsG983eCkJBEm3nj4an.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/09.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-10",
+          "number": "10",
+          "sortOrder": 10,
+          "title": "Um novo inimigo",
+          "overview": "The prank videos shot by the Navel Musketeers were maliciously edited to deceive viewers. When Kota learned that Asamiya got injured in one of their pranks, he decided to challenge the Navel Musketeers to a live-streamed battle. Is there a way to win against multiple opponents?",
+          "cover": "https://image.tmdb.org/t/p/w780/iCpwUdus92z7JzpdvVulXq6dvVI.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/10.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-11",
+          "number": "11",
+          "sortOrder": 11,
+          "title": "Uma sensação de aperto no peito",
+          "overview": "Hobin's intimidation tactics don't go exactly as planned, so he's forced to fall back on moves he perfected for previous fights without Samdak's guiding voice booming around his head to get him through.",
+          "cover": "https://image.tmdb.org/t/p/w780/qROsVw77hvNaZecjue1YtXr6r3A.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/11.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        },
+        {
+          "id": "073-1-12",
+          "number": "12",
+          "sortOrder": 12,
+          "title": "Alegria",
+          "overview": "Despite seemingly being outmatched in every department, Hobin challenges Ssireum wrestler, Mangi Hwang, to a rematch, but is this one fight too far for the amateur fighter?",
+          "cover": "https://image.tmdb.org/t/p/w780/hQqpEYv0gjGp1SXjdPmuaawc4IK.jpg",
+          "filler": false,
+          "recap": false,
+          "versions": [
+            {
+              "type": "subbed",
+              "language": "pt-BR",
+              "sources": [
+                {
+                  "name": "Servidor 1",
+                  "url": "https://cdn-sv01.maximaimg.online/stream/k/kenka-dokugaku/12.mp4/index.m3u8"
+                }
+              ],
+              "subtitles": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
