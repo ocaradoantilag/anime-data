@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-25T18:16:08Z",
+  "updatedAt": "2026-09-26T14:43:17Z",
   "animes": [
     {
       "id": "relife",
@@ -774,6 +774,18 @@
       "trending": false,
       "newEpisodes": false,
       "file": "anime/071.json"
+    },
+    {
+      "id": "072",
+      "title": "Ninja Kamui",
+      "cover": "https://image.tmdb.org/t/p/w780/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg",
+      "year": 2024,
+      "type": "TV",
+      "episodes": 13,
+      "recommended": false,
+      "trending": false,
+      "newEpisodes": false,
+      "file": "anime/072.json"
     }
   ]
 }
